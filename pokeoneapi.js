@@ -7,7 +7,7 @@ var fs = require('fs');
 const sf = require('snekfetch');
 
 
-var server = app.listen(81, listening);
+var server = app.listen(80, listening);
 
 function listening() {
     console.log("API Listening!")
@@ -30,7 +30,7 @@ var limiter = new RateLimit({
   message: `Max API Calls reached for this (${apiTimelimit} minutes) Window\nIf you need more then (${apiTotalCalls}/${apiTimelimit}min) Contact AussieGamer1994#2751 on discord`
 });
 
- 
+ app.use(express.static("pics"))
 //  apply to all requests
 app.use('/public/', limiter);
 
@@ -457,5 +457,32 @@ function sendNature (request, response) {
 }
 
 //Abiliies
+
+app.get('/public/ability/:search?', sendAbility);
+app.get('/private/ability/:search?', sendAbility);
+
+function sendAbility(request, response) {
+    var ability = fs.readFileSync('./data/abilities/ability.json')
+    var abilityinfo = JSON.parse(ability);
+    var abilityData = request.params.search;
+    var reply;
+
+    if (abilityinfo[abilityData]) {
+    reply = {
+    status : "200",
+    ability: abilityData,
+    info: abilityinfo[abilityData]
+    }
+    } else {
+    reply = {
+        status: "404",
+        ability: abilityData,
+        info: "Not Found"
+    };
+    }
+
+    response.send(reply)
+}
+
 
 //Raids
