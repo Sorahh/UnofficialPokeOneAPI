@@ -1,4 +1,7 @@
-/data/
 /tokens
 /bans
 /node_modules
+/data/ingame/quests.json
+/data/ingame/achievements.json
+/data/ingame/spawns.json
+/data/ingame/store.json
