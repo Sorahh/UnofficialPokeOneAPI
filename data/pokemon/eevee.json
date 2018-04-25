@@ -74,36 +74,36 @@
       "to": "Espeon",
       "happiness": true,
       "conditions": [
-        "Daytime"
+        "during the day"
       ]
     },
     {
       "to": "Umbreon",
       "happiness": true,
       "conditions": [
-        "Nighttime"
+        "during the night"
       ]
     },
     {
       "to": "Leafeon",
       "level_up": true,
       "conditions": [
-        "Near a Mossy Rock"
+        "near a Mossy Rock"
       ]
     },
     {
       "to": "Glaceon",
       "level_up": true,
       "conditions": [
-        "Near an Icy Rock"
+        "near an Icy Rock"
       ]
     },
     {
       "to": "Sylveon",
       "level_up": true,
       "conditions": [
-        "Fairy Type Move",
-        "Maximum Affection in Pokémon Amie"
+        "knowing a fairy-type move",
+        "with 2 hearts of affection"
       ]
     }
   ],

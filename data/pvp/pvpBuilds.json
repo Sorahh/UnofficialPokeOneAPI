@@ -1,0 +1,62 @@
+{
+    "pokemonName": {
+        "builds": {
+            "buildOne": {
+                "name": "BuildName",
+                "ability": "",
+                "nature": "",
+                "hold": "",
+                "moves": [
+                    "Move1",
+                    "Move2",
+                    "Move3",
+                    "Move4"
+                ],
+                "ivs": {
+                    "hp": "",
+                    "atk": "",
+                    "def": "",
+                    "spatk": "",
+                    "spdef": "",
+                    "speed": ""
+                },
+                "evs": {
+                    "hp": "",
+                    "atk": "",
+                    "def": "",
+                    "spatk": "",
+                    "spdef": "",
+                    "speed": ""
+                }
+            },
+            "buildTwo": {
+                "name": "BuildName",
+                "ability": "",
+                "nature": "",
+                "hold": "",
+                "moves": [
+                    "Move1",
+                    "Move2",
+                    "Move3",
+                    "Move4"
+                ],
+                "ivs": {
+                    "hp": "",
+                    "atk": "",
+                    "def": "",
+                    "spatk": "",
+                    "spdef": "",
+                    "speed": ""
+                },
+                "evs": {
+                    "hp": "",
+                    "atk": "",
+                    "def": "",
+                    "spatk": "",
+                    "spdef": "",
+                    "speed": ""
+                }
+            }
+        }
+    }
+}
