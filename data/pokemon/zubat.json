@@ -249,19 +249,19 @@
         },
         {
           "move": "Razor Wind",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Whirlwind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -332,19 +332,19 @@
         },
         {
           "move": "Razor Wind",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Whirlwind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -440,11 +440,11 @@
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -571,11 +571,11 @@
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -719,7 +719,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -875,7 +875,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1030,7 +1030,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1206,15 +1206,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Defog",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1429,15 +1429,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Defog",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1653,11 +1653,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1889,15 +1889,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2105,15 +2105,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2325,15 +2325,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2565,15 +2565,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2809,11 +2809,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -3053,11 +3053,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",

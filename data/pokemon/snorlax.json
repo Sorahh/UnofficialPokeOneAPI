@@ -252,31 +252,31 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Mega Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Mega Kick",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Body Slam",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -431,31 +431,31 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Mega Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Mega Kick",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Body Slam",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -631,43 +631,43 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Dynamic Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Headbutt",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Rollout",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Zap Cannon",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Rock Smash",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Psych Up",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -834,43 +834,43 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Dynamic Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Headbutt",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Rollout",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Zap Cannon",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Rock Smash",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Psych Up",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -1070,23 +1070,23 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1282,23 +1282,23 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1489,23 +1489,23 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1713,31 +1713,31 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Rock Climb",
-          "tm": "HM8"
+          "tm": "HM08"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1988,31 +1988,31 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Rock Climb",
-          "tm": "HM8"
+          "tm": "HM08"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2268,35 +2268,35 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Whirlpool",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Rock Climb",
-          "tm": "HM8"
+          "tm": "HM08"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2568,15 +2568,15 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2852,15 +2852,15 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3140,15 +3140,15 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3436,19 +3436,19 @@
         },
         {
           "move": "Surf",
-          "tm": "HM3"
+          "tm": "HM03"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3736,11 +3736,11 @@
         },
         {
           "move": "Work Up",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -4016,11 +4016,11 @@
         },
         {
           "move": "Work Up",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",

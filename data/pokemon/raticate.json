@@ -275,15 +275,15 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Body Slam",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -390,15 +390,15 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Body Slam",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -534,31 +534,31 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Headbutt",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Rock Smash",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Hidden Power",
@@ -717,31 +717,31 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Headbutt",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Rock Smash",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Hidden Power",
@@ -913,23 +913,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1097,23 +1097,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1280,23 +1280,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1504,23 +1504,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1779,23 +1779,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2055,23 +2055,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2335,19 +2335,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2603,19 +2603,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2871,19 +2871,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3139,23 +3139,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3521,21 +3521,21 @@
         },
         {
           "move": "Work Up",
-          "tm": "TM1",
+          "tm": "TM01",
           "variations": [
             "Raticate"
           ]
         },
         {
           "move": "Roar",
-          "tm": "TM5",
+          "tm": "TM05",
           "variations": [
             "Raticate"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Raticate"
           ]
@@ -3752,28 +3752,28 @@
         },
         {
           "move": "Roar",
-          "tm": "TM5",
+          "tm": "TM05",
           "variations": [
             "Alolan Raticate"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Alolan Raticate"
           ]
         },
         {
           "move": "Bulk Up",
-          "tm": "TM8",
+          "tm": "TM08",
           "variations": [
             "Alolan Raticate"
           ]
         },
         {
           "move": "Venoshock",
-          "tm": "TM9",
+          "tm": "TM09",
           "variations": [
             "Alolan Raticate"
           ]
@@ -4241,21 +4241,21 @@
         },
         {
           "move": "Work Up",
-          "tm": "TM1",
+          "tm": "TM01",
           "variations": [
             "Raticate"
           ]
         },
         {
           "move": "Roar",
-          "tm": "TM5",
+          "tm": "TM05",
           "variations": [
             "Raticate"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Raticate"
           ]
@@ -4472,28 +4472,28 @@
         },
         {
           "move": "Roar",
-          "tm": "TM5",
+          "tm": "TM05",
           "variations": [
             "Alolan Raticate"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Alolan Raticate"
           ]
         },
         {
           "move": "Bulk Up",
-          "tm": "TM8",
+          "tm": "TM08",
           "variations": [
             "Alolan Raticate"
           ]
         },
         {
           "move": "Venoshock",
-          "tm": "TM9",
+          "tm": "TM09",
           "variations": [
             "Alolan Raticate"
           ]

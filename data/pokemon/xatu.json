@@ -257,23 +257,23 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Psych Up",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -420,23 +420,23 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Psych Up",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -596,19 +596,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -772,19 +772,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -947,19 +947,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1163,19 +1163,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Defog",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1446,19 +1446,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Defog",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1730,15 +1730,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2022,19 +2022,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2290,19 +2290,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2566,19 +2566,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2862,19 +2862,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3162,15 +3162,15 @@
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3454,15 +3454,15 @@
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",

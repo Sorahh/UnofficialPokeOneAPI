@@ -468,15 +468,15 @@
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Bulk Up",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Hidden Power",
@@ -1066,21 +1066,21 @@
         },
         {
           "move": "Roar",
-          "tm": "TM5",
+          "tm": "TM05",
           "variations": [
             "Midday Form"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Midday Form"
           ]
         },
         {
           "move": "Bulk Up",
-          "tm": "TM8",
+          "tm": "TM08",
           "variations": [
             "Midday Form"
           ]
@@ -1241,21 +1241,21 @@
         },
         {
           "move": "Roar",
-          "tm": "TM5",
+          "tm": "TM05",
           "variations": [
             "Midnight Form"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Midnight Form"
           ]
         },
         {
           "move": "Bulk Up",
-          "tm": "TM8",
+          "tm": "TM08",
           "variations": [
             "Midnight Form"
           ]

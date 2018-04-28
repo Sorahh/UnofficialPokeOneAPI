@@ -233,19 +233,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -356,19 +356,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -492,19 +492,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Bullet Seed",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -624,19 +624,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Bullet Seed",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -755,19 +755,19 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Bullet Seed",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -891,15 +891,15 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Bullet Seed",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -1078,15 +1078,15 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Bullet Seed",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -1270,15 +1270,15 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Bullet Seed",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -1470,15 +1470,15 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -1646,15 +1646,15 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -1830,15 +1830,15 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2034,15 +2034,15 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2250,11 +2250,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2458,11 +2458,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",

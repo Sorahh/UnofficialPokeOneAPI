@@ -282,11 +282,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Body Slam",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Rage",
@@ -377,11 +377,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Body Slam",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Rage",
@@ -489,19 +489,19 @@
         },
         {
           "move": "Dynamic Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Zap Cannon",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -644,19 +644,19 @@
         },
         {
           "move": "Dynamic Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Zap Cannon",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -820,7 +820,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -992,7 +992,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1163,7 +1163,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1367,11 +1367,11 @@
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1622,11 +1622,11 @@
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1878,11 +1878,11 @@
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2142,15 +2142,15 @@
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2394,15 +2394,15 @@
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2650,15 +2650,15 @@
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -2922,15 +2922,15 @@
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Venoshock",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Hidden Power",
@@ -3478,14 +3478,14 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Grimer"
           ]
         },
         {
           "move": "Venoshock",
-          "tm": "TM9",
+          "tm": "TM09",
           "variations": [
             "Grimer"
           ]
@@ -3716,14 +3716,14 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Alolan Grimer"
           ]
         },
         {
           "move": "Venoshock",
-          "tm": "TM9",
+          "tm": "TM09",
           "variations": [
             "Alolan Grimer"
           ]
@@ -4396,14 +4396,14 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Grimer"
           ]
         },
         {
           "move": "Venoshock",
-          "tm": "TM9",
+          "tm": "TM09",
           "variations": [
             "Grimer"
           ]
@@ -4634,14 +4634,14 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Alolan Grimer"
           ]
         },
         {
           "move": "Venoshock",
-          "tm": "TM9",
+          "tm": "TM09",
           "variations": [
             "Alolan Grimer"
           ]

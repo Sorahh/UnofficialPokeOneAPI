@@ -256,11 +256,11 @@
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -472,11 +472,11 @@
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -688,11 +688,11 @@
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -912,11 +912,11 @@
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1140,15 +1140,15 @@
         },
         {
           "move": "Work Up",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1360,15 +1360,15 @@
         },
         {
           "move": "Work Up",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",

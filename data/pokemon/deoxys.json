@@ -372,35 +372,35 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -706,84 +706,84 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1",
+          "tm": "HM01",
           "variations": [
             "Attack Forme"
           ]
         },
         {
           "move": "Strength",
-          "tm": "HM4",
+          "tm": "HM04",
           "variations": [
             "Attack Forme"
           ]
         },
         {
           "move": "Flash",
-          "tm": "HM5",
+          "tm": "HM05",
           "variations": [
             "Attack Forme"
           ]
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6",
+          "tm": "HM06",
           "variations": [
             "Attack Forme"
           ]
         },
         {
           "move": "Cut",
-          "tm": "HM1",
+          "tm": "HM01",
           "variations": [
             "Defense Forme"
           ]
         },
         {
           "move": "Strength",
-          "tm": "HM4",
+          "tm": "HM04",
           "variations": [
             "Defense Forme"
           ]
         },
         {
           "move": "Flash",
-          "tm": "HM5",
+          "tm": "HM05",
           "variations": [
             "Defense Forme"
           ]
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6",
+          "tm": "HM06",
           "variations": [
             "Defense Forme"
           ]
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1",
+          "tm": "TM01",
           "variations": [
             "Attack Forme"
           ]
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3",
+          "tm": "TM03",
           "variations": [
             "Attack Forme"
           ]
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4",
+          "tm": "TM04",
           "variations": [
             "Attack Forme"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Attack Forme"
           ]
@@ -986,28 +986,28 @@
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1",
+          "tm": "TM01",
           "variations": [
             "Defense Forme"
           ]
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3",
+          "tm": "TM03",
           "variations": [
             "Defense Forme"
           ]
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4",
+          "tm": "TM04",
           "variations": [
             "Defense Forme"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Defense Forme"
           ]
@@ -1301,56 +1301,56 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1",
+          "tm": "HM01",
           "variations": [
             "Speed Forme"
           ]
         },
         {
           "move": "Strength",
-          "tm": "HM4",
+          "tm": "HM04",
           "variations": [
             "Speed Forme"
           ]
         },
         {
           "move": "Flash",
-          "tm": "HM5",
+          "tm": "HM05",
           "variations": [
             "Speed Forme"
           ]
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6",
+          "tm": "HM06",
           "variations": [
             "Speed Forme"
           ]
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1",
+          "tm": "TM01",
           "variations": [
             "Speed Forme"
           ]
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3",
+          "tm": "TM03",
           "variations": [
             "Speed Forme"
           ]
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4",
+          "tm": "TM04",
           "variations": [
             "Speed Forme"
           ]
         },
         {
           "move": "Toxic",
-          "tm": "TM6",
+          "tm": "TM06",
           "variations": [
             "Speed Forme"
           ]
@@ -1967,31 +1967,31 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2612,31 +2612,31 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3258,31 +3258,31 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Focus Punch",
-          "tm": "TM1"
+          "tm": "TM01"
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -3904,23 +3904,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -4518,23 +4518,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -5132,23 +5132,23 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -5754,27 +5754,27 @@
         },
         {
           "move": "Cut",
-          "tm": "HM1"
+          "tm": "HM01"
         },
         {
           "move": "Strength",
-          "tm": "HM4"
+          "tm": "HM04"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -6380,15 +6380,15 @@
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -6986,15 +6986,15 @@
         },
         {
           "move": "Psyshock",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Calm Mind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",

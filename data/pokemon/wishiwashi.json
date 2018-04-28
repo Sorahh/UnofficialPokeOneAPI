@@ -225,11 +225,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -405,11 +405,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",

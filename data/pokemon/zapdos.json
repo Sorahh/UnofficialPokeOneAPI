@@ -223,27 +223,27 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Razor Wind",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Whirlwind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -330,27 +330,27 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Razor Wind",
-          "tm": "TM2"
+          "tm": "TM02"
         },
         {
           "move": "Whirlwind",
-          "tm": "TM4"
+          "tm": "TM04"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Take Down",
-          "tm": "TM9"
+          "tm": "TM09"
         },
         {
           "move": "Double-Edge",
@@ -450,31 +450,31 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Zap Cannon",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Rock Smash",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Hidden Power",
@@ -593,31 +593,31 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Curse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Zap Cannon",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Rock Smash",
-          "tm": "TM8"
+          "tm": "TM08"
         },
         {
           "move": "Hidden Power",
@@ -741,23 +741,23 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -877,23 +877,23 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1012,23 +1012,23 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Flash",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1168,23 +1168,23 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Defog",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1371,23 +1371,23 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Defog",
-          "tm": "HM5"
+          "tm": "HM05"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1575,19 +1575,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1775,15 +1775,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1967,15 +1967,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2171,15 +2171,15 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2387,19 +2387,19 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Rock Smash",
-          "tm": "HM6"
+          "tm": "HM06"
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2599,11 +2599,11 @@
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2799,11 +2799,11 @@
         },
         {
           "move": "Roar",
-          "tm": "TM5"
+          "tm": "TM05"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
