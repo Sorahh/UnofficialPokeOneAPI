@@ -58,7 +58,7 @@
     {
       "to": "Escavalier",
       "trade": true,
-      "hold_item": "Shelmet"
+      "conditions": "when traded with a Shelmet"
     }
   ],
   "categories": {

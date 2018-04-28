@@ -58,7 +58,7 @@
     {
       "to": "Accelgor",
       "trade": true,
-      "hold_item": "Karrablast"
+      "conditions": "when traded for a Karrablast"
     }
   ],
   "categories": {
