@@ -58,7 +58,7 @@
   "evolutions": [
     {
       "to": "Raichu",
-      "item": "Thunderstone"
+      "item": "Thunder Stone"
     }
   ],
   "evolution_from": "Pichu",
