@@ -258,15 +258,15 @@
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -509,15 +509,15 @@
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -765,15 +765,15 @@
         },
         {
           "move": "Water Pulse",
-          "tm": "TM3"
+          "tm": "TM03"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -1033,11 +1033,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -1277,11 +1277,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -1529,11 +1529,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -1793,11 +1793,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -2065,11 +2065,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",
@@ -2337,11 +2337,11 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hail",
-          "tm": "TM7"
+          "tm": "TM07"
         },
         {
           "move": "Hidden Power",

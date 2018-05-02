@@ -246,11 +246,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -390,11 +390,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -533,11 +533,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -693,11 +693,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -896,11 +896,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1104,11 +1104,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1328,11 +1328,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1532,11 +1532,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1740,11 +1740,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -1968,11 +1968,11 @@
         },
         {
           "move": "Fly",
-          "tm": "HM2"
+          "tm": "HM02"
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2200,7 +2200,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
@@ -2432,7 +2432,7 @@
         },
         {
           "move": "Toxic",
-          "tm": "TM6"
+          "tm": "TM06"
         },
         {
           "move": "Hidden Power",
