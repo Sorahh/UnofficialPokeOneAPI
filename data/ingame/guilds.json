@@ -1,0 +1,37 @@
+{
+    "ammoreload": {
+        "name": "AmmoReload",
+        "nick": "AMMO",
+        "motto": "Grab your Ammo and Reload",
+        "owner": [
+            "AussieGamer1994",
+            "Cptn NeeNee"
+        ],
+        "img": null,
+        "colour": "0xf4a442",
+        "link": null
+    },
+    "teamtacos": {
+        "name": "TeamTacos",
+        "nick": "TT",
+        "motto": "Welcome to the Taco Region",
+        "owner": [
+            "PokéNinja"
+        ],
+        "img": null,
+        "colour": "0xf4a442",
+        "link2": "https://discord.gg/aRFAyf2",
+        "link": null
+    },
+    "demigod": {
+        "name": "Demigod",
+        "nick": "DG",
+        "motto": "Brought together by PokéOne, separated by nothing.",
+        "owner": [
+            "NitsuJ"
+        ],
+        "img": null,
+        "colour": "0xf4a442",
+        "link": null
+    }
+}

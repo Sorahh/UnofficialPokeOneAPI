@@ -1,0 +1,10 @@
+{
+    "route 1": {
+        "area" : "Route 1",
+        "region": "Kanto",
+        "list": [
+            "Rattata",
+            "Pidgey"
+        ]
+    }
+}

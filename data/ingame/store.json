@@ -1,0 +1,44 @@
+{
+"lapras": {
+    "name": "Lapras",
+    "group": "Surf",
+    "gold": "2,000",
+    "money": "$0"
+},
+"shiny lapras": {
+    "name": "Shiny Lapras",
+    "group": "Surf",
+    "gold": "6,000",
+    "money": "$0"
+},
+"magikarp": {
+    "name": "Magikarp",
+    "group": "Surf",
+    "gold": "4,000",
+    "money": "$0"
+},
+"shiny magikarp": {
+    "name": "Shiny Magikarp",
+    "group": "Surf",
+    "gold": "6,000",
+    "money": "$0"
+},
+"sharpedo": {
+    "name": "Sharpedo",
+    "group": "Surf",
+    "gold": "4,000",
+    "money": "$0"
+},
+"shiny Sharpedo": {
+    "name": "Shiny Sharpedo",
+    "group": "Surf",
+    "gold": "6,000",
+    "money": "$0"
+},
+"wailmer": {
+    "name": "Wailmer",
+    "group": "Surf",
+    "gold": "4,000",
+    "money": "$0"
+}
+}
