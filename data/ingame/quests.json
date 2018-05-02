@@ -1,0 +1,1015 @@
+{
+    "kanto": {
+        "region": "Kanto",
+        "type": "region",
+        "quests1": [
+            "The Pokemon Prof",
+            "First Battle",
+            "Trainer on Route 1",
+            "Trainer on Route 1 p2",
+            "Viridian City",
+            "Viridian City p2",
+            "Viridian City p3",
+            "Viridian City p4",
+            "Viridian Forest",
+            "Viridian Forest p2",
+            "Viridian Forest p3",
+            "Hard as a Rock",
+            "Hard as a Rock p2",
+            "Ceruelan City",
+            "Cerulean City p2",
+            "Cerulean City p3",
+            "Cerulean City p4",
+            "Cerulean City p5",
+            "Cerulean City p6",
+            "Cerulean City p7",
+            "Cerulean City p8",
+            "Cerulean City p9",
+            "Bill",
+            "Bill p2",
+            "Bill p3",
+            "Electrified",
+            "Electrified p2",
+            "Electrified p3",
+            "Electrified p4",
+            "Electrified p5",
+            "Electrified p6",
+            "Electrified p7",
+            "The Long Journey",
+            "The Long Journey p2",
+            "The Long Journey p3",
+            "The Long Journey p4",
+            "The Long Journey p5",
+            "The Long Journey p6",
+            "The Long Journey p7",
+            "The Long Journey p8",
+            "The Long Journey p9"
+        ],
+        "quests2": [
+            "Trouble in Town",
+            "Trouble in Town p2",
+            "Trouble in Town p3",
+            "Trouble in Town p4",
+            "Trouble in Town p5",
+            "Trouble in Town p6",
+            "Trouble in Town p7",
+            "The Case of Mr Fuji",
+            "The Case of Mr Fuji p2",
+            "The Case of Mr Fuji p3",
+            "The Case of Mr Fuji p4",
+            "The Case of Mr Fuji p5",
+            "The Case of Mr Fuji p6",
+            "The Case of Mr Fuji p7",
+            "The Case of Mr Fuji p8",
+            "The Psy-Master",
+            "The Psy-Master p2",
+            "Fuchsia City",
+            "Fuchsia City p2",
+            "Fuchsia City p3",
+            "fleaf glf mfmfl feefh!",
+            "fleaf glf mfmfl feefh! p1.5",
+            "fleaf glf mfmfl feefh! p2",
+            "Cinnabar Island",
+            "Cinnabar Island p2",
+            "Cinnabar Island p3",
+            "Cinnabar Island p4",
+            "Cinnabar Island p5",
+            "Cinnabar Island p6",
+            "The Last Badge",
+            "The Last Badge p2",
+            "Pokemon League",
+            "Pokemon League p2",
+            "Pokemon League p3",
+            "Pokemon League p4",
+            "Pokemon League p5",
+            "Pokemon League p6",
+            "Pokemon League p7",
+            "Pokemon League p8",
+            "Pokemon League p8",
+            "Pokemon League p9",
+            "Pokemon League p10"
+        ]
+    },
+    "the pokemon prof" : {
+        "type": "quest",
+        "name": "The Pokemon Prof.",
+        "part": "1/1",
+        "startloc": "Pallet Town",
+        "description": "Find Prof. Oak in his lab!",
+        "rewards": [
+            "50 EXP"
+        ]
+    },
+    "first battle" : {
+        "type": "quest",
+        "name": "First Battle",
+        "part": "1/1",
+        "startloc": "Pallet Town",
+        "description": "Find Gary",
+        "rewards": [
+            "100 EXP",
+            "1x Potion"
+        ]
+    },
+    "trainer on route 1" : {
+        "type": "quest",
+        "name": "Trainer on Route 1 (Part 1)",
+        "part": "1/2",
+        "startloc": "Route 1",
+        "description": "Challenge Joey on Route 1",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "trainer on route 1 p2" : {
+        "type": "quest",
+        "name": "Trainer on Route 1 (Part 2)",
+        "part": "2/2",
+        "startloc": "Route 1",
+        "description": "Challenge Sherman and Nancy on Route 1",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "viridian city" : {
+        "type": "quest",
+        "name": "Viridian City",
+        "part": "1/4",
+        "startloc": "Route 1",
+        "description": "Find Nurse Joy in the Poke Center in Viridian City",
+        "rewards": [
+            "55 EXP",
+            "$110"
+        ]
+    },
+    "viridian city p2" : {
+        "type": "quest",
+        "name": "Viridian City (Part 2)",
+        "part": "2/4",
+        "startloc": "Viridan Pokemon Center",
+        "description": "Visit Carl in the Poke Mart in Viridian City",
+        "rewards": [
+            "55 EXP",
+            "$110"
+        ]
+    },
+    "viridian city p3" : {
+        "type": "quest",
+        "name": "Viridian City (Part 3)",
+        "part": "3/4",
+        "startloc": "Viridian City Pokemon Mart",
+        "description": "Visit Dizzy in the Trainer School",
+        "rewards": [
+            "55 EXP",
+            "$110"
+        ]
+    },
+    "viridian city p4" : {
+        "type": "quest",
+        "name": "Viridian City (Part 4)",
+        "part": "4/4",
+        "startloc": "Viridian City",
+        "description": "Find old man in Viridian City",
+        "rewards": [
+            "55 EXP",
+            "$110"
+        ]
+    },
+    "viridian forest" : {
+        "type": "quest",
+        "name": "Viridian Forest",
+        "part": "1/3",
+        "startloc": "Viridian Forest",
+        "description": "Travel Through the Viridian Forest",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "viridian forest p2" : {
+        "type": "quest",
+        "name": "Viridian Forest (Part 2)",
+        "part": "2/3",
+        "startloc": "Viridian Forest",
+        "description": "Find Lara in the west",
+        "rewards": [
+            "100 EXP",
+            "$200"
+        ]
+    },
+    "viridian forest p3" : {
+        "type": "quest",
+        "name": "Viridian Forest (Part 3)",
+        "part": "3/3",
+        "startloc": "Viridian Forest Gate",
+        "description": "Find your way through the forest",
+        "rewards": [
+            "250 EXP",
+            "$500"
+        ]
+    },
+    "hard as a rock" : {
+        "type": "quest",
+        "name": "Hard as a Rock",
+        "part": "1/2",
+        "startloc": "Pewter City",
+        "description": "Reach the gym in Pewter City",
+        "rewards": [
+            "100 EXP",
+            "$200"
+        ]
+    },
+    "hard as a rock p2" : {
+        "type": "quest",
+        "name": "Hard as a Rock (Part 2)",
+        "part": "2/2",
+        "startloc": "Pewter City Gym",
+        "description": "Challenge Brock in Pewter City Gym",
+        "rewards": [
+            "300 EXP",
+            "$600",
+            "1x TM69",
+            "Boulder Badge"
+        ]
+    },
+    "cerulean city" : {
+        "type": "quest",
+        "name": "Cerulean City",
+        "part": "1/9",
+        "startloc": "Pewter City Gym",
+        "description": "Find the way to Cerulean City",
+        "rewards": [
+            "60 EXP"
+        ]
+    },
+    "cerulean city p2" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 2)",
+        "part": "2/9",
+        "startloc": "Route 3",
+        "description": "Find a Moon Stone near the Meteroite",
+        "rewards": [
+            "55 EXP",
+            "$110"
+        ]
+    },
+    "cerulean city p3" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 3)",
+        "part": "3/9",
+        "startloc": "Route 3",
+        "description": "Return to Hiker Willy",
+        "rewards": [
+            "55 EXP",
+            "$110"
+        ]
+    },
+    "cerulean city p4" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 4)",
+        "part": "4/9",
+        "startloc": "Route 3",
+        "description": "Master the way to Cerulean City",
+        "rewards": [
+            "N/A"
+        ]
+    },
+    "cerulean city p5" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 5)",
+        "part": "5/9",
+        "startloc": "Route 3",
+        "description": "Find your way through Mt. Moon",
+        "rewards": [
+            "75 EXP",
+            "$150"
+        ]
+    },
+    "cerulean city p6" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 6)",
+        "part": "6/9",
+        "startloc": "Mt. Moon",
+        "description": "Challenge Team Rocket!",
+        "rewards": [
+            "350 EXP",
+            "$500"
+        ]
+    },
+    "cerulean city p7" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 7)",
+        "part": "7/9",
+        "startloc": "Mt. Moon B2F",
+        "description": "Talk with Miguel",
+        "rewards": [
+            "75 EXP",
+            "$150"
+        ]
+    },
+    "cerulean city p8" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 8)",
+        "part": "8/9",
+        "startloc": "Mt.Moon B2F",
+        "description": "Travel to Cerulean City",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "cerulean city p9" : {
+        "type": "quest",
+        "name": "Cerulean City (Part 9)",
+        "part": "9/9",
+        "startloc": "Cerulean City",
+        "description": "Challenge Misty in Cerulean City Gym",
+        "rewards": [
+            "500 EXP",
+            "$1200",
+            "1x TM55",
+            "Cascade Badge"
+        ]
+    },
+    "bill" : {
+        "type": "quest",
+        "name": "Bill",
+        "part": "1/3",
+        "startloc": "Cerulean Gym",
+        "description": "Visit Bill on Route 25",
+        "rewards": [
+            "N/A"
+        ]
+    },
+    "bill p2" : {
+        "type": "quest",
+        "name": "Bill (Part 2)",
+        "part": "2/3",
+        "startloc": "Sea Cottage",
+        "description": "Use the computer to transform Bill",
+        "rewards": [
+            "N/A"
+        ]
+    },
+    "bill p3" : {
+        "type": "quest",
+        "name": "Bill (Part 3)",
+        "part": "3/3",
+        "startloc": "Sea Cottage",
+        "description": "Talk to Bill",
+        "rewards": [
+            "250 EXP",
+            "$500"
+        ]
+    },
+    "electrified" : {
+        "type": "quest",
+        "name": "Electrified",
+        "part": "1/7",
+        "startloc": "Sea Cottage",
+        "description": "Reach Vermilion City",
+        "rewards": [
+            "80 EXP",
+            "$160"
+        ]
+    },
+    "electrified p2" : {
+        "type": "quest",
+        "name": "Electrified (Part 2)",
+        "part": "2/7",
+        "startloc": "Route 5",
+        "description": "Reach Vermilion City",
+        "rewards": [
+            "80 EXP",
+            "$160"
+        ]
+    },
+    "electrified p3" : {
+        "type": "quest",
+        "name": "Electrified (Part 3)",
+        "part": "3/7",
+        "startloc": "Vermilion City",
+        "description": "Reach the Harbor of Vermilion City",
+        "rewards": [
+            "25 EXP",
+            "$160"
+        ]
+    },
+    "electrified p4" : {
+        "type": "quest",
+        "name": "Electrified (Part 4)",
+        "part": "4/7",
+        "startloc": "Vermilion City",
+        "description": "Enter the SS Anne",
+        "rewards": [
+            "25 EXP",
+            "$160"
+        ]
+    },
+    "electrified p5" : {
+        "type": "quest",
+        "name": "Electrified (Part 5)",
+        "part": "5/7",
+        "startloc": "SS Anne",
+        "description": "Find the Captain on SS Anne",
+        "rewards": [
+            "80 EXP",
+            "$160",
+            "1x HM01"
+        ]
+    },
+    "electrified p6" : {
+        "type": "quest",
+        "name": "Electrified (Part 6)",
+        "part": "6/7",
+        "startloc": "SS Anne",
+        "description": "Reach Vermilion Gym",
+        "rewards": [
+            "80 EXP",
+            "$160"
+        ]
+    },
+    "electrified p7" : {
+        "type": "quest",
+        "name": "Electrified (Part 7)",
+        "part": "7/7",
+        "startloc": "Vermilion Gym",
+        "description": "Challenge Lt. Surge",
+        "rewards": [
+            "500 EXP",
+            "$1000",
+            "1x TM57",
+            "Thunder Badge"
+        ]
+    },
+    "the long journey" : {
+        "type": "quest",
+        "name": "The Long Journey",
+        "part": "1/9",
+        "startloc": "Vermilion Gym",
+        "description": "Cross Diglett's Cave and return to Route 2",
+        "rewards": [
+            "25 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p2" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 2)",
+        "part": "2/9",
+        "startloc": "Vermilion Gym",
+        "description": "Return to Cerulean City and cut the bushes to Route 9",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p3" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 3)",
+        "part": "3/9",
+        "startloc": "Route 9",
+        "description": "Reach the Rock Tunnel",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p4" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 4)",
+        "part": "4/9",
+        "startloc": "Route 10",
+        "description": "Find your way though the Rock Tunnel",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p5" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 5)",
+        "part": "5/9",
+        "startloc": "Route 10",
+        "description": "Enter Lavender Town",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p6" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 6)",
+        "part": "6/9",
+        "startloc": "Lavender Town",
+        "description": "Reach the underground pas to Celadon City",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p7" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 7)",
+        "part": "7/9",
+        "startloc": "Underground Path",
+        "description": "Enter Celadon City",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p8" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 8)",
+        "part": "8/9",
+        "startloc": "Route 16",
+        "description": "Enter Celadon Gym",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the long journey p9" : {
+        "type": "quest",
+        "name": "The Long Journey (Part 9)",
+        "part": "9/9",
+        "startloc": "Celadon Gym",
+        "description": "Challenge Erika",
+        "rewards": [
+            "500 EXP",
+            "$2500",
+            "1x TM53",
+            "Rainbow Badge"
+        ]
+    },
+    "trouble in town" : {
+        "type": "quest",
+        "name": "Trouble in Town",
+        "part": "1/7",
+        "startloc": "Celadon Gym",
+        "description": "",
+        "rewards": [
+            ""
+        ]
+    },
+    "trouble in town p2" : {
+        "type": "quest",
+        "name": "Trouble in Town (Part 2)",
+        "part": "2/7",
+        "startloc": "Saffron City Gate",
+        "description": "Talk to Commander Willy at the gate to Saffron City",
+        "rewards": [
+            "50 EXP",
+            "$200"
+        ]
+    },
+    "trouble in town p3" : {
+        "type": "quest",
+        "name": "Trouble in Town (Part 3)",
+        "part": "3/7",
+        "startloc": "Saffron City Gate",
+        "description": "Find and offer Commander Willy some tea",
+        "rewards": [
+            "100 EXP",
+            "$200"
+        ]
+    },
+    "trouble in town p4" : {
+        "type": "quest",
+        "name": "Trouble in Town (Part 4)",
+        "part": "4/7",
+        "startloc": "Silph Co. 3F",
+        "description": "Find Mr. Silph!",
+        "rewards": [
+            "100 EXP",
+            "$200"
+        ]
+    },
+    "trouble in town p5" : {
+        "type": "quest",
+        "name": "Trouble in Town (Part 5)",
+        "part": "5/7",
+        "startloc": "Silph Co. 10F",
+        "description": "Find the card key",
+        "rewards": [
+            ""
+        ]
+    },
+    "trouble in town p6" : {
+        "type": "quest",
+        "name": "Trouble in Town (Part 6)",
+        "part": "6/7",
+        "startloc": "Silph Co. 5F",
+        "description": "Reach Mr. Silph on Floor 11",
+        "rewards": [
+            "500 EXP",
+            "$2500"
+        ]
+    },
+    "trouble in town p7" : {
+        "type": "quest",
+        "name": "Trouble in Town (Part 7)",
+        "part": "7/7",
+        "startloc": "Silph Co. 11F",
+        "description": "Talk to Mr. SIlph",
+        "rewards": [
+            "250 EXP",
+            "$1000",
+            "1x Master Ball"
+        ]
+    },
+    "the case of mr fuji" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "1/8",
+        "startloc": "Celadon City",
+        "description": "Visit the Came Corner in Celadon City",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the case of mr fuji p2" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "2/8",
+        "startloc": "Celadon Game Corner",
+        "description": "Search the Game Corner's Basement",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the case of mr fuji p3" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "3/8",
+        "startloc": "Rocket Hideout B3F",
+        "description": "Find the Lift Key",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the case of mr fuji p4" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "4/8",
+        "startloc": "Rocket Hideout B4F",
+        "description": "Use the lift to reach Jessie and James",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the case of mr fuji p5" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "5/8",
+        "startloc": "Rocket Hideout B4F",
+        "description": "Pick up the Silph Scope",
+        "rewards": [
+            "50 EXP",
+            "$200"
+        ]
+    },
+    "the case of mr fuji p6" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "6/8",
+        "startloc": "Rocket Hideout B4F",
+        "description": "Travel to Pokemon Tower",
+        "rewards": [
+            "50 EXP",
+            "$200"
+        ]
+    },
+    "the case of mr fuji p7" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "7/8",
+        "startloc": "Lavender Town",
+        "description": "Find Mr. Fuji inside the Pokemon Tower",
+        "rewards": [
+            "100 EXP",
+            "$200"
+        ]
+    },
+    "the case of mr fuji p8" : {
+        "type": "quest",
+        "name": "The case of Mr. Fuji",
+        "part": "8/8",
+        "startloc": "Lavender Town",
+        "description": "Look for a Silph Scope in Celadon City",
+        "rewards": [
+            "50 EXP",
+            "$100"
+        ]
+    },
+    "the psy-master" : {
+        "type": "quest",
+        "name": "The Psy-Master",
+        "part": "1/2",
+        "startloc": "Silph Co. 11F",
+        "description": "Enter Saffron Gym",
+        "rewards": [
+            "100 EXP",
+            "$200"
+        ]
+    },
+    "the psy-master p2" : {
+        "type": "quest",
+        "name": "The Psy-Master (Part 2)",
+        "part": "2/2",
+        "startloc": "Saffron Gym",
+        "description": "Find your way and challenge Sabrina",
+        "rewards": [
+            "500 EXP",
+            "$3500",
+            "1x TM03",
+            "Marsh Badge"
+        ]
+    },
+    "fuchsia city" : {
+        "type": "quest",
+        "name": "Fuchsia City",
+        "part": "1/3",
+        "startloc": "Saffron Gym",
+        "description": "Travel to Fuchsia City",
+        "rewards": [
+            "100 EXP"
+        ]
+    },
+    "fuchsia city p2" : {
+        "type": "quest",
+        "name": "Fuchsia City (Part 2)",
+        "part": "2/3",
+        "startloc": "Fuchsai City Gate",
+        "description": "Enter Fuchsa Gym",
+        "rewards": [
+            "100 EXP",
+            "$200"
+        ]
+    },
+    "fuchsia city p3" : {
+        "type": "quest",
+        "name": "Fuchsia City (Part 3)",
+        "part": "3/3",
+        "startloc": "Fuchsia Gym",
+        "description": "Challenge Koga",
+        "rewards": [
+            "600 EXP",
+            "$3500",
+            "1x TM84",
+            "Soul Badge"
+        ]
+    },
+    "an old man in fuchsia city" : {
+        "type": "quest",
+        "name": "An old man in Fuchsia City",
+        "part": "1/1",
+        "startloc": "Saffon Gym",
+        "description": "Visit Warden in Fuchsia City",
+        "rewards": [
+            "$100"
+        ]
+    },
+    "fleaf glf mfmfl feefh!" : {
+        "type": "quest",
+        "name": "fleaf glf mfmfl feefh!",
+        "part": "1/2",
+        "startloc": "Fuchsia City",
+        "description": "hafahi ho! feefh!",
+        "rewards": [
+            "N/A"
+        ]
+    },
+    "fleaf glf mfmfl feefh! p1.5" : {
+        "type": "quest",
+        "name": "fleaf glf mfmfl feefh!",
+        "part": "1.5/2",
+        "startloc": "Fuchsia City",
+        "description": "Find Warden's teeh in Safari Zone!",
+        "rewards": [
+            "N/A"
+        ]
+    },
+    "fleaf glf mfmfl feefh! p2" : {
+        "type": "quest",
+        "name": "fleaf glf mfmfl feefh!",
+        "part": "2/2",
+        "startloc": "Kanto Safari Zone (West)",
+        "description": "Return the holy grail to it's rightful owner!",
+        "rewards": [
+            "500 EXP",
+            "$2500",
+            "1x HM06"
+        ]
+    },
+    "cinnabar island" : {
+        "type": "quest",
+        "name": "Cinnabar Island",
+        "part": "1/6",
+        "startloc": "Fuchsia Gym",
+        "description": "Find HM03 Surf in the Safari Zone!",
+        "rewards": [
+            "250 EXP"
+        ]
+    },
+    "cinnabar island p2" : {
+        "type": "quest",
+        "name": "Cinnabar Island (Part 2)",
+        "part": "2/6",
+        "startloc": "Secret House",
+        "description": "Reach the gym on Cinnabar Island",
+        "rewards": [
+            "300 EXP",
+            "$1000"
+        ]
+    },
+    "cinnabar island p3" : {
+        "type": "quest",
+        "name": "Cinnabar Island (Part 3)",
+        "part": "3/6",
+        "startloc": "Cinnabar Island",
+        "description": "Find the key to Cinnabar Gym",
+        "rewards": [
+            "350 EXP"
+        ]
+    },
+    "cinnabar island p4" : {
+        "type": "quest",
+        "name": "Cinnabar Island (Part 4)",
+        "part": "4/6",
+        "startloc": "Pokemon Mansion B1F",
+        "description": "Enter Cinnabar Gym",
+        "rewards": [
+            "100 EXP"
+        ]
+    },
+    "cinnabar island p5" : {
+        "type": "quest",
+        "name": "Cinnabar Island (Part 5)",
+        "part": "5/6",
+        "startloc": "Cinnabar Gym",
+        "description": "Enter the gym on Seafoam Island",
+        "rewards": [
+            "100 EXP",
+            "$300"
+        ]
+    },
+    "cinnabar island p6" : {
+        "type": "quest",
+        "name": "Cinnabar Island (Part 6)",
+        "part": "6/6",
+        "startloc": "Seafoam Gym",
+        "description": "Challenge Blaine",
+        "rewards": [
+            "700 EXP",
+            "$4000",
+            "1x TM38",
+            "Volcano Badge"
+        ]
+    },
+    "the last badge" : {
+        "type": "quest",
+        "name": "The Last Badge",
+        "part": "1/2",
+        "startloc": "Seafoam Gym",
+        "description": "Reach Viridian Gym",
+        "rewards": [
+            "250 EXP",
+            "$500"
+        ]
+    },
+    "the last badge p2" : {
+        "type": "quest",
+        "name": "The Last Badge (Part 2)",
+        "part": "2/2",
+        "startloc": "Viridian Gym",
+        "description": "Challenge the Gym Leader",
+        "rewards": [
+            "1000 EXP",
+            "$5000",
+            "1x TM28",
+            "Earth Badge"
+        ]
+    },
+    "pokemon league" : {
+        "type": "quest",
+        "name": "Pokemon League",
+        "part": "1/10",
+        "startloc": "Viridian Gym",
+        "description": "Travel to Route 23",
+        "rewards": [
+            "100 EXP",
+            "$250"
+        ]
+    },
+    "pokemon league p2" : {
+        "type": "quest",
+        "name": "Pokemon League (Part 2)",
+        "part": "2/10",
+        "startloc": "Route 23",
+        "description": "Enter Victory Road",
+        "rewards": [
+            "100 EXP",
+            "$250"
+        ]
+    },
+    "pokemon league p3" : {
+        "type": "quest",
+        "name": "Pokemon League (Part 3)",
+        "part": "3/10",
+        "startloc": "Victory Road",
+        "description": "Cross Victory Road",
+        "rewards": [
+            "500 EXP",
+            "$1000"
+        ]
+    },
+    "pokemon league p4" : {
+        "type": "quest",
+        "name": "Pokemon League (Part 4)",
+        "part": "4/10",
+        "startloc": "Indigo Plateau",
+        "description": "Get registered in the Pokemon League",
+        "rewards": [
+            "100 EXP",
+            "$250"
+        ]
+    },
+    "pokemon league p5" : {
+        "type": "quest",
+        "name": "Pokemon Leauge (Part 5)",
+        "part": "5/10",
+        "startloc": "Pokemon League",
+        "description": "Enter the chamber of the Elite Frou",
+        "rewards": [
+            ""
+        ]
+    },
+    "pokemon league p6" : {
+        "type": "quest",
+        "name": "Pokemon Leauge (Part 6)",
+        "part": "6/10",
+        "startloc": "Pokemon Leauge",
+        "description": "Challenge Lorelei",
+        "rewards": [
+            ""
+        ]
+    },
+    "pokemon league p7" : {
+        "type": "quest",
+        "name": "Pokemon Leauge (Part 7)",
+        "part": "7/10",
+        "startloc": "Pokemon Leauge",
+        "description": "Challenge Bruno",
+        "rewards": [
+            ""
+        ]
+    },
+    "pokemon league p8" : {
+        "type": "quest",
+        "name": "Pokemon Leauge (Part 8)",
+        "part": "8/10",
+        "startloc": "Pokemon Leauge",
+        "description": "Challenge Agatha",
+        "rewards": [
+            ""
+        ]
+    },
+    "pokemon league p9" : {
+        "type": "quest",
+        "name": "Pokemon Leauge (Part 9)",
+        "part": "9/10",
+        "startloc": "Pokemon Leauge",
+        "description": "Challenge Lance",
+        "rewards": [
+            ""
+        ]
+    },
+    "pokemon league p10" : {
+        "type": "quest",
+        "name": "Pokemon Leauge (Part 10)",
+        "part": "10/10",
+        "startloc": "Pokemon Leauge",
+        "description": "The last challenge",
+        "rewards": [
+            ""
+        ]
+    },
+    "" : {
+        "type": "quest",
+        "name": "",
+        "part": "",
+        "startloc": "",
+        "description": "",
+        "rewards": [
+            ""
+        ]
+    }
+}
