@@ -24,7 +24,7 @@
   },
   "descriptions": {
     "en": "Heals all status problems with a soothing scent.",
-    "de": "Alle Statusveränderungen der Pokémon in deinem Team werden aufgehoben, daher ähnlich wie Vitalglocke. Hat den Vorteil, dass es nicht von Pokemon mit der Charakteristik Lärmschutz blokiert werden kann. Ein Pokémon mit dieser Attacke ist immer ein Pluspunkt für ein Team."
+    "de": "Alle Statusveränderungen der Pokémon in deinem Team werden aufgehoben, daher ähnlich wie Vitalglocke. Hat den Vorteil, dass es nicht von Pokémon mit der Charakteristik Lärmschutz blokiert werden kann. Ein Pokémon mit dieser Attacke ist immer ein Pluspunkt für ein Team."
   },
   "type": "Grass",
   "contests": [

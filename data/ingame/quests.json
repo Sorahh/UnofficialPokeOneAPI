@@ -3,7 +3,7 @@
         "region": "Kanto",
         "type": "region",
         "quests1": [
-            "The Pokemon Prof",
+            "The Pokémon Prof",
             "First Battle",
             "Trainer on Route 1",
             "Trainer on Route 1 p2",
@@ -77,22 +77,22 @@
             "Cinnabar Island p6",
             "The Last Badge",
             "The Last Badge p2",
-            "Pokemon League",
-            "Pokemon League p2",
-            "Pokemon League p3",
-            "Pokemon League p4",
-            "Pokemon League p5",
-            "Pokemon League p6",
-            "Pokemon League p7",
-            "Pokemon League p8",
-            "Pokemon League p8",
-            "Pokemon League p9",
-            "Pokemon League p10"
+            "Pokémon League",
+            "Pokémon League p2",
+            "Pokémon League p3",
+            "Pokémon League p4",
+            "Pokémon League p5",
+            "Pokémon League p6",
+            "Pokémon League p7",
+            "Pokémon League p8",
+            "Pokémon League p8",
+            "Pokémon League p9",
+            "Pokémon League p10"
         ]
     },
     "the pokemon prof" : {
         "type": "quest",
-        "name": "The Pokemon Prof.",
+        "name": "The Pokémon Prof.",
         "part": "1/1",
         "startloc": "Pallet Town",
         "description": "Find Prof. Oak in his lab!",
@@ -138,7 +138,7 @@
         "name": "Viridian City",
         "part": "1/4",
         "startloc": "Route 1",
-        "description": "Find Nurse Joy in the Poke Center in Viridian City",
+        "description": "Find Nurse Joy in the Poké Center in Viridian City",
         "rewards": [
             "55 EXP",
             "$110"
@@ -148,8 +148,8 @@
         "type": "quest",
         "name": "Viridian City (Part 2)",
         "part": "2/4",
-        "startloc": "Viridan Pokemon Center",
-        "description": "Visit Carl in the Poke Mart in Viridian City",
+        "startloc": "Viridan Pokémon Center",
+        "description": "Visit Carl in the Poké Mart in Viridian City",
         "rewards": [
             "55 EXP",
             "$110"
@@ -159,7 +159,7 @@
         "type": "quest",
         "name": "Viridian City (Part 3)",
         "part": "3/4",
-        "startloc": "Viridian City Pokemon Mart",
+        "startloc": "Viridian City Pokémon Mart",
         "description": "Visit Dizzy in the Trainer School",
         "rewards": [
             "55 EXP",
@@ -681,7 +681,7 @@
         "name": "The case of Mr. Fuji",
         "part": "6/8",
         "startloc": "Rocket Hideout B4F",
-        "description": "Travel to Pokemon Tower",
+        "description": "Travel to Pokémon Tower",
         "rewards": [
             "50 EXP",
             "$200"
@@ -692,7 +692,7 @@
         "name": "The case of Mr. Fuji",
         "part": "7/8",
         "startloc": "Lavender Town",
-        "description": "Find Mr. Fuji inside the Pokemon Tower",
+        "description": "Find Mr. Fuji inside the Pokémon Tower",
         "rewards": [
             "100 EXP",
             "$200"
@@ -844,7 +844,7 @@
         "type": "quest",
         "name": "Cinnabar Island (Part 4)",
         "part": "4/6",
-        "startloc": "Pokemon Mansion B1F",
+        "startloc": "Pokémon Mansion B1F",
         "description": "Enter Cinnabar Gym",
         "rewards": [
             "100 EXP"
@@ -900,7 +900,7 @@
     },
     "pokemon league" : {
         "type": "quest",
-        "name": "Pokemon League",
+        "name": "Pokémon League",
         "part": "1/10",
         "startloc": "Viridian Gym",
         "description": "Travel to Route 23",
@@ -911,7 +911,7 @@
     },
     "pokemon league p2" : {
         "type": "quest",
-        "name": "Pokemon League (Part 2)",
+        "name": "Pokémon League (Part 2)",
         "part": "2/10",
         "startloc": "Route 23",
         "description": "Enter Victory Road",
@@ -922,7 +922,7 @@
     },
     "pokemon league p3" : {
         "type": "quest",
-        "name": "Pokemon League (Part 3)",
+        "name": "Pokémon League (Part 3)",
         "part": "3/10",
         "startloc": "Victory Road",
         "description": "Cross Victory Road",
@@ -933,10 +933,10 @@
     },
     "pokemon league p4" : {
         "type": "quest",
-        "name": "Pokemon League (Part 4)",
+        "name": "Pokémon League (Part 4)",
         "part": "4/10",
         "startloc": "Indigo Plateau",
-        "description": "Get registered in the Pokemon League",
+        "description": "Get registered in the Pokémon League",
         "rewards": [
             "100 EXP",
             "$250"
@@ -944,9 +944,9 @@
     },
     "pokemon league p5" : {
         "type": "quest",
-        "name": "Pokemon Leauge (Part 5)",
+        "name": "Pokémon Leauge (Part 5)",
         "part": "5/10",
-        "startloc": "Pokemon League",
+        "startloc": "Pokémon League",
         "description": "Enter the chamber of the Elite Frou",
         "rewards": [
             ""
@@ -954,9 +954,9 @@
     },
     "pokemon league p6" : {
         "type": "quest",
-        "name": "Pokemon Leauge (Part 6)",
+        "name": "Pokémon Leauge (Part 6)",
         "part": "6/10",
-        "startloc": "Pokemon Leauge",
+        "startloc": "Pokémon Leauge",
         "description": "Challenge Lorelei",
         "rewards": [
             ""
@@ -964,9 +964,9 @@
     },
     "pokemon league p7" : {
         "type": "quest",
-        "name": "Pokemon Leauge (Part 7)",
+        "name": "Pokémon Leauge (Part 7)",
         "part": "7/10",
-        "startloc": "Pokemon Leauge",
+        "startloc": "Pokémon Leauge",
         "description": "Challenge Bruno",
         "rewards": [
             ""
@@ -974,9 +974,9 @@
     },
     "pokemon league p8" : {
         "type": "quest",
-        "name": "Pokemon Leauge (Part 8)",
+        "name": "Pokémon Leauge (Part 8)",
         "part": "8/10",
-        "startloc": "Pokemon Leauge",
+        "startloc": "Pokémon Leauge",
         "description": "Challenge Agatha",
         "rewards": [
             ""
@@ -984,9 +984,9 @@
     },
     "pokemon league p9" : {
         "type": "quest",
-        "name": "Pokemon Leauge (Part 9)",
+        "name": "Pokémon Leauge (Part 9)",
         "part": "9/10",
-        "startloc": "Pokemon Leauge",
+        "startloc": "Pokémon Leauge",
         "description": "Challenge Lance",
         "rewards": [
             ""
@@ -994,9 +994,9 @@
     },
     "pokemon league p10" : {
         "type": "quest",
-        "name": "Pokemon Leauge (Part 10)",
+        "name": "Pokémon Leauge (Part 10)",
         "part": "10/10",
-        "startloc": "Pokemon Leauge",
+        "startloc": "Pokémon Leauge",
         "description": "The last challenge",
         "rewards": [
             ""
