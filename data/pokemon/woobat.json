@@ -59,7 +59,8 @@
   "evolutions": [
     {
       "to": "Swoobat",
-      "happiness": true
+      "happiness": true, 
+      "level_up": true
     }
   ],
   "categories": {

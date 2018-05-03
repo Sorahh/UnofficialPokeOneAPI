@@ -61,9 +61,10 @@
   "evolutions": [
     {
       "to": "Roselia",
-      "happiness": true,
+      "happiness": true, 
+      "level_up": true,
       "conditions": [
-        "Daytime"
+        "during the day"
       ]
     }
   ],

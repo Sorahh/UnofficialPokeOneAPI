@@ -59,9 +59,8 @@
   "evolutions": [
     {
       "to": "Chansey",
-      "hold_item": "Oval Stone",
       "conditions": [
-        "Daytime"
+        "level up during the day holding an Oval Stone"
       ]
     }
   ],

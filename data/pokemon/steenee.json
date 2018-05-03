@@ -61,6 +61,7 @@
     {
       "to": "Tsareena",
       "level_up": true,
+      "level_up": true,
       "move_learned": "Stomp"
     }
   ],

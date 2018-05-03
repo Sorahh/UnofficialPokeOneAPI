@@ -67,7 +67,7 @@
     {
       "to": "Milotic",
       "conditions": [
-        "Beauty"
+        "if beauty condition is above 170"
       ]
     }
   ],

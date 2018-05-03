@@ -60,6 +60,7 @@
   "evolutions": [
     {
       "to": "Lickilicky",
+      "level_up": true,
       "move_learned": "Rollout"
     }
   ],

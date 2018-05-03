@@ -59,14 +59,14 @@
       "to": "Silcoon",
       "level": 7,
       "conditions": [
-        "Random"
+        " when randomly selected"
       ]
     },
     {
       "to": "Cascoon",
       "level": 7,
       "conditions": [
-        "Random"
+        " when randomly selected"
       ]
     }
   ],

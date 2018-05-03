@@ -68,7 +68,7 @@
       "to": "Gallade",
       "item": "Dawn Stone",
       "conditions": [
-        "whilst male gendered"
+        "if male"
       ]
     }
   ],

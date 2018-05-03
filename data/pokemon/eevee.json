@@ -72,14 +72,16 @@
     },
     {
       "to": "Espeon",
-      "happiness": true,
+      "happiness": true, 
+      "level_up": true,
       "conditions": [
         "during the day"
       ]
     },
     {
       "to": "Umbreon",
-      "happiness": true,
+      "happiness": true,  
+      "level_up": true,
       "conditions": [
         "during the night"
       ]
@@ -102,7 +104,7 @@
       "to": "Sylveon",
       "level_up": true,
       "conditions": [
-        "knowing a fairy-type move",
+        "knowing a Fairy type move",
         "with 2 hearts of affection"
       ]
     }

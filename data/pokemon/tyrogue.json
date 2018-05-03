@@ -61,21 +61,21 @@
       "to": "Hitmonlee",
       "level": 20,
       "conditions": [
-        "Attack > Defense"
+        "if its Attack > Defense"
       ]
     },
     {
       "to": "Hitmonchan",
       "level": 20,
       "conditions": [
-        "Defense > Attack"
+        "if its Attack < Defense"
       ]
     },
     {
       "to": "Hitmontop",
       "level": 20,
       "conditions": [
-        "Attack = Defense"
+        "if its Attack = Defense"
       ]
     }
   ],

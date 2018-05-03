@@ -62,7 +62,7 @@
       "to": "Gumshoos",
       "level": 20,
       "conditions": [
-        "Daytime"
+        "during the day"
       ]
     }
   ],

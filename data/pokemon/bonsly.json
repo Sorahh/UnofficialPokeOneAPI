@@ -60,6 +60,7 @@
   "evolutions": [
     {
       "to": "Sudowoodo",
+      "level_up": true,
       "move_learned": "Mimic"
     }
   ],

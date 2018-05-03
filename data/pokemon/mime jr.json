@@ -61,6 +61,7 @@
   "evolutions": [
     {
       "to": "Mr. Mime",
+      "level_up": true,
       "move_learned": "Mimic"
     }
   ],

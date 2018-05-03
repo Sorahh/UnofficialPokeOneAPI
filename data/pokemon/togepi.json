@@ -60,7 +60,8 @@
   "evolutions": [
     {
       "to": "Togetic",
-      "happiness": true
+      "happiness": true, 
+      "level_up": true
     }
   ],
   "categories": {
