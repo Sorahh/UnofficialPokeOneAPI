@@ -62,9 +62,8 @@
     },
     {
       "to": "Shedinja",
-      "level": 20,
       "conditions": [
-        "With empty spot in party"
+        " appears after evolving to Ninjask, if there's an empty slot in the party and player has a spare Poké Ball"
       ]
     }
   ],

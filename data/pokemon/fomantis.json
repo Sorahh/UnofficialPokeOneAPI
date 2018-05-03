@@ -62,7 +62,7 @@
       "to": "Lurantis",
       "level": 34,
       "conditions": [
-        "Daytime"
+        "during the day"
       ]
     }
   ],

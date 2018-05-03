@@ -64,7 +64,7 @@
       "to": "Salazzle",
       "level": 33,
       "conditions": [
-        "Female"
+        "if female"
       ]
     }
   ],

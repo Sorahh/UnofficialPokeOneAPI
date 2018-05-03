@@ -61,6 +61,7 @@
   "evolutions": [
     {
       "to": "Yanmega",
+      "level_up": true,
       "move_learned": "Ancient Power"
     }
   ],

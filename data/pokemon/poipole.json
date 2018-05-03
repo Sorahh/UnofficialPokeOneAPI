@@ -53,6 +53,7 @@
   "evolutions": [
     {
       "to": "Naganadel",
+      "level_up": true,
       "move_learned": "Dragon Pulse"
     }
   ],

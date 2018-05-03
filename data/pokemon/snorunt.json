@@ -67,7 +67,7 @@
       "to": "Froslass",
       "item": "Dawn Stone",
       "conditions": [
-        "Female"
+        "if female"
       ]
     }
   ],

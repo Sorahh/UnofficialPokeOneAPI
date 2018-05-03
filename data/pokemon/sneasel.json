@@ -61,9 +61,8 @@
   "evolutions": [
     {
       "to": "Weavile",
-      "hold_item": "Razor Claw",
       "conditions": [
-        "Nighttime"
+        "level up during the night holding a Razor Claw"
       ]
     }
   ],

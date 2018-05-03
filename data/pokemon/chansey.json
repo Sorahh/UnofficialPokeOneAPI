@@ -59,7 +59,8 @@
   "evolutions": [
     {
       "to": "Blissey",
-      "happiness": true
+      "happiness": true, 
+      "level_up": true
     }
   ],
   "evolution_from": "Happiny",

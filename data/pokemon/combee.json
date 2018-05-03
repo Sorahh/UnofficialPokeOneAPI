@@ -60,7 +60,7 @@
       "to": "Vespiquen",
       "level": 21,
       "conditions": [
-        "Female"
+        "if female"
       ]
     }
   ],

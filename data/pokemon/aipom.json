@@ -60,6 +60,7 @@
   "evolutions": [
     {
       "to": "Ambipom",
+      "level_up": true,
       "move_learned": "Double Hit"
     }
   ],

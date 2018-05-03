@@ -61,9 +61,8 @@
   "evolutions": [
     {
       "to": "Gliscor",
-      "hold_item": "Razor Fang",
       "conditions": [
-        "Nighttime"
+        "level up during the night holding a Razor Fang"
       ]
     }
   ],
