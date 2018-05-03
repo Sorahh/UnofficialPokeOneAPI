@@ -1,16 +1,303 @@
 {
-    "mater ball": {
+    "master ball": {
         "name": "Master Ball",
         "type": "balls",
         "description": "The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail.",
         "price_buy": "$",
         "price_sell": "$"
     },
-    "name": {
-        "name": "name",
-        "type": "type",
-        "description": "description",
+    "poke ball": {
+        "name": "Poke Ball",
+        "type": "balls",
+        "description": "A device for catching wild Pokemon. It's thrown like a ball at a Pokemon, comfortably encapsulating it's target.",
+        "price_buy": "$200",
+        "price_sell": "$"
+    },
+    "great ball": {
+        "name": "Great Ball",
+        "type": "balls",
+        "description": "A good, high-performace Poke Ball that provides a higher Pokemon catch rate than a standard Poke Ball can.",
+        "price_buy": "$600",
+        "price_sell": "$"
+    },
+    "ultra ball": {
+        "name": "Ultra Ball",
+        "type": "balls",
+        "description": "An ultra-high performance Poke Ball that provides a higher success rate for catching Pokemon than a Great Ball.",
+        "price_buy": "$1200",
+        "price_sell": "$"
+    },
+    "cherish ball": {
+        "name": "Cherish Ball",
+        "type": "balls",
+        "description": "A quite rare Poke Ball that has been crafted in order to commemorate a special occasion of some sort.",
         "price_buy": "$",
         "price_sell": "$"
-    }
+    },
+    "dive ball": {
+        "name": "Dive Ball",
+        "type": "balls",
+        "description": "A somewhat different Poke Ball that works especially well when catching Pokemon that live underwater",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "fast ball": {
+        "name": "Fast Ball",
+        "type": "balls",
+        "description": "A Poke Ball that makes it easier to catch Pokemon that are usually very quick to run away.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "friend ball": {
+        "name": "Friend Ball",
+        "type": "balls",
+        "description": "A strange Poke Ball that will make the wild Pokemon caught with it more friendly toward you immediately.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "heal ball": {
+        "name": "Heal Ball",
+        "type": "balls",
+        "description": "A remedial Poke Ball that restores the HP of a Pokemon caught with it and eliminates any status conditions.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "level ball": {
+        "name": "Level Ball",
+        "type": "balls",
+        "description": "A Poke Ball that makes it easier to catch Pokemon that are at a lower level than your own Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "love ball": {
+        "name": "Love Ball",
+        "type": "balls",
+        "description": "A Poke Ball that works best when catching a Pokemon that is of the opposite gender of your Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "lure ball": {
+        "name": "Lure Ball",
+        "type": "balls",
+        "description": "A Poke Ball that is good for catching Pokemon that you reel in with a Rod while out fishing.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "luxury ball": {
+        "name": "Luxury Ball",
+        "type": "balls",
+        "description": "A particularly comfortable Poke Ball that makes a wild Pokemon quickly grow friendlier after being caught.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "moon ball": {
+        "name": "Moon Ball",
+        "type": "balls",
+        "description": "A Poke Ball that will make it easier to catch Pokemon that can evolve using a Moon Stone.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "nest ball": {
+        "name": "Nest Ball",
+        "type": "balls",
+        "description": "A somewhat different Poke Ball that becomes more effetive the lower the level of the wild Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "net ball": {
+        "name": "Net Ball",
+        "type": "balls",
+        "description": "A somewhat different Poke Ball that is more effective when attempting to catch Water or Bug type Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "premier ball": {
+        "name": "Premier Ball",
+        "type": "balls",
+        "description": "A somewhat rare Poke Ball that was made as a commemorative time used to celebrate an event of some sort.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "repeat ball": {
+        "name": "Repeat Ball",
+        "type": "balls",
+        "description": "A somewhat different Poke Ball that works especially well on Pokemon species that have been caught before.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "timer ball": {
+        "name": "Timer Ball",
+        "type": "balls",
+        "description": "A somewhat different Poke Ball that becomes progressively more effective the more turns that are taken in battle.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "potion": {
+        "name": "Potion",
+        "type": "medicine",
+        "description": "A spray-type medicine for treating wounds. It can be used to restore 20 HP to an injured Pokemon.",
+        "price_buy": "$300",
+        "price_sell": "$"
+    },
+    "super potion": {
+        "name": "Super Potion",
+        "type": "medicine",
+        "description": "A spray-type medicine for treating wounds. It can be used to restore 60 HP to an injured Pokemon.",
+        "price_buy": "$700",
+        "price_sell": "$"
+    },
+    "hyper potion": {
+        "name": "Hyper Potion",
+        "type": "medicine",
+        "description": "A spray-type medicine for treating wounds. It can be used to restore 120 HP to an injured Pokemon.",
+        "price_buy": "$1200",
+        "price_sell": "$"
+    },
+    "max potion": {
+        "name": "Max Potion",
+        "type": "medicine",
+        "description": "A spray-type medicine for treating wounds. It will completely restore the max HP of a single Pokemon.",
+        "price_buy": "$2500",
+        "price_sell": "$"
+    },
+    "revive": {
+        "name": "Revive",
+        "type": "medicine",
+        "description": "A medicine that can revive fainted Pokemon. It also restores half of a fainted Pokemon's maximum HP.",
+        "price_buy": "$1500",
+        "price_sell": "$"
+    },
+    "antidote": {
+        "name": "Antidote",
+        "type": "medicine",
+        "description": "A spray-type medicine for poisoning. It can be used once to lift the effects of being poisoned from a Pokemon.",
+        "price_buy": "$100",
+        "price_sell": "$"
+    },
+    "paralyze heal": {
+        "name": "Paralyze Heal",
+        "type": "medicine",
+        "description": "A spray-type medicine for paralysis. It can used once to free a Pokemon that has been paralyzed.",
+        "price_buy": "$200",
+        "price_sell": "$"
+    },
+    "burn heal": {
+        "name": "Burn Heal",
+        "type": "medicine",
+        "description": "A spray-type medicine for treating burns. It can used once to heal a Pokemon suffering from a burn..",
+        "price_buy": "$200",
+        "price_sell": "$"
+    },
+    "ice heal": {
+        "name": "Ice Heal",
+        "type": "medicine",
+        "description": "A spray-type medicine for freezing. It can be used once to defrost a Pokemon that been frozen solid.",
+        "price_buy": "$250",
+        "price_sell": "$"
+    },
+    "awakening": {
+        "name": "Awakening",
+        "type": "medicine",
+        "description": "A spray-type medicine used against sleep. it can be used once to rouse a Pokemon from the clutches of sleep.",
+        "price_buy": "$250",
+        "price_sell": "$"
+    },
+    "full heal": {
+        "name": "Full Heal",
+        "type": "medicine",
+        "description": "A spray-type medicine that is broadly effective. It can be used once to heal all the status conditions of a Pokemon.",
+        "price_buy": "$600",
+        "price_sell": "$"
+    },
+    "big malasada": {
+        "name": "Big Malasada",
+        "type": "medicine",
+        "description": "The Alola region's local specialty fried. It can be used once to heal all the status conditions of a Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "energy powder": {
+        "name": "Energy Powder",
+        "type": "medicine",
+        "description": "A bitter medicine powder. When consumed, it restores 60 HP to an injured Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "energy root": {
+        "name": "Energy Root",
+        "type": "medicine",
+        "description": "An extremely bitter medicinal root. When consumed, it restores 120 HP to an injured Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "ether": {
+        "name": "Ether",
+        "type": "medicine",
+        "description": "This medicine can restore 10 PP to a single selected move that has been learned by a Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "full restore": {
+        "name": "Full Restore",
+        "type": "medicine",
+        "description": "A medicine that can be used to fully restore the HP of a single Pokemon and heal any status conditions it has.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "lava cookie": {
+        "name": "Lava Cookie",
+        "type": "medicine",
+        "description": "Lavaridge Town's local specialty. It can be used once to heal all the status conditions of a Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "lemonade": {
+        "name": "Lemonade",
+        "type": "medicine",
+        "description": "A very sweet and refreshing drink. When consumed, it restores 70 HP to an injured Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "max elixir": {
+        "name": "Max Elixir",
+        "type": "medicine",
+        "description": "This medicine can fully restore the PP of all the moves that have been learned by a Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "max ether": {
+        "name": "Max Ether",
+        "type": "medicine",
+        "description": "This medicine can fully restore the PP of a single selected move that has been learned by a Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "max revive": {
+        "name": "Max Revive",
+        "type": "medicine",
+        "description": "A medicine that can revive fainted Pokemon. It also fully restores a fainted Pokemon's maximum HP.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "old gateau": {
+        "name": "Old Gateau",
+        "type": "medicine",
+        "description": "The Old Chateau's hidden specialty. It can be used once to heal all the status conditions of a Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "sweet heart": {
+        "name": "Sweet Heart",
+        "type": "medicine",
+        "description": "A piece of cloyingly sweet chocolate. When consumed, it restores 20 HP to an injured Pokemon.",
+        "price_buy": "$",
+        "price_sell": "$"
+    },
+    "name": {
+        "name": "",
+        "type": "",
+        "description": "",
+        "price_buy": "$",
+        "price_sell": "$"
+    }    
 }
