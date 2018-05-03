@@ -1,47 +1,65 @@
 const express = require('express');
 const fs = require("fs")
 const moment = require("moment")
+const sql = require("sqlite");
+
 
 module.exports = {
     userToken: function(request, response) {
-        let tokens = fs.readFileSync('./tokens/token.json')
-        let fulltokens = JSON.parse(tokens);
         var findusername = request.query.username
         var findpassword = request.query.password
 
         var reply;
 
-        if (fulltokens[findusername]) {
-            if (fulltokens[findusername].password == findpassword) {
-                reply = {
-                    token: fulltokens[findusername].token
-                }
+        if (!request.query.username) return;
+        if (!request.query.password) return;
+        if (request.query.token === "null") {
+            return response.send("Invalid Token")
+        } 
+        sql.get(`SELECT * FROM users WHERE username ="${findusername}"`).then(row => {
+            if (!row) {
+                response.send("User Does not Exist")
             } else {
-                reply = {
-                    Error: "Password does not match"
+                if (findpassword !== row.password) {
+                    response.send("Incorrect Password")
+                } else {
+                    reply = {
+                        User: row.username,
+                        Token: row.token
+                    }
+                    response.send(reply)
                 }
             }
-        } else {
-            reply = {
-                Error: "That user is not in our Database"
-            }
-        }
+        })
 
-        response.send(reply)
+        
     },
     tokenCheck: function(request, response, next) {
-        let tokens = fs.readFileSync('./tokens/users.json')
-        let fulltokens = JSON.parse(tokens);
-        var checkToke = request.query.token
-        var reply;
-        if (!checkToke) {
-            response.send("Token Required")
-        }
-        if (!fulltokens[checkToke]) {
-            response.send("Invalid Token")
-        } else {
-            next()
-        }
+        if (!request.query.token) return;
+        if (request.query.token === "null") {
+            return response.send("Invalid Token")
+        } 
+        sql.get(`SELECT * FROM users WHERE token ="${request.query.token}"`).then(row => {
+            if (!row) {
+                response.send("Invalid Token")
+            } else {
+                next()
+                }
+            })
+
+        //let fulltokens = JSON.parse(tokens);
+        // var checkToke = request.query.token
+        // var reply;
+        // if (!checkToke) {
+        //     response.send("Token Required")
+        // }
+        // if (!fulltokens[checkToke]) {
+        //     response.send("Invalid Token")
+        // } else {
+        //     next()
+        // }
+
+
     },
     banned: function(request, response, next) {
         var ip = fs.readFileSync('./bans/ips.json')
