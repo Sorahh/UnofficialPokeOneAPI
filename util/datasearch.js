@@ -4,12 +4,20 @@ const moment = require("moment")
 
 module.exports = {
     pokemon: function(request, response) {
+        var reply;
+        if(!request.params.search) {
+            reply = {
+                status: "400",
+                error: "Bad Request"
+            }
+            return response.send(reply);
+        }
         var check = fs.existsSync(`./data/pokemon/${request.params.search.toLowerCase()}.json`)
         if (check == true) {
         var mons = fs.readFileSync(`./data/pokemon/${request.params.search.toLowerCase()}.json`)
         var pokesinfo = JSON.parse(mons);
         var pokeData = request.params.search;
-        var reply;
+        
     
         if (pokesinfo) {
         reply = {
@@ -37,12 +45,20 @@ module.exports = {
 
     },
     moves: function(request, response) {
+        var reply;
+        if(!request.params.search) {
+            reply = {
+                status: "400",
+                error: "Bad Request"
+            }
+            return response.send(reply);
+        }
         var check = fs.existsSync(`./data/moves/${request.params.search.toLowerCase()}.json`)
         if (check == true) {
         var mons = fs.readFileSync(`./data/moves/${request.params.search.toLowerCase()}.json`)
         var pokesinfo = JSON.parse(mons);
         var pokeData = request.params.move;
-        var reply;
+
     
         if (pokesinfo) {
         reply = {
