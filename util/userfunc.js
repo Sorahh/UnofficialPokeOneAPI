@@ -47,19 +47,6 @@ module.exports = {
                 }
             })
 
-        //let fulltokens = JSON.parse(tokens);
-        // var checkToke = request.query.token
-        // var reply;
-        // if (!checkToke) {
-        //     response.send("Token Required")
-        // }
-        // if (!fulltokens[checkToke]) {
-        //     response.send("Invalid Token")
-        // } else {
-        //     next()
-        // }
-
-
     },
     banned: function(request, response, next) {
         var ip = fs.readFileSync('./bans/ips.json')

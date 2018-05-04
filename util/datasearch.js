@@ -224,6 +224,19 @@ module.exports = {
         var toVermilion;
         var moomoo;
         var mtmoon;
+        var oldbrother;
+        var youngbrother;
+        var herb;
+        //add to list
+        var monica; //monday
+        var tuscany; //tuesday
+        var wesley; //wednesday
+        var arthur; //thursday
+        var frieda; //friday
+        var santos; //saturday
+        var sunny; //sunday
+
+        // already added
         var today;
 
         //Reset
@@ -241,6 +254,16 @@ module.exports = {
                 toOlivine = "Now"
                 toVermilion = moment().day(1).hour(10).minute(03).fromNow()
                 moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                oldbrother = "Now"
+                youngbrother = moment().day(0).hour(10).minute(03).fromNow()
+                herb = "Now"
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = "Now"
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Saturday"
         
             } else {
@@ -250,6 +273,16 @@ module.exports = {
                 toOlivine = moment().day(2).hour(10).minute(03).fromNow()
                 toVermilion = moment().day(1).hour(10).minute(03).fromNow()
                 moomoo = "Now"
+                oldbrother = moment().day(2).hour(10).minute(03).fromNow()
+                youngbrother = "Now"
+                herb = "Now"
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = "Now"
                 today = "Sunday"
         
             }
@@ -262,6 +295,16 @@ module.exports = {
                 toOlivine = moment().day(2).hour(10).minute(03).fromNow()
                 toVermilion = moment().day(1).hour(10).minute(03).fromNow()
                 moomoo = "Now"
+                oldbrother = moment().day(2).hour(10).minute(03).fromNow()
+                youngbrother = "Now"
+                herb = "Now"
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = "Now"
                 today = "Sunday"
                 
             } else {
@@ -271,6 +314,16 @@ module.exports = {
                 toOlivine = moment().day(2).hour(10).minute(03).fromNow()
                 moomoo = moment().day(3).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
+                oldbrother = moment().day(2).hour(10).minute(03).fromNow()
+                youngbrother = moment().day(3).hour(10).minute(03).fromNow()
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = "Now"
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Monday"
         
             }
@@ -283,6 +336,16 @@ module.exports = {
                 toOlivine = moment().day(2).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
                 moomoo = moment().day(3).hour(10).minute(03).fromNow()
+                oldbrother = moment().day(2).hour(10).minute(03).fromNow()
+                youngbrother = moment().day(3).hour(10).minute(03).fromNow()
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = "Now"
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Monday"
         
             } else {
@@ -292,6 +355,16 @@ module.exports = {
                 toOlivine = "Now"
                 toVermilion = moment().day(3).hour(10).minute(03).fromNow()
                 moomoo = moment().day(3).hour(10).minute(03).fromNow()
+                oldbrother = "Now"
+                youngbrother = moment().day(3).hour(10).minute(03).fromNow()
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = "Now"
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Tuesday"
         
             }
@@ -304,6 +377,16 @@ module.exports = {
                 toOlivine = "Now"
                 toVermilion = moment().day(3).hour(10).minute(03).fromNow()
                 moomoo = moment().day(3).hour(10).minute(03).fromNow()
+                oldbrother = "Now"
+                youngbrother = moment().day(3).hour(10).minute(03).fromNow()
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = "Now"
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Tuesday"
         
             } else {
@@ -313,6 +396,16 @@ module.exports = {
                 toOlivine = moment().day(4).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
                 moomoo = "Now"
+                oldbrother = moment().day(4).hour(10).minute(03).fromNow()
+                youngbrother = "Now"
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = "Now"
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Wednesday"
         
             }
@@ -325,6 +418,16 @@ module.exports = {
                 toOlivine = moment().day(4).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
                 moomoo = "Now"
+                oldbrother = moment().day(4).hour(10).minute(03).fromNow()
+                youngbrother = "Now"
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = "Now"
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Wednesday"
         
             } else {
@@ -334,6 +437,16 @@ module.exports = {
                 toOlivine = "Now"
                 toVermilion = moment().day(5).hour(10).minute(03).fromNow()
                 moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                oldbrother = "Now"
+                youngbrother = moment().day(5).hour(10).minute(03).fromNow()
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = "Now"
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Thursday"
         
             }
@@ -346,6 +459,16 @@ module.exports = {
                 toOlivine = "Now"
                 toVermilion = moment().day(5).hour(10).minute(03).fromNow()
                 moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                oldbrother = "Now"
+                youngbrother = moment().day(5).hour(10).minute(03).fromNow()
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = "Now"
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Thursday"
         
             } else {
@@ -355,6 +478,16 @@ module.exports = {
                 toOlivine = moment().day(6).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
                 moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                oldbrother = moment().day(6).hour(10).minute(03).fromNow()
+                youngbrother = "Now"
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = "Now"
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Friday"
         
             }
@@ -367,6 +500,16 @@ module.exports = {
                 toOlivine = moment().day(6).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
                 moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                oldbrother =  moment().day(6).hour(10).minute(03).fromNow()
+                youngbrother = "Now"
+                herb = moment().day(6).hour(10).minute(03).fromNow()
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = "Now"
+                santos = moment().day(6).hour(10).minute(03).fromNow()
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Friday"
         
             } else {
@@ -376,6 +519,16 @@ module.exports = {
                 toOlivine = "Now"
                 toVermilion = moment().day(1).hour(10).minute(03).fromNow()
                 moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                oldbrother = "Now"
+                youngbrother = moment().day(0).hour(10).minute(03).fromNow()
+                herb = "Now"
+                monica = moment().day(1).hour(10).minute(03).fromNow()
+                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                santos = "Now"
+                sunny = moment().day(0).hour(10).minute(03).fromNow()
                 today = "Saturday"
         
             }
@@ -389,6 +542,16 @@ module.exports = {
             olivine: toOlivine,
             vermilion: toVermilion,
             moomoofarm: moomoo,
+            hairdresser1: oldbrother,
+            hairdresser2: youngbrother,
+            herbshop: herb,
+            mon: monica,
+            tue: tuscany,
+            wed: wesley,
+            thur: arthur,
+            fri: frieda,
+            sat: santos,
+            sun: sunny,
             day: today
         };
         response.send(reply)
@@ -437,5 +600,27 @@ module.exports = {
         }
     
         response.send(reply)
-    }
+    },
+    locations: function(request, response) {
+        var location = fs.readFileSync('./data/ingame/location.json')
+        var locationinfo = JSON.parse(location);
+        var locationData = request.params.search;
+        var reply;
+    
+        if (locationinfo[locationData]) {
+        reply = {
+        status : "200",
+        ability: locationData,
+        info: locationinfo[locationData]
+        }
+        } else {
+        reply = {
+            status: "404",
+            ability: locationData,
+            info: "Not Found"
+        };
+        }
+    
+        response.send(reply)
+    },
 }
