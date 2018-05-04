@@ -13,6 +13,8 @@ var RateLimit = require('express-rate-limit');
 const userfunc = require("./util/userfunc.js")
 const logger = require("./util/logger.js")
 const dsearch = require("./util/datasearch.js")
+const sql = require("sqlite");
+sql.open("./accounts.sqlite3");
 
 //API Listening
 function listening() {

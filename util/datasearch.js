@@ -2,6 +2,7 @@ const express = require('express');
 const fs = require("fs")
 const moment = require("moment")
 
+
 module.exports = {
     pokemon: function(request, response) {
         var reply;
@@ -42,7 +43,26 @@ module.exports = {
         response.send(reply)
     },
     items: function(request, response) {
-
+        var items = fs.readFileSync('./data/items/items.json')
+        var itemsinfo = JSON.parse(items);
+        var itemsdata = request.params.search;
+        var reply;
+    
+        if (itemsinfo[itemsdata]) {
+        reply = {
+        status : "200",
+        search: itemsdata,
+        data: itemsinfo[itemsdata]
+        }
+        } else {
+        reply = {
+            status: "404",
+            search: itemsdata,
+            info: "Not Found"
+        };
+        }
+    
+        response.send(reply)
     },
     moves: function(request, response) {
         var reply;
