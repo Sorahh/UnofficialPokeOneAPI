@@ -23,13 +23,13 @@ module.exports = {
         if (pokesinfo) {
         reply = {
         status : "200",
-        poke: pokeData,
+        search: pokeData,
         info: pokesinfo
         }
         } else {
         reply = {
             status: "404",
-            poke: pokeData,
+            search: pokeData,
             info: "Not Found"
         };
         }
@@ -83,13 +83,13 @@ module.exports = {
         if (pokesinfo) {
         reply = {
         status : "200",
-        move: pokeData,
+        search: pokeData,
         info: pokesinfo
         }
         } else {
         reply = {
             status: "404",
-            move: pokeData,
+            search: pokeData,
             info: "Not Found"
         };
         }
@@ -198,7 +198,7 @@ module.exports = {
         if (abilityinfo[abilityData]) {
         reply = {
         status : "200",
-        ability: abilityData,
+        search: abilityData,
         info: abilityinfo[abilityData]
         }
         } else {
@@ -610,13 +610,13 @@ module.exports = {
         if (locationinfo[locationData]) {
         reply = {
         status : "200",
-        ability: locationData,
+        search: locationData,
         info: locationinfo[locationData]
         }
         } else {
         reply = {
             status: "404",
-            ability: locationData,
+            search: locationData,
             info: "Not Found"
         };
         }
@@ -632,13 +632,13 @@ module.exports = {
         if (typesinfo[typesData]) {
         reply = {
         status : "200",
-        ability: typesData,
+        search: typesData,
         info: typesinfo[typesData]
         }
         } else {
         reply = {
             status: "404",
-            ability: typesData,
+            search: typesData,
             info: "Not Found"
         };
         }
