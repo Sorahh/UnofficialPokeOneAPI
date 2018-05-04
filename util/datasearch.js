@@ -623,4 +623,26 @@ module.exports = {
     
         response.send(reply)
     },
+    types: function(request, response) {
+        var types = fs.readFileSync('./data/types/types.json')
+        var typesinfo = JSON.parse(types);
+        var typesData = request.params.search;
+        var reply;
+    
+        if (typesinfo[typesData]) {
+        reply = {
+        status : "200",
+        ability: typesData,
+        info: typesinfo[typesData]
+        }
+        } else {
+        reply = {
+            status: "404",
+            ability: typesData,
+            info: "Not Found"
+        };
+        }
+    
+        response.send(reply)
+    }
 }
