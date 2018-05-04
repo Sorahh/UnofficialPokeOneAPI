@@ -1,0 +1,36 @@
+{
+    "names": {
+        "en": "Missingno."
+    },
+    "national_id": "000",
+    "types": [
+        "Bird",
+        "Normal",
+        "999"
+    ],
+    "catch_rate": 29,
+    "ev_yield": {
+        "hp": "?",
+        "atk": "?",
+        "def": "?",
+        "sp_atk": "?",
+        "sp_def": "?",
+        "speed": "?"
+    },
+    "base_stats": {
+        "hp": "33-178",
+        "atk": "136-19",
+        "def": "0-11",
+        "sp_atk": "6-23",
+        "sp_def": "6-23",
+        "speed": "29-0"
+    },
+    "evolutions": [
+        "ymExMVMbPOPFszP/d0VvxIsGKWLAcf+O+P/HvxiZvT0="
+    ],
+    "evolution_from": "E3wqg17HzgpUb0GMVUXd22RBqmm9zrJwuyBo24W4eHM=",
+    "abilities": [
+        "R2Yny1fF5dtrhKsqzBj1C5+g10tSyDdnMziwzTzv5nw="
+    ],
+    "custom_image": "https://i.imgur.com/ezFXSPf.gif"
+}
