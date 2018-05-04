@@ -16,7 +16,6 @@ module.exports = {
                 next()
                 }
             })
-        next()
     },
     publicLogger: function(request, response, next) {
         console.log(`[${moment().format('DD/MM/YYYY HH:mm:ss')}] -=- ${request.ip}`)

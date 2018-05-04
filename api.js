@@ -65,6 +65,7 @@ app.get("/public/ability/:search?", dsearch.abilities);
 app.get("/public/timeEvents", dsearch.timeEvents);
 app.get("/public/quests/:search?", dsearch.quests);
 app.get("/public/guilds/:search?", dsearch.guilds);
+app.get("/public/location/:search?", dsearch.locations);
 
 //Searches {Private}
 app.get("/private/pokemon/:search?", dsearch.pokemon);
@@ -79,3 +80,4 @@ app.get("/private/ability/:search?", dsearch.abilities);
 app.get("/private/timeEvents", dsearch.timeEvents);
 app.get("/private/quests/:search?", dsearch.quests);
 app.get("/private/guilds/:search?", dsearch.guilds);
+app.get("/private/location/:search?", dsearch.locations);
