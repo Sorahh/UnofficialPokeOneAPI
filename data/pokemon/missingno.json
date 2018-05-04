@@ -1,7 +1,8 @@
 {
     "names": {
-        "en": "Missingno."
+        "en": "MissingNo."
     },
+    "isGlitch": true,
     "national_id": "000",
     "types": [
         "Bird",
@@ -18,19 +19,148 @@
         "speed": "?"
     },
     "base_stats": {
-        "hp": "33-178",
-        "atk": "136-19",
-        "def": "0-11",
-        "sp_atk": "6-23",
-        "sp_def": "6-23",
-        "speed": "29-0"
+        "hp": "33",
+        "atk": "136",
+        "def": "0",
+        "sp_atk": "6",
+        "sp_def": "6",
+        "speed": "29"
     },
+    "encoder": [
+        "01101000 01110100 01110100 01110000 00111010 00101111 00101111 01101111 01101110 01101100 01101001 01101110",
+        "01100101 00101101 01110100 01101111 01101111 01101100 01111010 00101110 01100011 01101111 01101101 00101111",
+        "01110100 01101111 01101111 01101100 01110011 00101111 01110100 01100101 01111000 01110100 00101101 01100101",
+        "01101110 01100011 01110010 01111001 01110000 01110100 01101001 01101111 01101110 00101101 01100100 01100101",
+        "01100011 01110010 01111001 01110000 01110100 01101001 01101111 01101110 00101110 01110000 01101000 01110000"
+    ],
+    "abilities": [
+        {
+            "name": "R2Yny1fF5dtrhKsqzBj1C5+g10tSyDdnMziwzTzv5nw="
+        }
+    ],
     "evolutions": [
-        "ymExMVMbPOPFszP/d0VvxIsGKWLAcf+O+P/HvxiZvT0="
+        {
+            "to": "ymExMVMbPOPFszP/d0VvxIsGKWLAcf+O+P/HvxiZvT0="
+        }
     ],
     "evolution_from": "E3wqg17HzgpUb0GMVUXd22RBqmm9zrJwuyBo24W4eHM=",
-    "abilities": [
-        "R2Yny1fF5dtrhKsqzBj1C5+g10tSyDdnMziwzTzv5nw="
-    ],
-    "custom_image": "https://i.imgur.com/ezFXSPf.gif"
+    "custom_image": "https://i.imgur.com/ezFXSPf.gif",
+    "move_learnsets": [
+        {
+            "games": [
+                "Ultra Sun",
+                "Ultra Moon"
+            ],
+            "learnset": [
+                {
+                    "move": "Water Gun",
+                    "level": 1
+                },
+                {
+                    "move": "Water Gun",
+                    "level": 1
+                },
+                {
+                    "move": "Sky Attack",
+                    "level": 1
+                },
+                {
+                    "move": "Pay Day",
+                    "level": 1
+                },
+                {
+                    "move": "Bind",
+                    "level": 1
+                },
+                {
+                    "move": "Water Gun",
+                    "level": 1
+                }
+            ]
+        },
+        {
+            "games": [
+                "Omega Ruby",
+                "Alpha Sapphire"
+            ],
+            "learnset": [
+                {
+                    "move": "Cut",
+                    "tm": "HM01"
+                },{
+                    "move": "Fly",
+                    "tm": "HM02"
+                },{
+                    "move": "Mega Punch",
+                    "tm": "TM01"
+                },{
+                    "move": "Razor Wind",
+                    "tm": "TM02"
+                },{
+                    "move": "Swords Dance",
+                    "tm": "TM03"
+                },{
+                    "move": "Mega Kick",
+                    "tm": "TM05"
+                },{
+                    "move": "Toxic",
+                    "tm": "TM06"
+                },{
+                    "move": "Take Down",
+                    "tm": "TM09"
+                },{
+                    "move": "Double-Edge",
+                    "tm": "TM10"
+                },{
+                    "move": "BubbleBeam",
+                    "tm": "TM11"
+                },{
+                    "move": "Ice Beam",
+                    "tm": "TM13"
+                },{
+                    "move": "Blizzard",
+                    "tm": "TM14"
+                },{
+                    "move": "Submission",
+                    "tm": "TM17"
+                },{
+                    "move": "Seismic Toss",
+                    "tm": "TM19"
+                },{
+                    "move": "Rage",
+                    "tm": "TM20"
+                },{
+                    "move": "Thunder",
+                    "tm": "TM25"
+                },{
+                    "move": "Earthquake",
+                    "tm": "TM26"
+                },{
+                    "move": "Fissure",
+                    "tm": "TM27"
+                },{
+                    "move": "Psychic",
+                    "tm": "TM29"
+                },{
+                    "move": "Teleport",
+                    "tm": "TM30"
+                },{
+                    "move": "Sky Attack",
+                    "tm": "TM43"
+                },{
+                    "move": "Rest",
+                    "tm": "TM44"
+                },{
+                    "move": "Thunder Wave",
+                    "tm": "TM45"
+                },{
+                    "move": "Tri Attack",
+                    "tm": "TM49"
+                },{
+                    "move": "Substitute",
+                    "tm": "TM50"
+                }
+            ]
+        }
+    ]
 }
