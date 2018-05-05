@@ -1,2072 +1,794 @@
 {
     "normal": {
-        "name Normal",
+        "name": "Normal",
+        "colour": "0xFFFFFF",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 0.5"
-            },
-            {
-                "Ghost 0"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 0.5",
+            "Ghost 0",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 0"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 2",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 0",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ]
     },
     "fire": {
-        "name Fire",
+        "name": "Fire",
+        "colour": "0xFF0000",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 0.5"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 2"
-            },
-            {
-                "Rock 0.5"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 0.5"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 2"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 0.5",
+            "Electric 1",
+            "Grass 2",
+            "Ice 2",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 2",
+            "Rock 0.5",
+            "Ghost 1",
+            "Dragon 0.5",
+            "Dark 1",
+            "Steel 2",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 2"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 0.5"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 0.5"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 2",
+            "Electric 1",
+            "Grass 0.5",
+            "Ice 0.5",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 2",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 0.5",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 0.5"
         ]
     },
     "water": {
-        "name Water",
+        "name": "Water",
+        "colour": "0x1787FF",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 2"
-            },
-            {
-                "Water 0.5"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 0.5"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 2",
+            "Water 0.5",
+            "Electric 1",
+            "Grass 0.5",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 2",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 0.5",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 0.5"
-            },
-            {
-                "Electric 2"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 0.5"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 0.5",
+            "Electric 2",
+            "Grass 2",
+            "Ice 0.5",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 1"
         ]
     },
     "electric": {
-        "name Electric",
+        "name": "Electric",
+        "colour": "0xFFFB05",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 2"
-            },
-            {
-                "Electric 0.5"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 0"
-            },
-            {
-                "Flying 2"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 0.5"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 2",
+            "Electric 0.5",
+            "Grass 0.5",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 0",
+            "Flying 2",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 0.5",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 0.5"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 0.5"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 0.5",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 2",
+            "Flying 0.5",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 1"
         ]
     },
     "grass": {
-        "name Grass",
+        "name": "Grass",
+        "colour": "0x00BF00",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 2"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 0.5"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 0.5"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 2",
+            "Electric 1",
+            "Grass 0.5",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 0.5",
+            "Ground 2",
+            "Flying 0.5",
+            "Psychic 1",
+            "Bug 0.5",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 0.5",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 2"
-            },
-            {
-                "Water 0.5"
-            },
-            {
-                "Electric 0.5"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 2"
-            },
-            {
-                "Ground 0.5"
-            },
-            {
-                "Flying 2"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 2"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 2",
+            "Water 0.5",
+            "Electric 0.5",
+            "Grass 0.5",
+            "Ice 2",
+            "Fighting 1",
+            "Poison 2",
+            "Ground 0.5",
+            "Flying 2",
+            "Psychic 1",
+            "Bug 2",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ]
     },
     "ice": {
-        "name Ice",
+        "name": "Ice",
+        "colour": "0x52FCFF",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 0.5"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 0.5"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 2"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 2"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 0.5",
+            "Electric 1",
+            "Grass 2",
+            "Ice 0.5",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 2",
+            "Flying 2",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 2",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 2"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 0.5"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 2"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 2",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 0.5",
+            "Fighting 2",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 2",
+            "Fairy 1"
         ]
     },
     "fighting": {
-        "name Fighting",
+        "name": "Fighting",
+        "colour": "0x912727",
         "attacking": [
-            {
-                "Normal 2"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 0.5"
-            },
-            {
-                "Psychic 0.5"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 0"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 2"
-            },
-            {
-                "Steel 2"
-            },
-            {
-                "Fairy 0.5"
-            }
+            "Normal 2",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 2",
+            "Fighting 1",
+            "Poison 0.5",
+            "Ground 1",
+            "Flying 0.5",
+            "Psychic 0.5",
+            "Bug 0.5",
+            "Rock 2",
+            "Ghost 0",
+            "Dragon 1",
+            "Dark 2",
+            "Steel 2",
+            "Fairy 0.5"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 2"
-            },
-            {
-                "Psychic 2"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 0.5"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 0.5"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 2"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 2",
+            "Psychic 2",
+            "Bug 0.5",
+            "Rock 0.5",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 0.5",
+            "Steel 1",
+            "Fairy 2"
         ]
     },
     "poison": {
-        "name Poison",
+        "name": "Poison",
+        "colour": "0xBB00FF",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 0.5"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 0.5"
-            },
-            {
-                "Ghost 0.5"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0"
-            },
-            {
-                "Fairy 2"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 2",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 0.5",
+            "Ground 0.5",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 0.5",
+            "Ghost 0.5",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0",
+            "Fairy 2"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 2"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 0.5"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 0.5",
+            "Ice 1",
+            "Fighting 0.5",
+            "Poison 0.5",
+            "Ground 2",
+            "Flying 1",
+            "Psychic 2",
+            "Bug 0.5",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 0.5"
         ]
     },
     "ground": {
-        "name Ground",
+        "name": "Ground",
+        "colour": "0xFFD796",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 2"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 2"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 2"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 0"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 2"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 2",
+            "Water 1",
+            "Electric 2",
+            "Grass 0.5",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 2",
+            "Ground 1",
+            "Flying 0",
+            "Psychic 1",
+            "Bug 0.5",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 2",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 2"
-            },
-            {
-                "Electric 0"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 0.5"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 2",
+            "Electric 0",
+            "Grass 2",
+            "Ice 2",
+            "Fighting 1",
+            "Poison 0.5",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 0.5",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ]
     },
     "flying": {
-        "name Flying",
+        "name": "Flying",
+        "colour": "0xCC96FF",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 0.5"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 2"
-            },
-            {
-                "Rock 0.5"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 0.5",
+            "Grass 2",
+            "Ice 1",
+            "Fighting 2",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 2",
+            "Rock 0.5",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 2"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 0"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 2",
+            "Grass 0.5",
+            "Ice 2",
+            "Fighting 0.5",
+            "Poison 1",
+            "Ground 0",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 0.5",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ]
     },
     "psychic": {
-        "name Psychic",
+        "name": "Psychic",
+        "colour": "0xFF00BF",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 2"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 0.5"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 0"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 2",
+            "Poison 2",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 0.5",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 0",
+            "Steel 0.5",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 0.5"
-            },
-            {
-                "Bug 2"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 2"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 2"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 0.5",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 0.5",
+            "Bug 2",
+            "Rock 1",
+            "Ghost 2",
+            "Dragon 1",
+            "Dark 2",
+            "Steel 1",
+            "Fairy 1"
         ]
     },
     "bug": {
-        "name Bug",
+        "name": "Bug",
+        "colour": "0xB7FF00",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 0.5"
-            },
-            {
-                "Psychic 2"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 0.5"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 2"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 0.5"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 1",
+            "Electric 1",
+            "Grass 2",
+            "Ice 1",
+            "Fighting 0.5",
+            "Poison 0.5",
+            "Ground 1",
+            "Flying 0.5",
+            "Psychic 2",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 0.5",
+            "Dragon 1",
+            "Dark 2",
+            "Steel 0.5",
+            "Fairy 0.5"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 2"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 0.5"
-            },
-            {
-                "Flying 2"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 2",
+            "Water 1",
+            "Electric 1",
+            "Grass 0.5",
+            "Ice 1",
+            "Fighting 0.5",
+            "Poison 1",
+            "Ground 0.5",
+            "Flying 2",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 1"
         ]
     },
     "rock": {
-        "name Rock",
+        "name": "Rock",
+        "colour": "0xAD6B00",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 2"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 0.5"
-            },
-            {
-                "Flying 2"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 2"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 2",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 2",
+            "Fighting 0.5",
+            "Poison 1",
+            "Ground 0.5",
+            "Flying 2",
+            "Psychic 1",
+            "Bug 2",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 0.5"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 2"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 2"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 0.5"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 2"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 0.5",
+            "Fire 0.5",
+            "Water 2",
+            "Electric 1",
+            "Grass 2",
+            "Ice 1",
+            "Fighting 2",
+            "Poison 0.5",
+            "Ground 2",
+            "Flying 0.5",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 2",
+            "Fairy 1"
         ]
     },
     "ghost": {
-        "name Ghost",
+        "name": "Ghost",
+        "colour": "0x974FDB",
         "attacking": [
-            {
-                "Normal 0"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 2"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 2"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 0.5"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 0",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 2",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 2",
+            "Dragon 1",
+            "Dark 0.5",
+            "Steel 1",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 0"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 0"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 2"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 2"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 0",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 0",
+            "Poison 0.5",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 0.5",
+            "Rock 1",
+            "Ghost 2",
+            "Dragon 1",
+            "Dark 2",
+            "Steel 1",
+            "Fairy 1"
         ]
     },
     "dragon": {
-        "name Dragon",
+        "name": "Dragon",
+        "colour": "0x5500FF",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 2"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 0"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 2",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 0"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 0.5"
-            },
-            {
-                "Electric 0.5"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 2"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 2"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 0.5",
+            "Electric 0.5",
+            "Grass 0.5",
+            "Ice 2",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 2",
+            "Dark 1",
+            "Steel 1",
+            "Fairy 2"
         ]
     },
     "dark": {
-        "name Dark",
+        "name": "Dark",
+        "colour": "0x000000",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 2"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 2"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 0.5"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 0.5"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 0.5",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 2",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 2",
+            "Dragon 1",
+            "Dark 0.5",
+            "Steel 1",
+            "Fairy 0.5"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 0"
-            },
-            {
-                "Bug 2"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 0.5"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 0.5"
-            },
-            {
-                "Steel 1"
-            },
-            {
-                "Fairy 2"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 2",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 0",
+            "Bug 2",
+            "Rock 1",
+            "Ghost 0.5",
+            "Dragon 1",
+            "Dark 0.5",
+            "Steel 1",
+            "Fairy 2"
         ]
     },
     "steel": {
-        "name Steel",
+        "name": "Steel",
+        "colour": "0x696969",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 0.5"
-            },
-            {
-                "Electric 0.5"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 2"
-            },
-            {
-                "Fighting 1"
-            },
-            {
-                "Poison 1"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 2"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 1"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 2"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 0.5",
+            "Electric 0.5",
+            "Grass 1",
+            "Ice 2",
+            "Fighting 1",
+            "Poison 1",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 2",
+            "Ghost 1",
+            "Dragon 1",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 2"
         ],
         "defending": [
-            {
-                "Normal 0.5"
-            },
-            {
-                "Fire 2"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 0.5"
-            },
-            {
-                "Ice 0.5"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 0"
-            },
-            {
-                "Ground 2"
-            },
-            {
-                "Flying 0.5"
-            },
-            {
-                "Psychic 0.5"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 0.5"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 0.5"
-            },
-            {
-                "Dark 1"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 0.5"
-            }
+            "Normal 0.5",
+            "Fire 2",
+            "Water 1",
+            "Electric 1",
+            "Grass 0.5",
+            "Ice 0.5",
+            "Fighting 2",
+            "Poison 0",
+            "Ground 2",
+            "Flying 0.5",
+            "Psychic 0.5",
+            "Bug 0.5",
+            "Rock 0.5",
+            "Ghost 1",
+            "Dragon 0.5",
+            "Dark 1",
+            "Steel 0.5",
+            "Fairy 0.5"
         ]
     },
     "fairy": {
-        "name Fairy",
+        "name": "Fairy",
+        "colour": "0xFFB3EC",
         "attacking": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 0.5"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 2"
-            },
-            {
-                "Poison 0.5"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 1"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 2"
-            },
-            {
-                "Dark 2"
-            },
-            {
-                "Steel 0.5"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 0.5",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 2",
+            "Poison 0.5",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 1",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 2",
+            "Dark 2",
+            "Steel 0.5",
+            "Fairy 1"
         ],
         "defending": [
-            {
-                "Normal 1"
-            },
-            {
-                "Fire 1"
-            },
-            {
-                "Water 1"
-            },
-            {
-                "Electric 1"
-            },
-            {
-                "Grass 1"
-            },
-            {
-                "Ice 1"
-            },
-            {
-                "Fighting 0.5"
-            },
-            {
-                "Poison 2"
-            },
-            {
-                "Ground 1"
-            },
-            {
-                "Flying 1"
-            },
-            {
-                "Psychic 1"
-            },
-            {
-                "Bug 0.5"
-            },
-            {
-                "Rock 1"
-            },
-            {
-                "Ghost 1"
-            },
-            {
-                "Dragon 0"
-            },
-            {
-                "Dark 0.5"
-            },
-            {
-                "Steel 2"
-            },
-            {
-                "Fairy 1"
-            }
+            "Normal 1",
+            "Fire 1",
+            "Water 1",
+            "Electric 1",
+            "Grass 1",
+            "Ice 1",
+            "Fighting 0.5",
+            "Poison 2",
+            "Ground 1",
+            "Flying 1",
+            "Psychic 1",
+            "Bug 0.5",
+            "Rock 1",
+            "Ghost 1",
+            "Dragon 0",
+            "Dark 0.5",
+            "Steel 2",
+            "Fairy 1"
         ]
     }
 }
