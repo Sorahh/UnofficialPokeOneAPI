@@ -12,57 +12,57 @@
     "aerilate": {
         "name": "Aerilate",
         "description": "Turns Normal-type moves into Flying-type moves.",
-        "effect": ""
+        "effect": "Affected moves now receive a 20% power boost."
     },
     "aftermath": {
         "name": "Aftermath",
-        "description": "Damages the attacker landing the finishing hit.",
-        "effect": ""
+        "description": "Damages the attacker if it contacts the Pokémon with a finishing hit.",
+        "effect": "When fainting due to damage from a contacting move, the attacking Pokémon loses ¼ of its own maximum HP. Will not activate if a Pokémon with Damp is on the field."
     },
     "air lock": {
         "name": "Air Lock",
-        "description": "Eliminates the effects of weather.",
-        "effect": ""
+        "description": "All effects of weather are negated.",
+        "effect": "The weather will remain but the effects will not."
     },
     "analytic": {
         "name": "Analytic",
-        "description": "Boosts move power when the Pokémon moves last.",
-        "effect": ""
+        "description": "Boosts move power by 30% when the Pokémon moves last.",
+        "effect": "If the opponents Pokemon moves first, any following moves by your own pokemon will have a power boost of 30%"
     },
     "anger point": {
         "name": "Anger Point",
-        "description": "Maxes Attack after taking a critical hit.",
-        "effect": ""
+        "description": "Maxes Attack stat after taking a critical hit.",
+        "effect": "When a Pokemon receives a critical hit, Attack Stat raises by 6 stages. No longer activates when substitute is hit"
     },
     "anticipation": {
         "name": "Anticipation",
-        "description": "Senses a foe's dangerous moves.",
-        "effect": ""
+        "description": "Senses the opposing Pokemon's dangerous moves.",
+        "effect": "Displays a message if the opponents Pokemon has a super effective move or has a One Hit Knockout move. Does not include Explosion or Self-Destruct."
     },
     "arena trap": {
         "name": "Arena Trap",
         "description": "Prevents the foe from fleeing.",
-        "effect": ""
+        "effect": "Prevents all grounded Pokemon from fleeing (Including Teleport) or switching out. Ghost-type Pokemon are immune to this ability. Pokemon with Arena Trap in the first place of the party increases wild encounter rate by 100%"
     },
     "aroma veil": {
         "name": "Aroma Veil",
         "description": "Protects allies from attacks that limit their move choices.",
-        "effect": ""
+        "effect": "Prevents the Pokemon with this Ability and its allies from being afflicted by Taunt, Torment, Encore, Disable, Cursed Body, Heal Block, and infatuation."
     },
     "aura break": {
         "name": "Aura Break",
-        "description": "The effects of “Aura” Abilities are reversed.",
-        "effect": ""
+        "description": "The effects of Aura Abilities are reversed to lower the power of affected moves.",
+        "effect": "Reverses the effects of Fairy Aura and Dark Aura. Divides power of moves of those types by 25%. Zygarde cannot switch between Abilities using an Ability Capsule."
     },
     "bad dreams": {
         "name": "Bad Dreams",
-        "description": "Reduces a sleeping foe's HP.",
-        "effect": ""
+        "description": "Reduces the HP of sleeping opposing Pokemon.",
+        "effect": "Inflicts damage to drowsy and sleeping Pokemon equal to 1/8 of its maximum HP. "
     },
     "battery": {
         "name": "Battery",
-        "description": "Raises power of teammates' Special moves.",
-        "effect": ""
+        "description": "Powers up ally Pokemon's special moves.",
+        "effect": "This Ability raises the power of allies' special moves by 30%."
     },
     "battle armor": {
         "name": "Battle Armor",
