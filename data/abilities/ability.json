@@ -1,7 +1,14 @@
 {
+    "ability name, no caps at all, with space if two words" :{
+        "name" : "name of ability, with caps here please",
+        "description": "the official description that is used in games, use capital letter and full stop",
+        "effect" : "bulbapedia's insight on the actual effect - you'll need to do this manually i guess - also caps and full stop please"
+    },
+    
     "adaptability" : {
         "name" : "Adaptability",
-        "description" : "Powers up moves of the same type"
+        "description" : "Powers up moves of the same type as the Pokémon.",
+        "effect" : "Increases STAB from 1.5× to 2×."
     },
     "aerilate" : {
         "name" : "Aerilate",
