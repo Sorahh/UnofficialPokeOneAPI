@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Yungoos",
-    "jp": "ヤングース Yangūsu",
-    "fr": "Manglouton",
-    "es": "Yungoos",
-    "de": "Mangunior",
-    "it": "Yungoos"
-  },
+  "name" : "Yungoos",
   "national_id": 734,
-  "alola_id": 13,
+  
   "types": [
     "Normal"
   ],
@@ -25,22 +18,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 255,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "13.2 lbs.",
   "weight_eu": "6.0 kg",
-  "base_exp_yield": 51,
-  "leveling_rate": "Medium Fast",
-  "color": "Brown",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -66,64 +56,21 @@
       ]
     }
   ],
-  "categories": {
-    "en": "Loitering Pokémon",
-    "de": "Patrouille"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
-      "de": "Mit seinen scharfen Zähnen schnappt es nach allem. Es lebte ursprünglich nicht in Alola und wurde aus einer anderen Region eingeführt."
-    },
-    "Moon": {
-      "en": "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
-      "de": "Die Futtersuche treibt es unaufhörlich umher, doch sobald die Sonne untergeht, wird es von Müdigkeit überfallen und schläft sofort ein."
-    },
-    "Ultra Sun": {
-      "en": "Its stomach takes up most of its long torso. It’s a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
-      "de": "Sein Magen füllt beinahe das gesamte Innere seines länglichen Körpers aus. Die bei diesem Vielfraß anfallenden Futterkosten sind enorm."
-    },
-    "Ultra Moon": {
-      "en": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
-      "de": "Es ist zwar ein Allesfresser, bevorzugt aber frische oder lebendige Nahrung. Auf der Suche nach Beute marschiert es die Straßen entlang."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 4,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Mudsdale",
-    "jp": "バンバドロ Banbadoro",
-    "fr": "Bourrinos",
-    "es": "Mudsdale",
-    "de": "Pampross",
-    "it": "Mudsdale"
-  },
+  "name" : "Mudsdale",
   "national_id": 750,
-  "alola_id": 133,
+  
   "types": [
     "Ground"
   ],
@@ -25,22 +18,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 60,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "8'02\"",
   "height_eu": "2.5 m",
   "weight_us": "2028.3 lbs.",
   "weight_eu": "920.0 kg",
-  "base_exp_yield": 175,
-  "leveling_rate": "Medium Fast",
-  "color": "Brown",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -58,66 +48,22 @@
     "speed": 35
   },
   "evolution_from": "Mudbray",
-  "categories": {
-    "en": "Draft Horse Pokémon",
-    "de": "Zugpferd"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
-      "de": "Der Schlamm, den es ausspuckt, schützt gegen Wind und Wetter, wenn er hart wird. Deshalb hat man früher auch Hauswände damit verstärkt."
-    },
-    "Moon": {
-      "en": "Its heavy, mud-covered kicks are its best means of attack, and it can reduce large trucks to scrap without breaking a sweat.",
-      "de": "Sein wohl bester Angriff ist ein heftiger, schlammiger Tritt. Damit kann es auch große Laster mühelos verschrotten."
-    },
-    "Ultra Sun": {
-      "en": "It remains calm and unmoving no matter the situation. It mixes dirt with the saliva in its mouth to make a special kind of mud.",
-      "de": "Dieses unerschütterliche und stets gelassene Pokémon produziert aus seinem Speichel und Erde einen speziellen Schlamm in seinem Maul."
-    },
-    "Ultra Moon": {
-      "en": "It can trudge mountain roads without rest for three days and three nights, all the while dragging a 10-ton load.",
-      "de": "Es kann drei Tage und Nächte lang eine Last von zehn Tonnen über Bergpfade ziehen, ohne eine Pause einlegen zu müssen."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 72,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

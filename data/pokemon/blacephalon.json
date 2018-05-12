@@ -1,23 +1,14 @@
 {
-  "names": {
-    "en": "Blacephalon",
-    "fr": "Pierroteknik",
-    "es": "Blacephalon",
-    "de": "Kopplosio",
-    "it": "Blacephalon"
-  },
-  "categories": {
-    "en": "Fireworks Pokémon",
-    "de": "Feuerwerk"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "sinnoh_id": null,
-  "alola_id": null,
-  "ultra_alola_id": 392,
+  "name" : "Blacephalon",
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,24 +25,12 @@
     "sp_def": 79,
     "speed": 107
   },
-  "pokedex_entries": {
-    "Ultra Sun": {
-      "en": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",
-      "de": "Dieses Wesen ist vermutlich eine Ultrabestie. Es nähert sich Menschen tänzelnd, nur um dann plötzlich seinen Kopf explodieren zu lassen."
-    },
-    "Ultra Moon": {
-      "en": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality.",
-      "de": "Eine Ultrabestie, die durch eine Ultrapforte kam. Sie erschreckt ihre Gegner mit Explosionen und raubt ihnen dann ihre Lebenskraft."
-    }
-  },
+  
   "variations": [
-
   ],
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "national_id": 806,
@@ -68,19 +47,16 @@
       "name": "Beast Boost"
     }
   ],
-  "catch_rate": 0,
-  "base_friendship": 0,
-  "base_exp_yield": 0,
-  "leveling_rate": "Slow",
+ 
+  
+  
+  
   "egg_groups": [
     "Undiscovered"
   ],
   "gender_ratios": null,
-  "hatch_time": [
-    1800,
-    1800
-  ],
-  "color": "White",
+  
+  
   "move_learnsets": [
     {
       "games": [
@@ -88,7 +64,6 @@
         "Moon"
       ],
       "learnset": [
-
       ]
     },
     {

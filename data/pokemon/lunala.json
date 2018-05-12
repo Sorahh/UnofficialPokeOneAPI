@@ -1,39 +1,22 @@
 {
-  "names": {
-    "en": "Lunala",
-    "jp": "ルナアーラ Lunala",
-    "fr": "Lunala",
-    "es": "Lunala",
-    "de": "Lunala",
-    "it": "Lunala"
-  },
-  "national_id": 792,
-  "alola_id": 292,
+  "name": "Lunala",
   "types": [
     "Psychic",
     "Ghost"
   ],
-  "abilities": [
-    {
+  "national_id": 792,
+  "abilities": [{
       "name": "Shadow Shield"
     }
   ],
-  "catch_rate": 45,
+  "gender_ratios": null,
   "egg_groups": [
     "Undiscovered"
-  ],
-  "hatch_time": [
-    30840,
-    31096
   ],
   "height_us": "13'01\"",
   "height_eu": "4.0 m",
   "weight_us": "264.6 lbs.",
   "weight_eu": "120.0 kg",
-  "base_exp_yield": 136,
-  "leveling_rate": "Slow",
-  "color": "Purple",
-  "base_friendship": 0,
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -50,90 +33,16 @@
     "sp_def": 107,
     "speed": 97
   },
-  "gender_ratios": null,
   "evolution_from": "Cosmoem",
-  "categories": {
-    "en": "Moone Pokémon",
-    "de": "Mondscheibe"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "mega_evolutions": [
-
-  ],
-  "evolutions": [
-
-  ],
-  "variation_names": {
-    "en": "Lunala",
-    "de": "Lunala"
-  },
-  "variations": [
-    {
-      "condition": "using Moongeist Beam",
-      "names": {
-        "en": "Full Moon",
-        "de": "Vollmondphase"
-      },
-      "types": [
-        "Psychic",
-        "Ghost"
-      ]
-    }
-  ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
-      "de": "Es heißt, es sei die weibliche Endstufe der Entwicklungsreihe von Cosmog. Ist sein drittes Auge aktiviert, zieht es in eine andere Welt."
-    },
-    "Moon": {
-      "en": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
-      "de": "Man sagt, es komme aus einer anderen Welt. Es verschlingt unaufhörlich Licht und sorgt so auch am helllichten Tag für Dunkelheit."
-    },
-    "Ultra Sun": {
-      "en": "Records of it exist in writings from long, long ago, where it was known by the name “the beast that calls the moon.”",
-      "de": "In Schriftstücken aus längst vergangenen Zeiten wird es als „Mondbringer“ bezeichnet."
-    },
-    "Ultra Moon": {
-      "en": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
-      "de": "Öffnet es eine Ultrapforte, ebnet es mitunter für fremde Kräfte und Lebewesen den Weg in unsere Welt."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 390,
-  "move_learnsets": [
-    {
+  
+  "evolutions": [],
+  "variations": [],
+  "move_learnsets": [{
       "games": [
         "Sun",
         "Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -384,8 +293,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

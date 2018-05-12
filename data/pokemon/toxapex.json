@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Toxapex",
-    "jp": "ドヒドイデ Dohidoide",
-    "fr": "Prédastérie",
-    "es": "Toxapex",
-    "de": "Aggrostella",
-    "it": "Toxapex"
-  },
+  "name" : "Toxapex",
   "national_id": 748,
-  "alola_id": 114,
+  
   "types": [
     "Poison",
     "Water"
@@ -26,22 +19,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 75,
+ 
   "egg_groups": [
     "Water 1"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "32.0 lbs.",
   "weight_eu": "14.5 kg",
-  "base_exp_yield": 173,
-  "leveling_rate": "Medium Fast",
-  "color": "Blue",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -59,66 +49,22 @@
     "speed": 35
   },
   "evolution_from": "Mareanie",
-  "categories": {
-    "en": "Brutal Star Pokémon",
-    "de": "Quäl-Stern"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
-      "de": "Kriecht mit seinen zwölf Beinen über den Meeresboden. Es hinterlässt oft etliche Überreste von Corasonn."
-    },
-    "Moon": {
-      "en": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
-      "de": "Wer das Gift von Aggrostella abbekommt, durchleidet drei schlimme Tage und Nächte. Überlebende tragen bleibende Schäden davon."
-    },
-    "Ultra Sun": {
-      "en": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
-      "de": "Es feuert hochgiftige Dornen auf seine Gegner ab. Kommen sie ihm zu nahe, mäht es sie mit den Krallen an seinen Beinen nieder."
-    },
-    "Ultra Moon": {
-      "en": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn’t affect Toxapex in there, so it’s very comfortable.",
-      "de": "Seine zwölf Beine bilden eine schützende Kuppel, in der es sich gut leben lässt, da das Innere nicht von der Strömung erfasst wird."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 46,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

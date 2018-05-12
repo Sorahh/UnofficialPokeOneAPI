@@ -1,23 +1,14 @@
 {
-  "names": {
-    "en": "Poipole",
-    "fr": "Vémini",
-    "es": "Poipole",
-    "de": "Venicro",
-    "it": "Poipole"
-  },
-  "categories": {
-    "en": "Poison Pin Pokémon",
-    "de": "Giftdorn"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "sinnoh_id": null,
-  "alola_id": null,
-  "ultra_alola_id": 261,
+  "name" : "Poipole",
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,21 +25,10 @@
     "sp_def": 67,
     "speed": 73
   },
-  "pokedex_entries": {
-    "Ultra Sun": {
-      "en": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
-      "de": "Diese Ultrabestie wird in der Welt, aus der sie kommt, so gemocht, dass sie oft als Partner für Reisen gewählt wird."
-    },
-    "Ultra Moon": {
-      "en": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
-      "de": "Diese Ultrabestie aus einer anderen Welt besprüht Gegner laut lachend mit einer giftigen Flüssigkeit aus den Stacheln auf ihrem Kopf."
-    }
-  },
+  
   "variations": [
-
   ],
   "mega_evolutions": [
-
   ],
   "evolutions": [
     {
@@ -71,19 +51,16 @@
       "name": "Beast Boost"
     }
   ],
-  "catch_rate": 0,
-  "base_friendship": 0,
-  "base_exp_yield": 0,
-  "leveling_rate": "Slow",
+ 
+  
+  
+  
   "egg_groups": [
     "Undiscovered"
   ],
   "gender_ratios": null,
-  "hatch_time": [
-    1800,
-    1800
-  ],
-  "color": "Purple",
+  
+  
   "move_learnsets": [
     {
       "games": [
@@ -91,7 +68,6 @@
         "Moon"
       ],
       "learnset": [
-
       ]
     },
     {

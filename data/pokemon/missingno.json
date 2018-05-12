@@ -1,7 +1,5 @@
 {
-    "names": {
-        "en": "MissingNo."
-    },
+    "name": "MissingNo.",
     "isGlitch": true,
     "national_id": "000",
     "types": [
@@ -9,7 +7,6 @@
         "Normal",
         "999"
     ],
-    "catch_rate": 29,
     "ev_yield": {
         "hp": "?",
         "atk": "?",
@@ -33,26 +30,20 @@
         "01101110 01100011 01110010 01111001 01110000 01110100 01101001 01101111 01101110 00101101 01100100 01100101",
         "01100011 01110010 01111001 01110000 01110100 01101001 01101111 01101110 00101110 01110000 01101000 01110000"
     ],
-    "abilities": [
-        {
-            "name": "R2Yny1fF5dtrhKsqzBj1C5+g10tSyDdnMziwzTzv5nw="
-        }
-    ],
-    "evolutions": [
-        {
-            "to": "ymExMVMbPOPFszP/d0VvxIsGKWLAcf+O+P/HvxiZvT0="
-        }
-    ],
+    "abilities": [{
+        "name": "R2Yny1fF5dtrhKsqzBj1C5+g10tSyDdnMziwzTzv5nw="
+    }],
+    "evolutions": [{
+        "to": "ymExMVMbPOPFszP/d0VvxIsGKWLAcf+O+P/HvxiZvT0="
+    }],
     "evolution_from": "E3wqg17HzgpUb0GMVUXd22RBqmm9zrJwuyBo24W4eHM=",
     "custom_image": "https://i.imgur.com/ezFXSPf.gif",
-    "move_learnsets": [
-        {
+    "move_learnsets": [{
             "games": [
                 "Ultra Sun",
                 "Ultra Moon"
             ],
-            "learnset": [
-                {
+            "learnset": [{
                     "move": "Water Gun",
                     "level": 1
                 },
@@ -83,84 +74,82 @@
                 "Omega Ruby",
                 "Alpha Sapphire"
             ],
-            "learnset": [
-                {
-                    "move": "Cut",
-                    "tm": "HM01"
-                },{
-                    "move": "Fly",
-                    "tm": "HM02"
-                },{
-                    "move": "Mega Punch",
-                    "tm": "TM01"
-                },{
-                    "move": "Razor Wind",
-                    "tm": "TM02"
-                },{
-                    "move": "Swords Dance",
-                    "tm": "TM03"
-                },{
-                    "move": "Mega Kick",
-                    "tm": "TM05"
-                },{
-                    "move": "Toxic",
-                    "tm": "TM06"
-                },{
-                    "move": "Take Down",
-                    "tm": "TM09"
-                },{
-                    "move": "Double-Edge",
-                    "tm": "TM10"
-                },{
-                    "move": "BubbleBeam",
-                    "tm": "TM11"
-                },{
-                    "move": "Ice Beam",
-                    "tm": "TM13"
-                },{
-                    "move": "Blizzard",
-                    "tm": "TM14"
-                },{
-                    "move": "Submission",
-                    "tm": "TM17"
-                },{
-                    "move": "Seismic Toss",
-                    "tm": "TM19"
-                },{
-                    "move": "Rage",
-                    "tm": "TM20"
-                },{
-                    "move": "Thunder",
-                    "tm": "TM25"
-                },{
-                    "move": "Earthquake",
-                    "tm": "TM26"
-                },{
-                    "move": "Fissure",
-                    "tm": "TM27"
-                },{
-                    "move": "Psychic",
-                    "tm": "TM29"
-                },{
-                    "move": "Teleport",
-                    "tm": "TM30"
-                },{
-                    "move": "Sky Attack",
-                    "tm": "TM43"
-                },{
-                    "move": "Rest",
-                    "tm": "TM44"
-                },{
-                    "move": "Thunder Wave",
-                    "tm": "TM45"
-                },{
-                    "move": "Tri Attack",
-                    "tm": "TM49"
-                },{
-                    "move": "Substitute",
-                    "tm": "TM50"
-                }
-            ]
+            "learnset": [{
+                "move": "Cut",
+                "tm": "HM01"
+            }, {
+                "move": "Fly",
+                "tm": "HM02"
+            }, {
+                "move": "Mega Punch",
+                "tm": "TM01"
+            }, {
+                "move": "Razor Wind",
+                "tm": "TM02"
+            }, {
+                "move": "Swords Dance",
+                "tm": "TM03"
+            }, {
+                "move": "Mega Kick",
+                "tm": "TM05"
+            }, {
+                "move": "Toxic",
+                "tm": "TM06"
+            }, {
+                "move": "Take Down",
+                "tm": "TM09"
+            }, {
+                "move": "Double-Edge",
+                "tm": "TM10"
+            }, {
+                "move": "BubbleBeam",
+                "tm": "TM11"
+            }, {
+                "move": "Ice Beam",
+                "tm": "TM13"
+            }, {
+                "move": "Blizzard",
+                "tm": "TM14"
+            }, {
+                "move": "Submission",
+                "tm": "TM17"
+            }, {
+                "move": "Seismic Toss",
+                "tm": "TM19"
+            }, {
+                "move": "Rage",
+                "tm": "TM20"
+            }, {
+                "move": "Thunder",
+                "tm": "TM25"
+            }, {
+                "move": "Earthquake",
+                "tm": "TM26"
+            }, {
+                "move": "Fissure",
+                "tm": "TM27"
+            }, {
+                "move": "Psychic",
+                "tm": "TM29"
+            }, {
+                "move": "Teleport",
+                "tm": "TM30"
+            }, {
+                "move": "Sky Attack",
+                "tm": "TM43"
+            }, {
+                "move": "Rest",
+                "tm": "TM44"
+            }, {
+                "move": "Thunder Wave",
+                "tm": "TM45"
+            }, {
+                "move": "Tri Attack",
+                "tm": "TM49"
+            }, {
+                "move": "Substitute",
+                "tm": "TM50"
+            }]
         }
     ]
 }

@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Mudbray",
-    "jp": "ドロバンコ Dorobanko",
-    "fr": "Tiboudet",
-    "es": "Mudbray",
-    "de": "Pampuli",
-    "it": "Mudbray"
-  },
+  "name" : "Mudbray",
   "national_id": 749,
-  "alola_id": 132,
+  
   "types": [
     "Ground"
   ],
@@ -25,22 +18,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 190,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "242.5 lbs.",
   "weight_eu": "110.0 kg",
-  "base_exp_yield": 77,
-  "leveling_rate": "Medium Fast",
-  "color": "Brown",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -63,64 +53,21 @@
       "level": 30
     }
   ],
-  "categories": {
-    "en": "Donkey Pokémon",
-    "de": "Packesel"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.",
-      "de": "Der ganze Schlamm an seinen Füßen sorgt für die nötige Bodenhaftung, die es für seinen kraftvollen Lauf braucht."
-    },
-    "Moon": {
-      "en": "It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine.",
-      "de": "Ein stures und eigensinniges Pokémon. Verbringt die Tage damit, Erde zu fressen und Schlamm daraus zu machen, mit dem es dann spielt."
-    },
-    "Ultra Sun": {
-      "en": "It loves playing in the mud. If it isn’t showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.",
-      "de": "Es spielt liebend gern im Schlamm. Kann es sich nicht täglich darin suhlen, hört es vor lauter Stress nicht mehr auf Befehle seines Trainers."
-    },
-    "Ultra Moon": {
-      "en": "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.",
-      "de": "Es ist ziemlich stark. Selbst wenn es mit dem 50-fachen seines Gewichts beladen wird, scheint ihm das nichts auszumachen."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 71,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

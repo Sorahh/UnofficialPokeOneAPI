@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Magearna",
-    "jp": "マギアナ Magearna",
-    "fr": "Magearna",
-    "es": "Magearna",
-    "de": "Magearna",
-    "it": "Magearna"
-  },
+  "name" : "Magearna",
   "national_id": 801,
-  "alola_id": 301,
+  
   "types": [
     "Steel",
     "Fairy"
@@ -18,22 +11,19 @@
       "name": "Soul-Heart"
     }
   ],
-  "catch_rate": 3,
+ 
   "egg_groups": [
     "Undiscovered"
   ],
-  "hatch_time": [
-    30840,
-    31096
-  ],
+  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "177.5 lbs.",
   "weight_eu": "80.5 kg",
-  "base_exp_yield": 120,
-  "leveling_rate": "Slow",
-  "color": "Gray",
-  "base_friendship": 0,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -51,67 +41,23 @@
     "speed": 65
   },
   "gender_ratios": null,
-  "categories": {
-    "en": "Artificial Pokémon",
-    "de": "Fabrikat"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
-      "de": "Dieses Pokémon wurde vor über 500 Jahren künstlich erschaffen. Es versteht die Sprache der Menschen, ohne sie selbst zu sprechen."
-    },
-    "Moon": {
-      "en": "Its mechanized body is merely a vessel. Its true self is its Soul-Heart, an artificial soul.",
-      "de": "Sein mechanischer Körper ist nur ein Gefäß. Das eigentliche Pokémon ist eine künstlich erschaffene Seele namens „Seelenherz“."
-    },
-    "Ultra Sun": {
-      "en": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
-      "de": "Standard-Form: Es synchronisiert sein Bewusstsein mit dem anderer, um ihre Gefühle zu verstehen. Dadurch fällt es ihm leicht, Menschen zu helfen.\nOriginalfarbe: So sah Magearna vor etwa 500 Jahren aus. Sein Körper ist lediglich ein Gefäß, das eigentliche Pokémon ist eine künstlich erschaffene Seele."
-    },
-    "Ultra Moon": {
-      "en": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
-      "de": "Standard-Form: Es wurde vor ungefähr 500 Jahren von einem Wissenschaftler erschaffen. Sein eigentlicher Körper ist der als „Seelenherz“ bezeichnete Teil.\nOriginalfarbe: Es wird durch seine künstlich erschaffene Seele angetrieben. Das überreiche Dekor weist es als Geschenk an eine Königsfamilie aus."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 401,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

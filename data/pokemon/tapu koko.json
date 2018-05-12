@@ -1,14 +1,8 @@
 {
-  "names": {
-    "en": "Tapu Koko",
-    "jp": "カプ・コケコ Kapu-Kokeko",
-    "fr": "Tokorico",
-    "es": "Tapu Koko",
-    "de": "Kapu-Riki",
-    "it": "Tapu Koko"
-  },
+  "name": "Tapu Koko",
+    
   "national_id": 785,
-  "alola_id": 285,
+  
   "types": [
     "Electric",
     "Fairy"
@@ -22,22 +16,19 @@
       "hidden": true
     }
   ],
-  "catch_rate": 3,
+ 
   "egg_groups": [
     "Undiscovered"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "45.2 lbs.",
   "weight_eu": "20.5 kg",
-  "base_exp_yield": 114,
-  "leveling_rate": "Slow",
-  "color": "Yellow",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -55,67 +46,23 @@
     "speed": 130
   },
   "gender_ratios": null,
-  "categories": {
-    "en": "Land Spirit Pokémon",
-    "de": "Schutzpatron"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
-      "de": "Der neugierige und lebhafte Schutzpatron von Mele-Mele. Es kann Gewitterwolken rufen und Blitze in seinem Körper speichern."
-    },
-    "Moon": {
-      "en": "It confuses its enemies by flying too quickly for the eye to follow. It has a hair-trigger temper but forgets what made it angry an instant later.",
-      "de": "Mit atemberaubendem Tempo bringt es Gegner aus dem Konzept. Es ist aufbrausend, vergisst aber sofort, warum es so wütend geworden ist."
-    },
-    "Ultra Sun": {
-      "en": "Although it’s called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
-      "de": "Trotz seiner Rolle als Schutzpatron kommt es vor, dass es wild wird und andere Pokémon oder Menschen angreift, die ihm die Laune verderben."
-    },
-    "Ultra Moon": {
-      "en": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
-      "de": "Der Schutzpatron Mele-Meles gebietet über Blitz und Donner. Dieses lebhafte, neugierige Pokémon zeigt sich ab und an den Menschen."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 150,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

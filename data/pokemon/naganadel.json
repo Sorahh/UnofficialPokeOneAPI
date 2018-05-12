@@ -1,23 +1,14 @@
 {
-  "names": {
-    "en": "Naganadel",
-    "fr": "Mandrillon",
-    "es": "Naganadel",
-    "de": "Agoyon",
-    "it": "Naganadel"
-  },
-  "categories": {
-    "en": "Poison Pin Pokémon",
-    "de": "Giftdorn"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "sinnoh_id": null,
-  "alola_id": null,
-  "ultra_alola_id": 262,
+  "name" : "Naganadel",
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,24 +25,12 @@
     "sp_def": 73,
     "speed": 121
   },
-  "pokedex_entries": {
-    "Ultra Sun": {
-      "en": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
-      "de": "Eines der Lebewesen, die Ultrabestien genannt werden. In seinem Körper bewahrt es Hunderte Liter giftiger Flüssigkeit auf."
-    },
-    "Ultra Moon": {
-      "en": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
-      "de": "Diese Ultrabestie verschießt aus ihren Giftstacheln ein leuchtendes, dickflüssiges Gift."
-    }
-  },
+  
   "variations": [
-
   ],
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": "Poipole",
   "national_id": 804,
@@ -68,19 +47,16 @@
       "name": "Beast Boost"
     }
   ],
-  "catch_rate": 0,
-  "base_friendship": 0,
-  "base_exp_yield": 0,
-  "leveling_rate": "Slow",
+ 
+  
+  
+  
   "egg_groups": [
     "Undiscovered"
   ],
   "gender_ratios": null,
-  "hatch_time": [
-    1800,
-    1800
-  ],
-  "color": "Purple",
+  
+  
   "move_learnsets": [
     {
       "games": [
@@ -88,7 +64,6 @@
         "Moon"
       ],
       "learnset": [
-
       ]
     },
     {

@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Buzzwole",
-    "jp": "マッシブーン Masshibūn",
-    "fr": "Mouscoto",
-    "es": "Buzzwole",
-    "de": "Masskito",
-    "it": "Buzzwole"
-  },
+  "name" : "Buzzwole",
   "national_id": 794,
-  "alola_id": 294,
+  
   "types": [
     "Bug",
     "Fighting"
@@ -18,22 +11,19 @@
       "name": "Beast Boost"
     }
   ],
-  "catch_rate": 25,
+ 
   "egg_groups": [
     "Undiscovered"
   ],
-  "hatch_time": [
-    30840,
-    31096
-  ],
+  
   "height_us": "7'10\"",
   "height_eu": "2.4 m",
   "weight_us": "735.5 lbs.",
   "weight_eu": "333.6 kg",
-  "base_exp_yield": 114,
-  "leveling_rate": "Slow",
-  "color": "Red",
-  "base_friendship": 0,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -51,67 +41,23 @@
     "speed": 79
   },
   "gender_ratios": null,
-  "categories": {
-    "en": "Swollen Pokémon",
-    "de": "Ausdehnung"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "This Ultra Beast appeared from another world. It shows off its body, but whether that display is a boast or a threat remains unclear.",
-      "de": "Eine Ultrabestie aus einer anderen Welt. Niemand weiß, ob sie ihren Körper aus Stolz oder zur Abschreckung stählt."
-    },
-    "Moon": {
-      "en": "A mysterious life-form called an Ultra Beast. Witnesses saw it pulverize a dump truck with a single punch.",
-      "de": "Eine rätselhafte Ultrabestie, die angeblich mit einem einzigen Schlag einen beladenen Laster pulverisieren kann."
-    },
-    "Ultra Sun": {
-      "en": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-      "de": "In dieser Welt wirkt es gefährlich und fremdartig, doch in seiner ursprünglichen Welt ist es ein ganz gewöhnliches Lebewesen."
-    },
-    "Ultra Moon": {
-      "en": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
-      "de": "Diese Ultrabestie stellt gerne ihre extrem angeschwollenen Muskeln stolz zur Schau."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 394,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

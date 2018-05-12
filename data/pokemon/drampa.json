@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Drampa",
-    "jp": "ジジーロン Jijīron",
-    "fr": "Draïeul",
-    "es": "Drampa",
-    "de": "Sen-Long",
-    "it": "Drampa"
-  },
+  "name" : "Drampa",
   "national_id": 780,
-  "alola_id": 244,
+  
   "types": [
     "Normal",
     "Dragon"
@@ -26,23 +19,20 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 70,
+ 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "9'10\"",
   "height_eu": "3.0 m",
   "weight_us": "407.9 lbs.",
   "weight_eu": "185.0 kg",
-  "base_exp_yield": 170,
-  "leveling_rate": "Medium Fast",
-  "color": "White",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -59,67 +49,23 @@
     "sp_def": 91,
     "speed": 36
   },
-  "categories": {
-    "en": "Placid Pokémon",
-    "de": "Gelassenheit"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
-      "de": "Es hat ein freundliches Wesen, aber wenn es zur Weißglut gebracht wird, zerstört es mit einem heftigen Hauch die gesamte Umgebung."
-    },
-    "Moon": {
-      "en": "This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
-      "de": "Es ist sehr freundlich und liebt Kinder. Häufig kommt es aus den Bergen herab in die Städte, um mit seinen kleinen Freunden zu spielen."
-    },
-    "Ultra Sun": {
-      "en": "If a child it has made friends with is bullied, Drampa will find the bully’s house and burn it to the ground.",
-      "de": "Wenn eines der Kinder, mit denen es befreundet ist, von jemandem gehänselt wird, sucht es das Haus des Übeltäters auf und brennt es nieder."
-    },
-    "Ultra Moon": {
-      "en": "It appears in towns and plays with the children. Drampa will protect kids when they’re in danger, so their moms don’t have to worry.",
-      "de": "Es besucht so manche Stadt und spielt mit den Kindern. Mütter können beruhigt sein, da es die Kinder auch in brenzligen Situationen beschützt."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 142,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

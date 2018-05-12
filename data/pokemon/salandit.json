@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Salandit",
-    "jp": "ヤトウモリ Yatōmori",
-    "fr": "Tritox",
-    "es": "Salandit",
-    "de": "Molunk",
-    "it": "Salandit"
-  },
+  "name" : "Salandit",
   "national_id": 757,
-  "alola_id": 161,
+  
   "types": [
     "Poison",
     "Fire"
@@ -26,23 +19,20 @@
     "male": 87.5,
     "female": 12.5
   },
-  "catch_rate": 120,
+ 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "10.6 lbs.",
   "weight_eu": "4.8 kg",
-  "base_exp_yield": 64,
-  "leveling_rate": "Medium Fast",
-  "color": "Black",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -68,64 +58,21 @@
       ]
     }
   ],
-  "categories": {
-    "en": "Toxic Lizard Pokémon",
-    "de": "Giftechse"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
-      "de": "Durch Verbrennung von Körperflüssigkeit erzeugt es ein Gas, das Feinde schwindelig und so zu leichten Zielen macht."
-    },
-    "Moon": {
-      "en": "Volcanoes or dry, craggy places are its home. It emanates a sweet-smelling poisonous gas that attracts bug Pokémon, then attacks them.",
-      "de": "Lebt in Vulkanen und trockenen Felsgebieten. Mit seinem süßlich duftenden Giftgas lockt es Käfer-Pokémon an, um sie anzugreifen."
-    },
-    "Ultra Sun": {
-      "en": "The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can’t evolve.",
-      "de": "Das Männchen ist dem Weibchen hörig. Da es diesem fast seine gesamte Beute gibt, leidet es an Unterernährung und entwickelt sich nicht."
-    },
-    "Ultra Moon": {
-      "en": "It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn’t deal well with Spinda, since it’s always reeling.",
-      "de": "Es bringt Gegner mit Giftgas ins Taumeln und schlägt dann zu. Mit Pandir, die von Natur aus taumeln, kommt es deshalb gar nicht klar."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 96,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

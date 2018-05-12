@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Guzzlord",
-    "jp": "アクジキング Akujikingu",
-    "fr": "Engloutyran",
-    "es": "Guzzlord",
-    "de": "Schlingking",
-    "it": "Guzzlord"
-  },
+  "name" : "Guzzlord",
   "national_id": 799,
-  "alola_id": 299,
+  
   "types": [
     "Dark",
     "Dragon"
@@ -18,22 +11,19 @@
       "name": "Beast Boost"
     }
   ],
-  "catch_rate": 15,
+ 
   "egg_groups": [
     "Undiscovered"
   ],
-  "hatch_time": [
-    30840,
-    31096
-  ],
+  
   "height_us": "18'01\"",
   "height_eu": "5.5 m",
   "weight_us": "1957.7 lbs.",
   "weight_eu": "888.0 kg",
-  "base_exp_yield": 114,
-  "leveling_rate": "Slow",
-  "color": "Black",
-  "base_friendship": 0,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -51,67 +41,23 @@
     "speed": 43
   },
   "gender_ratios": null,
-  "categories": {
-    "en": "Junkivore Pokémon",
-    "de": "Gaumenfolter"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It has gobbled mountains and swallowed whole buildings, according to reports. It's one of the Ultra Beasts.",
-      "de": "Eine Ultrabestie, die einigen Berichten zufolge ganze Berge vertilgt und selbst mehrstöckige Gebäude verschlingen kann."
-    },
-    "Moon": {
-      "en": "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.",
-      "de": "Eine gefährliche Ultrabestie, die ununterbrochen mit Fressen beschäftigt zu sein scheint. Es wurden jedoch nie Exkremente gefunden."
-    },
-    "Ultra Sun": {
-      "en": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-      "de": "In dieser Welt wirkt sein Aussehen gefährlich und fremdartig, doch in seiner ursprünglichen Welt ist es ein ganz gewöhnliches Lebewesen."
-    },
-    "Ultra Moon": {
-      "en": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.",
-      "de": "Eine unbekannte Lebensform, die zu den Ultrabestien gehört. Sie scheint immer hungrig zu sein, da sie ununterbrochen frisst."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 399,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

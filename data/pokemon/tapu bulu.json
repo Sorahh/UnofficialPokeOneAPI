@@ -1,14 +1,8 @@
 {
-  "names": {
-    "en": "Tapu Bulu",
-    "jp": "カプ・ブルル Kapu-Bulul",
-    "fr": "Tokotoro",
-    "es": "Tapu Bulu",
-    "de": "Kapu-Toro",
-    "it": "Tapu Bulu"
-  },
+  "name": "Tapu Bulu",
+   
   "national_id": 787,
-  "alola_id": 287,
+  
   "types": [
     "Grass",
     "Fairy"
@@ -22,22 +16,19 @@
       "hidden": true
     }
   ],
-  "catch_rate": 3,
+ 
   "egg_groups": [
     "Undiscovered"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "6'03\"",
   "height_eu": "1.9 m",
   "weight_us": "100.3 lbs.",
   "weight_eu": "45.5 kg",
-  "base_exp_yield": 114,
-  "leveling_rate": "Slow",
-  "color": "Red",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -55,67 +46,23 @@
     "speed": 75
   },
   "gender_ratios": null,
-  "categories": {
-    "en": "Land Spirit Pokémon",
-    "de": "Schutzpatron"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
-      "de": "Dieses Pokémon entwurzelt große Bäume und schwingt sie herum. Es lässt Pflanzen üppig gedeihen und absorbiert dann ihre Energie."
-    },
-    "Moon": {
-      "en": "The guardian deity of Ula'ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
-      "de": "Der träge Schutzpatron von Ula-Ula. Es stoppt seine Gegner mithilfe von Pflanzen und spießt sie dann mit seinen Hörnern auf."
-    },
-    "Ultra Sun": {
-      "en": "Although it’s called a guardian deity, it’s violent enough to crush anyone it sees as an enemy.",
-      "de": "Obwohl man es als Schutzpatron bezeichnet, verfügt es über die nötige Härte, um seine Feinde erbarmungslos zu vernichten."
-    },
-    "Ultra Moon": {
-      "en": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants.",
-      "de": "Als Gebieter über die Pflanzen macht Ula-Ulas Schutzpatron mit seinem Schweif auf sich aufmerksam, um unnötige Kämpfe zu vermeiden."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 160,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

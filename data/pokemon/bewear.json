@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Bewear",
-    "jp": "キテルグマ Kiteruguma",
-    "fr": "Chelours",
-    "es": "Bewear",
-    "de": "Kosturso",
-    "it": "Bewear"
-  },
+  "name" : "Bewear",
   "national_id": 760,
-  "alola_id": 170,
+  
   "types": [
     "Normal",
     "Fighting"
@@ -26,22 +19,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 70,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "6'11\"",
   "height_eu": "2.1 m",
   "weight_us": "297.6 lbs.",
   "weight_eu": "135.0 kg",
-  "base_exp_yield": 175,
-  "leveling_rate": "Medium Fast",
-  "color": "Pink",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -59,66 +49,22 @@
     "speed": 60
   },
   "evolution_from": "Stufful",
-  "categories": {
-    "en": "Strong Arm Pokémon",
-    "de": "Kraftarme"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
-      "de": "Dieses Pokémon verfügt über immense Muskelkraft und ist äußerst gefährlich. Sein Habitat ist generell Sperrgebiet."
-    },
-    "Moon": {
-      "en": "This Pokémon has the habit of hugging its companions. Many Trainers have left this world after their spines were squashed by its hug.",
-      "de": "Hat die Angewohnheit, Kameraden zu umarmen. Nur ist es leider so stark, dass so mancher Trainer schon einen kaputten Rücken davontrug."
-    },
-    "Ultra Sun": {
-      "en": "It waves its hands wildly in intimidation and warning. Life is over for anyone who doesn’t run away as fast as possible.",
-      "de": "Wenn es wild mit seinen Armen wedelt, ist das eine warnende Drohgebärde. Wem sein Leben lieb ist, sollte schleunigst die Flucht ergreifen."
-    },
-    "Ultra Moon": {
-      "en": "It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.",
-      "de": "Es ist für seine immense Stärke bekannt. Viele halten es für das gefährlichste Pokémon der Alola-Region."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 77,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

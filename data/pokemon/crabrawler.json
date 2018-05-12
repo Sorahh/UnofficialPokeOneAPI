@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Crabrawler",
-    "jp": "マケンカニ Makenkani",
-    "fr": "Crabagarre",
-    "es": "Crabrawler",
-    "de": "Krabbox",
-    "it": "Crabrawler"
-  },
+  "name" : "Crabrawler",
   "national_id": 739,
-  "alola_id": 59,
+  
   "types": [
     "Fighting"
   ],
@@ -25,22 +18,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 225,
+ 
   "egg_groups": [
     "Water 3"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "15.4 lbs.",
   "weight_eu": "7.0 kg",
-  "base_exp_yield": 68,
-  "leveling_rate": "Medium Fast",
-  "color": "Purple",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -66,64 +56,21 @@
       ]
     }
   ],
-  "categories": {
-    "en": "Boxing Pokémon",
-    "de": "Boxkampf"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "While guarding its weak points with its pincers, it looks for an opening and unleashes punches. When it loses, it foams at the mouth and faints.",
-      "de": "Schützt mit den Scheren seine Schwachstellen und bereitet einen Gegenschlag vor. Verliert es, bläst es Trübsal."
-    },
-    "Moon": {
-      "en": "It punches so much, its pincers often come off from overuse, but they grow back quickly. What little meat they contain is rich and delicious.",
-      "de": "Es verliert oft seine Scheren im Kampf, aber sie wachsen schnell nach. Obwohl diese nur wenig Fleisch enthalten, gelten sie als Delikatesse."
-    },
-    "Ultra Sun": {
-      "en": "Its hard pincers are well suited to both offense and defense. Fights between two Crabrawler are like boxing matches.",
-      "de": "Seine harten Scheren eignen sich sowohl für offensive als auch defensive Techniken. Kämpfe zwischen zwei Krabbox ähneln Boxkämpfen."
-    },
-    "Ultra Moon": {
-      "en": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
-      "de": "Manchmal hält es ein Kokowei für eine Palme und klettert es hinauf. Dieses schüttelt es dann wütend ab und verpasst ihm einen Tritt."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 24,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

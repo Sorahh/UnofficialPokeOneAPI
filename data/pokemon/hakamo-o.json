@@ -1,14 +1,8 @@
 {
-  "names": {
-    "en": "Hakamo-o",
-    "jp": "ジャランゴ Jarango",
-    "fr": "Écaïd",
-    "es": "Hakamo-o",
-    "de": "Mediras",
-    "it": "Hakamo-o"
-  },
+  "name":"Hakamo-o",
+    
   "national_id": 783,
-  "alola_id": 272,
+  
   "types": [
     "Dragon",
     "Fighting"
@@ -26,22 +20,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Dragon"
   ],
-  "hatch_time": [
-    10280,
-    10536
-  ],
+  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "103.6 lbs.",
   "weight_eu": "47.0 kg",
-  "base_exp_yield": 147,
-  "leveling_rate": "Slow",
-  "color": "Gray",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -65,63 +56,20 @@
       "level": 45
     }
   ],
-  "categories": {
-    "en": "Scaly Pokémon",
-    "de": "Schuppentier"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
-      "de": "Mit einem Kampfschrei stürzt es sich auf seine Beute und reißt sie mithilfe seiner Schuppen in kleine Stücke."
-    },
-    "Moon": {
-      "en": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.",
-      "de": "Seine Schuppen wachsen sehr schnell nach. Jede neue Schuppe ist härter und schärfer als die vorherige."
-    },
-    "Ultra Sun": {
-      "en": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
-      "de": "Es lässt seine Schuppen erklingen, indem es sie aneinanderschlägt. Wenn der Rhythmus seinen Höhepunkt erreicht, geht es zum Angriff über."
-    },
-    "Ultra Moon": {
-      "en": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they’re a popular item.",
-      "de": "Seine abgefallenen Schuppen lassen sich zu Töpfen oder Pfannen verarbeiten, welche Hitze gut übertragen und einfach zu verwenden sind."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 109,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Morelull",
-    "jp": "ネマシュ Nemashu",
-    "fr": "Spododo",
-    "es": "Morelull",
-    "de": "Bubungus",
-    "it": "Morelull"
-  },
+  "name" : "Morelull",
   "national_id": 755,
-  "alola_id": 145,
+  
   "types": [
     "Grass",
     "Fairy"
@@ -26,22 +19,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 190,
+ 
   "egg_groups": [
     "Grass"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "3.3 lbs.",
   "weight_eu": "1.5 kg",
-  "base_exp_yield": 57,
-  "leveling_rate": "Medium Fast",
-  "color": "Purple",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -64,64 +54,21 @@
       "level": 24
     }
   ],
-  "categories": {
-    "en": "Illuminating Pokémon",
-    "de": "Lumineszenz"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
-      "de": "Es streut blinkende Sporen aus. Jeder, der dieses Licht sieht, schläft fest ein."
-    },
-    "Moon": {
-      "en": "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
-      "de": "Tagsüber saugt es im Schlaf Nährstoffe aus den Wurzeln der Bäume. Nachts wacht es auf und macht sich auf die Suche nach frischen Bäumen."
-    },
-    "Ultra Sun": {
-      "en": "It scatters its shining spores around itself. Even though they’re dangerous, nighttime tours of forests where Morelull live are popular.",
-      "de": "Es streut blinkende Sporen aus. Obgleich nicht ungefährlich, sind nächtliche Führungen durch Wälder, in denen Bubungus leben, sehr beliebt."
-    },
-    "Ultra Moon": {
-      "en": "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
-      "de": "Es bevorzugt dunkle, feuchte Orte. Nachts fangen die Sporen in seinen Pilzhüten an zu leuchten."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 70,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

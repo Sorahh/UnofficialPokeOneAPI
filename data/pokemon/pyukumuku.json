@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Pyukumuku",
-    "jp": "ナマコブシ Namakobushi",
-    "fr": "Concombaffe",
-    "es": "Pyukumuku",
-    "de": "Gufa",
-    "it": "Pyukumuku"
-  },
+  "name" : "Pyukumuku",
   "national_id": 771,
-  "alola_id": 200,
+  
   "types": [
     "Water"
   ],
@@ -25,22 +18,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 60,
+ 
   "egg_groups": [
     "Water 1"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "2.6 lbs.",
   "weight_eu": "1.2 kg",
-  "base_exp_yield": 144,
-  "leveling_rate": "Fast",
-  "color": "Black",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -57,67 +47,23 @@
     "sp_def": 130,
     "speed": 5
   },
-  "categories": {
-    "en": "Sea Cucumber Pokémon",
-    "de": "Seegurke"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
-      "de": "Es lebt an Stränden oder in flachen Gewässern. Im Kampf und zum Schnappen von Beute lässt es seine Organe hervorschnellen."
-    },
-    "Moon": {
-      "en": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
-      "de": "Es lebt häufig an Stränden. Seine Schleimschicht eignet sich nach jedem Sonnenbad optimal zur Hautpflege."
-    },
-    "Ultra Sun": {
-      "en": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
-      "de": "Das heutzutage übliche Gufa-Schleudern ist aus dem Brauch entstanden, angespülte Gufa wieder ins Meer zurückzuwerfen."
-    },
-    "Ultra Moon": {
-      "en": "Its entire body is covered in its own slime. If you accidentally step on one, you’ll slip, and it will get mad and smack you!",
-      "de": "Wer versehentlich auf seinen glitschigen Körper tritt, rutscht nicht nur aus, sondern handelt sich auch Gufas Ärger und Hiebe ein."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 157,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

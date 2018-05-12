@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Incineroar",
-    "jp": "ガオガエン Gaogaen",
-    "fr": "Félinferno",
-    "es": "Incineroar",
-    "de": "Fuegro",
-    "it": "Incineroar"
-  },
+  "name" : "Incineroar",
   "national_id": 727,
-  "alola_id": 6,
+  
   "types": [
     "Fire",
     "Dark"
@@ -26,22 +19,19 @@
     "male": 87.5,
     "female": 12.5
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "183.0 lbs.",
   "weight_eu": "83.0 kg",
-  "base_exp_yield": 239,
-  "leveling_rate": "Medium Slow",
-  "color": "Red",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -59,66 +49,22 @@
     "speed": 60
   },
   "evolution_from": "Torracat",
-  "categories": {
-    "en": "Heel Pokémon",
-    "de": "Fiesling"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "This Pokémon has a violent, selfish disposition. If it's not in the mood to listen, it will ignore its Trainer's orders with complete nonchalance.",
-      "de": "Ein raues und selbstsüchtiges Pokémon. Wenn es keine Lust hat, ignoriert es auch schon mal die Befehle seines Trainers."
-    },
-    "Moon": {
-      "en": "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.",
-      "de": "Nach einer Reihe heftiger Schläge und Tritte schießt es Feuer aus seinem Bauchnabel, um dem Gegner den Garaus zu machen."
-    },
-    "Ultra Sun": {
-      "en": "Although it’s rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
-      "de": "Es ist wild und egoistisch, aber Schwächere anzugreifen findet es langweilig und abstoßend. Nur gegen Stärkere kommt es richtig in Fahrt."
-    },
-    "Ultra Moon": {
-      "en": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
-      "de": "Entbrennt sein Kampfeswille, lodern die Flammen um seine Hüfte noch heftiger auf."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 6,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

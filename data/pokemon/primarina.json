@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Primarina",
-    "jp": "アシレーヌ Ashirene",
-    "fr": "Oratoria",
-    "es": "Primarina",
-    "de": "Primarene",
-    "it": "Primarina"
-  },
+  "name" : "Primarina",
   "national_id": 730,
-  "alola_id": 9,
+  
   "types": [
     "Water",
     "Fairy"
@@ -26,23 +19,20 @@
     "male": 87.5,
     "female": 12.5
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "97.0 lbs.",
   "weight_eu": "44.0 kg",
-  "base_exp_yield": 239,
-  "leveling_rate": "Medium Slow",
-  "color": "Blue",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -60,66 +50,22 @@
     "speed": 60
   },
   "evolution_from": "Brionne",
-  "categories": {
-    "en": "Soloist Pokémon",
-    "de": "Solist"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
-      "de": "Es kontrolliert mit seinem Gesang Wasserblasen. Die Melodie, die über Generationen im Rudel überliefert wird, lernt es von seinen Kameraden."
-    },
-    "Moon": {
-      "en": "Its singing voice is its chief weapon in battle. This Pokémon's Trainer must prioritize the daily maintenance of its throat at all costs.",
-      "de": "Es kämpft unter vollem Einsatz seiner Gesangsstimme. Zu den Aufgaben seines Trainers zählen somit Pflege und Schonung der Stimmbänder."
-    },
-    "Ultra Sun": {
-      "en": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
-      "de": "Für Primarene ist jeder Kampf wie eine Aufführung. Es erlegt seine Beute mithilfe von anmutigem Gesang und Tanzschritten."
-    },
-    "Ultra Moon": {
-      "en": "Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song.",
-      "de": "Der Anblick, wenn es in vom Mond erhellten Nächten seine singende Kolonie dirigiert, ist magisch. Es wird auch Primadonna genannt."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 9,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

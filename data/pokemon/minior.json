@@ -1,14 +1,8 @@
 {
-  "names": {
-    "en": "Minior",
-    "de": "Meteno",
-    "es": "Minior",
-    "fr": "Météno",
-    "it": "Minior",
-    "jp": "メテノ Meteno"
-  },
+  "name": "Minior",
+   
   "national_id": 774,
-  "alola_id": 213,
+  
   "types": [
     "Rock",
     "Flying"
@@ -18,22 +12,19 @@
       "name": "Shields Down"
     }
   ],
-  "catch_rate": 30,
+ 
   "egg_groups": [
     "Mineral"
   ],
-  "hatch_time": [
-    6425,
-    6681
-  ],
+  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "88.2 lbs.",
   "weight_eu": "40.0 kg",
-  "base_exp_yield": 154,
-  "leveling_rate": "Medium Slow",
-  "color": "Brown",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -51,32 +42,12 @@
     "speed": 60
   },
   "gender_ratios": null,
-  "categories": {
-    "en": "Meteor Pokémon",
-    "de": "Meteor"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "mega_evolutions": [
-
-  ],
-  "evolutions": [
-
-  ],
-  "evolution_from": null,
-  "variation_names": {
-    "en": "Meteor Form",
-    "de": "Meteorform"
-  },
+  
   "variations": [
     {
       "condition": "using Shields Down",
       "image_suffix": "core",
-      "names": {
+      "name": {
         "en": "Core",
         "de": "Farbige Kerne"
       },
@@ -104,47 +75,11 @@
       }
     }
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
-      "de": "Eigentlich lebt es in der Ozonschicht, doch wenn seine Schale zu schwer wird, stürzt es auf die Erde."
-    },
-    "Moon": {
-      "en": "Strong impacts can knock it out of its shell. This Pokémon was born from mutated nanoparticles.",
-      "de": "Heftige Stöße lassen seine Schale abblättern. Eine Mutation von Nanopartikeln brachte dieses Pokémon hervor."
-    },
-    "Ultra Sun": {
-      "en": "It lives in the ozone layer, where it becomes food for stronger Pokémon. When it tries to run away, it falls to the ground.",
-      "de": "Meteorform: Es lebt in der Ozonschicht und dient stärkeren Pokémon als Nahrung. Wenn es vor ihnen flieht, stürzt es auf die Oberfläche des Planeten.\nFarbiger Kern: Alola ist einer der wenigen Orte, an denen es möglich ist, dieses Pokémon vom Nachthimmel herabfallen zu sehen."
-    },
-    "Ultra Moon": {
-      "en": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
-      "de": "Meteorform: Seine äußere Schale ist zwar sehr robust, durch den Aufprall auf der Oberfläche des Planeten zersplittert sie allerdings.\nFarbiger Kern: In dieser Form hat es seine Schale verloren. Die Inhaltsstoffe in Metenos Nahrung nehmen Einfluss auf die Färbung seines Kerns."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 98,
+  
+  "evolutions": [
+  ],
+  
+  
   "move_learnsets": [
     {
       "games": [

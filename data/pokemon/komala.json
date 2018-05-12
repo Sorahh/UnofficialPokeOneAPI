@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Komala",
-    "jp": "ネッコアラ Nekkoara",
-    "fr": "Dodoala",
-    "es": "Komala",
-    "de": "Koalelu",
-    "it": "Komala"
-  },
+  "name" : "Komala",
   "national_id": 775,
-  "alola_id": 222,
+  
   "types": [
     "Normal"
   ],
@@ -21,22 +14,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "43.9 lbs.",
   "weight_eu": "19.9 kg",
-  "base_exp_yield": 168,
-  "leveling_rate": "Slow",
-  "color": "Blue",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -53,67 +43,23 @@
     "sp_def": 95,
     "speed": 65
   },
-  "categories": {
-    "en": "Drowsing Pokémon",
-    "de": "Halbschlaf"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
-      "de": "Es wird schlafend geboren und stirbt schlafend. Sein ganzes Leben ist ein Traum, seine einzige körperliche Aktivität das Umdrehen im Schlaf."
-    },
-    "Moon": {
-      "en": "The log it holds was given to it by its parents at birth. It has also been known to cling to the arm of a friendly Trainer.",
-      "de": "Den Baumstumpf bekam es zu seiner Geburt von seinen Eltern. Fasst es Zutrauen, klammert es sich aber auch am Arm seines Trainers fest."
-    },
-    "Ultra Sun": {
-      "en": "It stays asleep from the moment it’s born. When it falls into a deep sleep, it stops moving altogether.",
-      "de": "Vom Augenblick seiner Geburt an verbringt es sein ganzes Leben schlafend. Wenn es extrem tief schläft, wird es völlig regungslos."
-    },
-    "Ultra Moon": {
-      "en": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
-      "de": "Es verbringt sein Leben schlafend, bis es stirbt. Das liegt an den narkotisierenden Wirkstoffen, die in den Blättern enthalten sind, die es frisst."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 107,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

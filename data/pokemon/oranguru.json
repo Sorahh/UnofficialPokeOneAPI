@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Oranguru",
-    "jp": "ヤレユータン Yareyūtan",
-    "fr": "Gouroutan",
-    "es": "Oranguru",
-    "de": "Kommandutan",
-    "it": "Oranguru"
-  },
+  "name" : "Oranguru",
   "national_id": 765,
-  "alola_id": 176,
+  
   "types": [
     "Normal",
     "Psychic"
@@ -26,22 +19,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "167.6 lbs.",
   "weight_eu": "76.0 kg",
-  "base_exp_yield": 172,
-  "leveling_rate": "Slow",
-  "color": "White",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -58,67 +48,23 @@
     "sp_def": 110,
     "speed": 60
   },
-  "categories": {
-    "en": "Sage Pokémon",
-    "de": "Weisheit"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "Known for its extreme intelligence, this Pokémon will look down on inexperienced Trainers, so it's best suited to veteran Trainers.",
-      "de": "Es ist als extrem schlaues Pokémon bekannt. Nicht so beliebt bei unerfahrenen Trainern, doch Veteranen wissen es zu schätzen."
-    },
-    "Moon": {
-      "en": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking.",
-      "de": "Lebt auf Baumwipfeln im tiefsten Dschungel. Ab und an erscheint es am Strand, um sich epische Quiz-Duelle mit Laschoking zu liefern."
-    },
-    "Ultra Sun": {
-      "en": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.",
-      "de": "Es verbringt die meiste Zeit in Meditation auf Baumwipfeln. Manchmal wirft es Pokébälle auf Pokémon und erteilt ihnen Befehle."
-    },
-    "Ultra Moon": {
-      "en": "Oranguru don’t get along with each other, so they’re always engaging in battles of wits to decide which one is superior.",
-      "de": "Kommandutan kommen nicht gut miteinander aus. Ständig wetteifern sie, wer von ihnen wohl am klügsten sei."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 116,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

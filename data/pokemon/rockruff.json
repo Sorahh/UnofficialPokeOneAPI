@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Rockruff",
-    "jp": "イワンコ Iwanko",
-    "fr": "Rocabot",
-    "es": "Rockruff",
-    "de": "Wuffels",
-    "it": "Rockruff"
-  },
+  "name" : "Rockruff",
   "national_id": 744,
-  "alola_id": 103,
+  
   "types": [
     "Rock"
   ],
@@ -25,22 +18,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 190,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "20.3 lbs.",
   "weight_eu": "9.2 kg",
-  "base_exp_yield": 56,
-  "leveling_rate": "Medium Fast",
-  "color": "Brown",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -63,64 +53,21 @@
       "level": 25
     }
   ],
-  "categories": {
-    "en": "Puppy Pokémon",
-    "de": "Hund"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
-      "de": "Dieses sehr zutrauliche Pokémon wird oft frischgebackenen Trainern empfohlen. Mit dem Alter wird es jedoch immer wilder."
-    },
-    "Moon": {
-      "en": "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer's side.",
-      "de": "Es lebte schon immer mit Menschen zusammen und kann spüren, wenn sein Trainer traurig ist. Es weicht dann nicht mehr von seiner Seite."
-    },
-    "Ultra Sun": {
-      "en": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
-      "de": "Mit dem Alter werden sie immer angriffslustiger und wilder. Trainer, die damit nicht umgehen können, setzen sie deshalb oft aus."
-    },
-    "Ultra Moon": {
-      "en": "When it rubs the rocks on its neck against you, that’s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
-      "de": "Reibt es seinen steinernen Fellkragen an einem Trainer, ist das ein Zeichen seiner Zuneigung. Da er jedoch scharf ist, besteht Verletzungsgefahr."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 65,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

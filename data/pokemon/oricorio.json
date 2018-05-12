@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Oricorio",
-    "jp": "オドリドリ Odoridori",
-    "fr": "Plumeline",
-    "es": "Oricorio",
-    "de": "Choreogel",
-    "it": "Oricorio"
-  },
+  "name" : "Oricorio",
   "national_id": 741,
-  "alola_id": 82,
+  
   "types": [
     "Fire",
     "Flying"
@@ -22,22 +15,21 @@
     "male": 25.0,
     "female": 75.0
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Flying"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "7.5 lbs.",
   "weight_eu": "3.4 kg",
-  "base_exp_yield": 167,
-  "leveling_rate": "Medium Fast",
-  "color": "Red",
-  "base_friendship": 70,
+  
+  "evolutions": [
+    
+  ],
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -54,32 +46,12 @@
     "sp_def": 70,
     "speed": 93
   },
-  "categories": {
-    "en": "Dancing Pokémon",
-    "de": "Tanz"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "mega_evolutions": [
-
-  ],
-  "evolutions": [
-
-  ],
-  "evolution_from": null,
-  "variation_names": {
-    "en": "Baile Style",
-    "de": "Flamenco-Stil"
-  },
+  
   "variations": [
     {
       "condition": "using Nectar",
       "image_suffix": "pompom",
-      "names": {
+      "name": {
         "en": "Pom-Pom Style",
         "de": "Cheerleading-Stil"
       },
@@ -91,7 +63,7 @@
     {
       "condition": "using Nectar",
       "image_suffix": "pau",
-      "names": {
+      "name": {
         "en": "Pa'u Style",
         "de": "Hula-Stil"
       },
@@ -103,7 +75,7 @@
     {
       "condition": "using Nectar",
       "image_suffix": "sensu",
-      "names": {
+      "name": {
         "en": "Sensu Style",
         "de": "Buyo-Stil"
       },
@@ -113,47 +85,9 @@
       ]
     }
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
-      "de": "Schlägt es mit den Flügeln, gibt es Zunder! Mit eleganten Ausfallschritten lässt es dann Feuer auf seine Gegner herabregnen."
-    },
-    "Moon": {
-      "en": "This Oricorio has sipped red nectar. Its passionate dance moves cause its enemies to combust in both body and mind.",
-      "de": "Ein Choreogel, das roten Nektar geschlürft hat. Mit seinen hitzigen Tanzschritten versengt es Körper und Geist eines jeden Gegners."
-    },
-    "Ultra Sun": {
-      "en": "It wins the hearts of its enemies with its passionate dancing and then uses the opening it creates to burn them up with blazing flames.",
-      "de": "Cheerleading-Stil: Sein heiterer Tanz verleitet den Gegner zur Unachtsamkeit, was es dazu nutzt, um diesem einen elektrischen Schlag zu verpassen.\nHula-Stil: Sein eleganter Tanz verleitet den Gegner zur Nachlässigkeit, was es dazu nutzt, seine Psycho-Kräfte auf ihn abzufeuern.\nFlamenco-Stil: Mit feurigen Tanzschritten zieht es Gegner in seinen Bann und nutzt ihre Unachtsamkeit, um sie mit lodernden Flammen einzuäschern.\nBuyo-Stil: Sein anmutiger Tanz betört den Gegner. Diese Unachtsamkeit nutzt es, um fatale Flüche auf ihn herabregnen zu lassen."
-    },
-    "Ultra Moon": {
-      "en": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
-      "de": "Cheerleading-Stil: Ein Choreogel, das gelben Nektar geschlürft hat. Wenn jemand bedrückt wirkt, versucht es diesen mit seinem fröhlichen Tanz aufzumuntern.\nHula-Stil: Ein Choreogel, das rosa Nektar geschlürft hat. Während es tanzt, wird alles andere für es zur Nebensache, selbst die Befehle seines Trainers.\nFlamenco-Stil: Ein Choreogel, das roten Nektar geschlürft hat. Es neigt zur Theatralik. Gibt ihm sein Trainer einen falschen Befehl, macht es ihm eine Szene.\nBuyo-Stil: Ein Choreogel, das purpurnen Nektar geschlürft hat. Viele Tänzer lassen sich von seinen grazilen Bewegungen inspirieren."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 41,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

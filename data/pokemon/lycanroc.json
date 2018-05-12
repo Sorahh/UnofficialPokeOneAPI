@@ -1,49 +1,24 @@
 {
-  "names": {
-    "en": "Lycanroc",
-    "jp": "ルガルガン Lugarugan",
-    "fr": "Lougaroc",
-    "es": "Lycanroc",
-    "de": "Wolwerock",
-    "it": "Lycanroc"
-  },
-  "national_id": 745,
-  "alola_id": 104,
+  "name": "Lycanroc",
+  "national_id" : "745",
   "types": [
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
-      "name": "Sand Rush"
+      "name": "Vital Spirit"
     },
     {
-      "name": "Steadfast",
+      "name": "No Guard",
       "hidden": true
     }
   ],
-  "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
-  },
-  "catch_rate": 90,
-  "egg_groups": [
-    "Field"
-  ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
-  "height_us": "2'07\"",
-  "height_eu": "0.8 m",
+  "height_us": "3'07\"",
+  "height_eu": "1.1 m",
   "weight_us": "55.1 lbs.",
-  "weight_eu": "25.0 kg",
-  "base_exp_yield": 170,
-  "leveling_rate": "Medium Fast",
-  "color": "Brown",
-  "base_friendship": 70,
+  "weight_eu": "15.0 kg",
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -53,120 +28,25 @@
     "speed": 0
   },
   "base_stats": {
-    "hp": 75,
+    "hp": 85,
     "atk": 115,
-    "def": 65,
+    "def": 75,
     "sp_atk": 55,
-    "sp_def": 65,
-    "speed": 112
+    "sp_def": 75,
+    "speed": 82
   },
-  "evolution_from": "Rockruff",
-  "categories": {
-    "en": "Wolf Pokémon",
-    "de": "Wolf"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "mega_evolutions": [
-
+  "egg_groups": [
+    "Undiscovered"
   ],
   "evolutions": [
-
   ],
-  "variation_names": {
-    "en": "Midday Form",
-    "de": "Tagform"
-  },
-  "variations": [
-    {
-      "condition": "Pokémon Moon",
-      "image_suffix": "night",
-      "names": {
-        "en": "Midnight Form",
-        "de": "Nachtform"
-      },
-      "types": [
-        "Rock"
-      ],
-      "abilities": [
-        {
-          "name": "Keen Eye"
-        },
-        {
-          "name": "Vital Spirit"
-        },
-        {
-          "name": "No Guard",
-          "hidden": true
-        }
-      ],
-      "height_us": "3'07\"",
-      "height_eu": "1.1 m",
-      "weight_us": "55.1 lbs.",
-      "weight_eu": "15.0 kg",
-      "base_stats": {
-        "hp": 85,
-        "atk": 115,
-        "def": 75,
-        "sp_atk": 55,
-        "sp_def": 75,
-        "speed": 82
-      }
-    }
-  ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
-      "de": "Irritiert seine Feinde mit schnellen Bewegungen. Als Waffen hat es nicht nur Krallen und Hauer, sondern auch die spitzen Felsen seiner Mähne."
-    },
-    "Moon": {
-      "en": "When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.",
-      "de": "Zieht man diese Pokémon von klein auf groß, wird es seinen Trainer niemals hintergehen und ihm stehts ein treuer Freund sein."
-    },
-    "Ultra Sun": {
-      "en": "The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.",
-      "de": "Tagform: Seine steinerne Mähne ist scharf wie ein Messer. Es verfolgt seine Beute mit viel Geduld, bis diese die Kräfte verlassen, und erlegt sie dann.\nNachtform: Befehle, die ihm nicht zusagen, missachtet es einfach. Um den Gegner zu besiegen, nimmt es auch Verletzungen in Kauf.\nZwielichtform: Diese besondere Entwicklung vollzog es durch ein Bad in der Abendsonne. Es wirkt zwar ruhig, aber in ihm schlummert ein großer Kampfgeist."
-    },
-    "Ultra Moon": {
-      "en": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
-      "de": "Tagform: Seine steinerne Mähne ist schärfer als ein Messer. Abgebrochene Stücke gelten als wertvolle Glücksbringer.\nNachtform: Diese Pokémon sind Einzelgänger und bilden keine Rudel. Sie gehorchen nur Trainern, die es schaffen, ihnen ihre ganze Kraft zu entlocken.\nZwielichtform: Eine eigenartige Form, die durch die Entwicklung im abendlichen Zwielicht entstand. In ganz Alola scheint es kein weiteres Exemplar zu geben."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 66,
-  "move_learnsets": [
-    {
+  "evolution_from": "Rockruff",
+  "move_learnsets": [{
       "games": [
         "Sun",
         "Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Accelerock",
           "level": 1,
           "variations": [
@@ -573,8 +453,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Accelerock",
           "level": 1,
           "variations": [

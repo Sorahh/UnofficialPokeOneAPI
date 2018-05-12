@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Brionne",
-    "jp": "オシャマリ Osyamari",
-    "fr": "Otarlette",
-    "es": "Brionne",
-    "de": "Marikeck",
-    "it": "Brionne"
-  },
+  "name" : "Brionne",
   "national_id": 729,
-  "alola_id": 8,
+  
   "types": [
     "Water"
   ],
@@ -25,23 +18,20 @@
     "male": 87.5,
     "female": 12.5
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "38.6 lbs.",
   "weight_eu": "17.5 kg",
-  "base_exp_yield": 147,
-  "leveling_rate": "Medium Slow",
-  "color": "Blue",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -65,63 +55,20 @@
       "level": 34
     }
   ],
-  "categories": {
-    "en": "Pop Star Pokémon",
-    "de": "Popsternchen"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
-      "de": "Dieser begnadete Tänzer erzeugt beim Tanzen eine Wasserblase nach der anderen und greift damit seine Feinde an."
-    },
-    "Moon": {
-      "en": "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.",
-      "de": "Fühlt sich anderen sehr verbunden. Wenn sein Trainer schlechte Laune hat, muntert es ihn mit einem Tänzchen auf."
-    },
-    "Ultra Sun": {
-      "en": "It gets excited when it sees a dance it doesn’t know. This hard worker practices diligently until it can learn that dance.",
-      "de": "Sieht es einen Tanz, den es nicht kennt, wird es ganz aufgeregt. Dann übt es fleißig, bis es ihn gemeistert hat."
-    },
-    "Ultra Moon": {
-      "en": "It attacks by smacking its enemies with the exploding water balloons that it creates.",
-      "de": "Es erzeugt Wasserblasen, die es mit seinen Flossen auf Gegner schleudert. Die Blasen platzen dadurch und schaden dem Ziel."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 8,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

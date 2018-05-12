@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Kartana",
-    "jp": "カミツルギ Kamitsurugi",
-    "fr": "Katagami",
-    "es": "Kartana",
-    "de": "Katagami",
-    "it": "Kartana"
-  },
+  "name" : "Kartana",
   "national_id": 798,
-  "alola_id": 298,
+  
   "types": [
     "Grass",
     "Steel"
@@ -18,22 +11,19 @@
       "name": "Beast Boost"
     }
   ],
-  "catch_rate": 255,
+ 
   "egg_groups": [
     "Undiscovered"
   ],
-  "hatch_time": [
-    30840,
-    31096
-  ],
+  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "0.2 lbs.",
   "weight_eu": "0.1 kg",
-  "base_exp_yield": 114,
-  "leveling_rate": "Slow",
-  "color": "White",
-  "base_friendship": 0,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -51,67 +41,23 @@
     "speed": 109
   },
   "gender_ratios": null,
-  "categories": {
-    "en": "Drawn Sword Pokémon",
-    "de": "Schwertkunst"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
-      "de": "Eine Ultrabestie, die zwar nicht von sich aus anzugreifen scheint, deren rasiermesserscharfer Körper aber eine gefährliche Waffe darstellt."
-    },
-    "Moon": {
-      "en": "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade.",
-      "de": "Diese Ultrabestie wurde dabei beobachtet, wie sie einen riesigen stählernen Turm mit nur einem Hieb ihrer Klingen zerteilte."
-    },
-    "Ultra Sun": {
-      "en": "This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword.",
-      "de": "Der Körper dieser Ultrabestie ist dünn wie Papier und so scharfkantig wie eine geschliffene Klinge."
-    },
-    "Ultra Moon": {
-      "en": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-      "de": "In dieser Welt wirkt sein Aussehen gefährlich und fremdartig, doch in seiner ursprünglichen Welt ist es ein ganz gewöhnliches Lebewesen."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 398,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

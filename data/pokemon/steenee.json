@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Steenee",
-    "jp": "アママイコ Amamaiko",
-    "fr": "Candine",
-    "es": "Steenee",
-    "de": "Frubaila",
-    "it": "Steenee"
-  },
+  "name" : "Steenee",
   "national_id": 762,
-  "alola_id": 172,
+  
   "types": [
     "Grass"
   ],
@@ -24,22 +17,19 @@
   "gender_ratios": {
     "female": 100.0
   },
-  "catch_rate": 120,
+ 
   "egg_groups": [
     "Grass"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "18.1 lbs.",
   "weight_eu": "8.2 kg",
-  "base_exp_yield": 102,
-  "leveling_rate": "Medium Slow",
-  "color": "Purple",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -65,63 +55,20 @@
       "move_learned": "Stomp"
     }
   ],
-  "categories": {
-    "en": "Fruit Pokémon",
-    "de": "Obst"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.",
-      "de": "Seinen Blütenkelch hat es zum Selbstschutz ausgebildet. Er ist so hart, dass selbst das Picken von Vogel-Pokémon es nicht stört."
-    },
-    "Moon": {
-      "en": "This Pokémon is always bouncing around energetically. Other Pokémon are attracted by its lively appearance and pleasant aroma.",
-      "de": "Es hüpft immerzu fröhlich umher. Seine lebensfrohe Art und sein Wohlgeruch ziehen Pokémon in der Nähe förmlich an."
-    },
-    "Ultra Sun": {
-      "en": "It’s protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn’t care.",
-      "de": "Es kann bedenkenlos mit Vogel-Pokémon spielen, da sein fester Blütenkelch es schützt. Das pausenlose Gepicke ist ihm einerlei."
-    },
-    "Ultra Moon": {
-      "en": "It bounces around, swinging the sepals on its head with abandon. They’re quite painful when they smack you!",
-      "de": "Es bewegt sich hüpfend umher und schüttelt dabei den Blütenkelch auf seinem Kopf. Ein Zusammenprall mit ihm ist ziemlich schmerzhaft."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 109,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

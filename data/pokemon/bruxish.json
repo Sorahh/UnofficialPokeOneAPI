@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Bruxish",
-    "jp": "トハギギシリ Hagigishiri",
-    "fr": "Denticrisse",
-    "es": "Bruxish",
-    "de": "Knirfish",
-    "it": "Bruxish"
-  },
+  "name" : "Bruxish",
   "national_id": 779,
-  "alola_id": 243,
+  
   "types": [
     "Water",
     "Psychic"
@@ -26,22 +19,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 80,
+ 
   "egg_groups": [
     "Water 2"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "41.9 lbs.",
   "weight_eu": "19.0 kg",
-  "base_exp_yield": 166,
-  "leveling_rate": "Medium Fast",
-  "color": "Pink",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -58,67 +48,23 @@
     "sp_def": 70,
     "speed": 92
   },
-  "categories": {
-    "en": "Gnash Teeth Pokémon",
-    "de": "Knirschzahn"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
-      "de": "Wenn es über den Fortsatz an seinem Kopf Psycho-Kräfte freisetzt, ertönt in seiner Umgebung ein unangenehmes Zähneknirschen."
-    },
-    "Moon": {
-      "en": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder's shell is no match for it.",
-      "de": "Es lähmt seine Beute mit Psycho-Kräften und zerkaut sie mit seinen kräftigen Zähnen. Auch die Schale von Muschas knackt es problemlos."
-    },
-    "Ultra Sun": {
-      "en": "It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area.",
-      "de": "Es vergräbt sich im Sand und setzt über den Fortsatz an seinem Kopf Psycho-Kräfte frei. So scannt es die Gegend ab und wartet auf Beute."
-    },
-    "Ultra Moon": {
-      "en": "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
-      "de": "Seine Haut ist so hart, dass selbst die Nadeln eines Garstella sie nicht durchdringen. Mit seinen kräftigen Zähnen zerkaut es sie einfach."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 141,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Mimikyu",
-    "jp": "ミミッキュ Mimikkyu",
-    "fr": "Mimiqui",
-    "es": "Mimikyu",
-    "de": "Mimigma",
-    "it": "Mimikyu"
-  },
+  "name" : "Mimikyu",
   "national_id": 778,
-  "alola_id": 242,
+  
   "types": [
     "Ghost",
     "Fairy"
@@ -22,22 +15,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 45,
+ 
   "egg_groups": [
     "Amorphous"
   ],
-  "hatch_time": [
-    5140,
-    5396
-  ],
+  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "1.5 lbs.",
   "weight_eu": "0.7 kg",
-  "base_exp_yield": 167,
-  "leveling_rate": "Medium Fast",
-  "color": "Yellow",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -54,31 +44,11 @@
     "sp_def": 105,
     "speed": 96
   },
-  "categories": {
-    "en": "Disguise Pokémon",
-    "de": "Kostümspuk"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "mega_evolutions": [
-
-  ],
-  "evolutions": [
-
-  ],
-  "evolution_from": null,
-  "variation_names": {
-    "en": "Disguised Form",
-    "de": "Verkleidete Form"
-  },
+  
   "variations": [
     {
       "condition": "when receiving damage",
-      "names": {
+      "name": {
         "en": "Busted Form",
         "de": "Entlarvte Form"
       },
@@ -88,47 +58,10 @@
       ]
     }
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
-      "de": "Niemand weiß, wie es wirklich aussieht. Ein Forscher, der unter seinen Lumpen blickte, soll sich buchstäblich zu Tode erschreckt haben."
-    },
-    "Moon": {
-      "en": "A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
-      "de": "Es versteckt seine schreckliche Gestalt unter einem Lumpen, um sich Menschen und anderen Pokémon zu nähern. Oft fühlt es sich einsam."
-    },
-    "Ultra Sun": {
-      "en": "Although it’s a quiet, lonely Pokémon, if you try to look at what’s under its rag, it will become agitated and resist violently.",
-      "de": "Verkleidete Form: Eigentlich ist es friedlich und sehnt sich nur nach Gesellschaft, doch versucht man, unter seinen Lumpen zu linsen, wehrt es sich heftig.\nEntlarvte Form: Vor dem Spiegel versucht es verzweifelt, den geknickten Hals seines Kostüms aufzurichten. Da es nicht klappen will, weint es bittere Tränen."
-    },
-    "Ultra Moon": {
-      "en": "A gust of wind revealed what hides under this Pokémon’s rag to a passing Trainer, who went home and died painfully that very night.",
-      "de": "Verkleidete Form: Ein Trainer, der durch einen Windstoß Mimigmas wahre Gestalt unter seinem Lumpen erblickte, starb am selben Abend einen qualvollen Tod.\nEntlarvte Form: Es wird traurig, wenn seine wahre Gestalt zum Vorschein zu kommen droht. Wer sein Kostüm beschädigt, zieht seine Rachsucht auf sich."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 136,
+  
+  "evolutions" : [],
+  
+  
   "move_learnsets": [
     {
       "games": [

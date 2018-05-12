@@ -1,10 +1,5 @@
 {
-  "names": {
-    "fr": "Zygarde",
-    "de": "Zygarde",
-    "it": "Zygarde",
-    "en": "Zygarde"
-  },
+"name" : "Zygarde",
   "national_id": 718,
   "types": [
     "Dragon",
@@ -19,20 +14,17 @@
     }
   ],
   "gender_ratios": null,
-  "catch_rate": 3,
+ 
   "egg_groups": [
     "Undiscovered"
   ],
-  "hatch_time": [
-    30855,
-    31109
-  ],
+  
   "height_us": "16'05\"",
   "height_eu": "5.0 m",
   "weight_us": "672.4 lbs.",
   "weight_eu": "305.0 kg",
-  "base_exp_yield": 270,
-  "leveling_rate": "Slow",
+  
+  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -41,8 +33,8 @@
     "sp_def": 0,
     "speed": 0
   },
-  "color": "Green",
-  "base_friendship": 0,
+  
+  
   "base_stats": {
     "hp": 108,
     "atk": 100,
@@ -51,32 +43,13 @@
     "sp_def": 95,
     "speed": 95
   },
-  "alola_id": 205,
-  "categories": {
-    "en": "Order Pokémon",
-    "de": "Ordnung"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": 150,
-  "mega_evolutions": [
-
-  ],
-  "evolutions": [
-
-  ],
-  "evolution_from": null,
-  "variation_names": {
-    "en": "Zygarde 50% Forme",
-    "de": "50%-Zygarde"
-  },
+  
+  "evolutions" : [],
+  
   "variations": [
     {
       "condition": "Inherited or Random",
-      "names": {
+      "name": {
         "en": "Zygarde 10% Forme",
         "de": "10%-Zygarde"
       },
@@ -107,7 +80,7 @@
     },
     {
       "condition": "Inherited or Random",
-      "names": {
+      "name": {
         "en": "Zygarde Complete Forme",
         "de": "Optimum-Zygarde"
       },
@@ -134,266 +107,11 @@
       }
     }
   ],
-  "pokedex_entries": {
-    "X": {
-      "en": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
-      "de": "Wenn das Ökosystem der Kalos-Region kippt, erscheint dieses Pokémon und offenbart seine geheimen Kräfte."
-    },
-    "Y": {
-      "en": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
-      "de": "Es wird gemutmaßt, dass es von seiner Höhle aus all jene beobachtet, die dem Ökosystem Schaden zufügen."
-    },
-    "Omega Ruby": {
-      "en": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
-      "de": "Es wird gemutmaßt, dass es von seiner Höhle aus all jene beobachtet, die dem Ökosystem Schaden zufügen."
-    },
-    "Alpha Sapphire": {
-      "en": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
-      "de": "Es wird gemutmaßt, dass es von seiner Höhle aus all jene beobachtet, die dem Ökosystem Schaden zufügen."
-    },
-    "Sun": {
-      "en": "This is Zygarde's form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.",
-      "de": "Diese Form vereint 50 % der Zellen in sich. Wer diesem Pokémon Widerstand leistet, wird ohne Gnade ausgelöscht."
-    },
-    "Moon": {
-      "en": "It's thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.",
-      "de": "Diese Form nimmt es an, um Lebewesen, die eine Bedrohung für das Ökosystem darstellen, mit überwältigender Kraft zu bezwingen."
-    },
-    "Ultra Sun": {
-      "en": "This is Zygarde’s form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
-      "de": "10%-Form: In dieser Form vereint Zygarde 10 % seiner Zellen in sich. Mit seinen spitzen Fangzähnen stürzt es sich auf den Körper des Gegners.\n50%-Form: In dieser Form vereint Zygarde 50 % seiner Zellen in sich. Seine Aufgabe besteht darin, das Ökosystem zu überwachen.\nOptimumform: In seiner Optimumform stößt Zygarde über die Öffnung in seiner Brust eine extrem starke Energie aus, die alles auslöschen kann."
-    },
-    "Ultra Moon": {
-      "en": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
-      "de": "10%-Form: Diese Form nimmt es an, wenn 10 % seiner Zellen gesammelt wurden. Das Spezialgebiet von diesem Pokémon ist der Nahkampf.\n50%-Form: Im Kampf gegen all jene, die das Ökosystem in Gefahr bringen, nimmt es angeblich eine noch mächtigere Form an.\nOptimumform: Diese Form nimmt es an, wenn 100 % seiner Zellen versammelt sind. Jegliche Schädigung des Ökosystems unterbindet es gewaltsam."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 263,
+  
+  
   "move_learnsets": [
-    {
-      "games": [
-        "X",
-        "Y"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Bulldoze",
-          "level": 1
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 1
-        },
-        {
-          "move": "Glare",
-          "level": 1
-        },
-        {
-          "move": "Safeguard",
-          "level": 5
-        },
-        {
-          "move": "Dig",
-          "level": 10
-        },
-        {
-          "move": "Bind",
-          "level": 18
-        },
-        {
-          "move": "Land's Wrath",
-          "level": 26
-        },
-        {
-          "move": "Sandstorm",
-          "level": 35
-        },
-        {
-          "move": "Haze",
-          "level": 44
-        },
-        {
-          "move": "Crunch",
-          "level": 51
-        },
-        {
-          "move": "Earthquake",
-          "level": 55
-        },
-        {
-          "move": "Camouflage",
-          "level": 59
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 63
-        },
-        {
-          "move": "Dragon Dance",
-          "level": 72
-        },
-        {
-          "move": "Coil",
-          "level": 80
-        },
-        {
-          "move": "Extreme Speed",
-          "level": 88
-        },
-        {
-          "move": "Outrage",
-          "level": 93
-        },
-        {
-          "move": "Strength",
-          "tm": "HM04"
-        },
-        {
-          "move": "Toxic",
-          "tm": "TM06"
-        },
-        {
-          "move": "Hidden Power",
-          "tm": "TM10"
-        },
-        {
-          "move": "Sunny Day",
-          "tm": "TM11"
-        },
-        {
-          "move": "Hyper Beam",
-          "tm": "TM15"
-        },
-        {
-          "move": "Protect",
-          "tm": "TM17"
-        },
-        {
-          "move": "Safeguard",
-          "tm": "TM20"
-        },
-        {
-          "move": "Frustration",
-          "tm": "TM21"
-        },
-        {
-          "move": "Earthquake",
-          "tm": "TM26"
-        },
-        {
-          "move": "Return",
-          "tm": "TM27"
-        },
-        {
-          "move": "Dig",
-          "tm": "TM28"
-        },
-        {
-          "move": "Brick Break",
-          "tm": "TM31"
-        },
-        {
-          "move": "Double Team",
-          "tm": "TM32"
-        },
-        {
-          "move": "Sludge Wave",
-          "tm": "TM34"
-        },
-        {
-          "move": "Sandstorm",
-          "tm": "TM37"
-        },
-        {
-          "move": "Facade",
-          "tm": "TM42"
-        },
-        {
-          "move": "Rest",
-          "tm": "TM44"
-        },
-        {
-          "move": "Round",
-          "tm": "TM48"
-        },
-        {
-          "move": "Focus Blast",
-          "tm": "TM52"
-        },
-        {
-          "move": "Giga Impact",
-          "tm": "TM68"
-        },
-        {
-          "move": "Stone Edge",
-          "tm": "TM71"
-        },
-        {
-          "move": "Bulldoze",
-          "tm": "TM78"
-        },
-        {
-          "move": "Rock Slide",
-          "tm": "TM80"
-        },
-        {
-          "move": "Dragon Tail",
-          "tm": "TM82"
-        },
-        {
-          "move": "Grass Knot",
-          "tm": "TM86"
-        },
-        {
-          "move": "Swagger",
-          "tm": "TM87"
-        },
-        {
-          "move": "Sleep Talk",
-          "tm": "TM88"
-        },
-        {
-          "move": "Substitute",
-          "tm": "TM90"
-        },
-        {
-          "move": "Rock Smash",
-          "tm": "TM94"
-        },
-        {
-          "move": "Confide",
-          "tm": "TM100"
-        }
-      ]
-    },
-    {
-      "games": [
+{
+"games": [
         "Omega Ruby",
         "Alpha Sapphire"
       ],

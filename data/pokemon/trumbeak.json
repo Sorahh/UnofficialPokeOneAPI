@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Trumbeak",
-    "jp": "ケララッパ Kerarappa",
-    "fr": "Piclairon",
-    "es": "Trumbeak",
-    "de": "Trompeck",
-    "it": "Trumbeak"
-  },
+  "name" : "Trumbeak",
   "national_id": 732,
-  "alola_id": 11,
+  
   "types": [
     "Normal",
     "Flying"
@@ -26,22 +19,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 120,
+ 
   "egg_groups": [
     "Flying"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "32.6 lbs.",
   "weight_eu": "14.8 kg",
-  "base_exp_yield": 124,
-  "leveling_rate": "Medium Fast",
-  "color": "Black",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -65,63 +55,20 @@
       "level": 28
     }
   ],
-  "categories": {
-    "en": "Bugle Beak Pokémon",
-    "de": "Trompete"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
-      "de": "Sammelt Beerensamen in seinem Schnabel. Begegnet es Feinden oder Beute, kann es alle auf einmal verschießen."
-    },
-    "Moon": {
-      "en": "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
-      "de": "Indem es seinen Schnabel verformt, kann es eine große Bandbreite an Lauten ausstoßen. Der Alptraum eines jeden Nachbarn."
-    },
-    "Ultra Sun": {
-      "en": "It can bend the tip of its beak to produce over a hundred different cries at will.",
-      "de": "Indem es seine Schnabelspitze verformt, kann es mehr als 100 verschiedene Rufe ausstoßen."
-    },
-    "Ultra Moon": {
-      "en": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
-      "de": "Es feuert mit seinem Schnabel Samen von gefressenen Beeren ab. Aus den Samen, die am Boden liegenbleiben, entstehen neue Pflanzen."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 2,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

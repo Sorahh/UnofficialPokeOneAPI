@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Gumshoos",
-    "jp": "デカグース Dekagūsu",
-    "fr": "Argouste",
-    "es": "Gumshoos",
-    "de": "Manguspektor",
-    "it": "Gumshoos"
-  },
+  "name" : "Gumshoos",
   "national_id": 735,
-  "alola_id": 14,
+  
   "types": [
     "Normal"
   ],
@@ -25,22 +18,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 127,
+ 
   "egg_groups": [
     "Field"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "31.3 lbs.",
   "weight_eu": "14.2 kg",
-  "base_exp_yield": 146,
-  "leveling_rate": "Medium Fast",
-  "color": "Brown",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -58,66 +48,22 @@
     "speed": 45
   },
   "evolution_from": "Yungoos",
-  "categories": {
-    "en": "Stakeout Pokémon",
-    "de": "Beschattung"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "When it finds a trace of its prey, it patiently stakes out the location...but it's always snoozing by nightfall.",
-      "de": "Findet es Spuren potenzieller Beute, legt es sich sofort auf die Lauer. Spätestens bei Sonnenuntergang nickt es aber ein."
-    },
-    "Moon": {
-      "en": "It adores having Rattata and Raticate for dinner, but as it's diurnal, it never encounters them. This Pokémon boasts incredible patience.",
-      "de": "Rattfratz und Rattikarl sind seine Leibspeise, aber leider nachtaktiv und daher selten auf dem Speiseplan. Ein sehr geduldiges Pokémon."
-    },
-    "Ultra Sun": {
-      "en": "Although it wasn’t originally found in Alola, this Pokémon was brought over a long time ago when there was a huge Rattata outbreak.",
-      "de": "Dieses Pokémon lebte ursprünglich nicht in Alola und wurde vor langer Zeit eingeführt, als es eine Überpopulation von Rattfratz in der Region gab."
-    },
-    "Ultra Moon": {
-      "en": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!",
-      "de": "Dieses Pokémon ist eigentlich sehr geduldig. Sieht es jedoch ein Rattfratz, seine Leibspeise, stürzt es sich völlig außer Kontrolle auf es."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 5,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

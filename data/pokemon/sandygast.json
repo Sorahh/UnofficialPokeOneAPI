@@ -1,14 +1,7 @@
 {
-  "names": {
-    "en": "Sandygast",
-    "jp": "スナバァ Sunabā",
-    "fr": "Bacabouh",
-    "es": "Sandygast",
-    "de": "Sankabuh",
-    "it": "Sandygast"
-  },
+  "name" : "Sandygast",
   "national_id": 769,
-  "alola_id": 186,
+  
   "types": [
     "Ghost",
     "Ground"
@@ -26,22 +19,19 @@
     "male": 50.0,
     "female": 50.0
   },
-  "catch_rate": 140,
+ 
   "egg_groups": [
     "Amorphous"
   ],
-  "hatch_time": [
-    3855,
-    4111
-  ],
+  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "154.3 lbs.",
   "weight_eu": "70.0 kg",
-  "base_exp_yield": 64,
-  "leveling_rate": "Medium Fast",
-  "color": "Brown",
-  "base_friendship": 70,
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -64,64 +54,21 @@
       "level": 42
     }
   ],
-  "categories": {
-    "en": "Sand Heap Pokémon",
-    "de": "Sandhaufen"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "sinnoh_id": null,
-  "unova_id": null,
-  "kalos_id": null,
+  
+  
+  
+  
+  
+  
+  
   "mega_evolutions": [
-
   ],
   "evolution_from": null,
   "variations": [
-
   ],
-  "pokedex_entries": {
-    "Sun": {
-      "en": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.",
-      "de": "Der Groll eines verstorbenen Reisenden fuhr in einen Sandhügel, den ein Kind gebaut hatte, und brachte dieses Pokémon in die Welt."
-    },
-    "Moon": {
-      "en": "It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.",
-      "de": "Es kann jeden kontrollieren, der seine Hand in sein Maul steckt, und bringt sie dann dazu, seinen Körper immer weiter zu vergrößern."
-    },
-    "Ultra Sun": {
-      "en": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
-      "de": "Die Schaufel auf seinem Kopf ist sein größter Schatz. Versucht ein Kind, sich seine Schaufel zurückzuholen, gibt es diese nicht kampflos auf."
-    },
-    "Ultra Moon": {
-      "en": "If you build sand mounds when you’re playing, destroy them before you go home, or they may get possessed and become Sandygast.",
-      "de": "Lässt man beim Spielen gebaute Sandhaufen zurück, kann es vorkommen, dass sich eine Seele dort einnistet und ein Sankabuh entsteht."
-    }
-  },
-  "pokeathlon_stats": {
-    "speed": [
-      0,
-      0
-    ],
-    "power": [
-      0,
-      0
-    ],
-    "stamina": [
-      0,
-      0
-    ],
-    "skill": [
-      0,
-      0
-    ],
-    "jump": [
-      0,
-      0
-    ]
-  },
-  "ultra_alola_id": 126,
+  
+  
+  
   "move_learnsets": [
     {
       "games": [

@@ -1,23 +1,14 @@
 {
-  "names": {
-    "en": "Stakataka",
-    "fr": "Ama-Ama",
-    "es": "Stakataka",
-    "de": "Muramura",
-    "it": "Stakataka"
-  },
-  "categories": {
-    "en": "Rampart Pokémon",
-    "de": "Steinmauer"
-  },
-  "kanto_id": null,
-  "johto_id": null,
-  "hoenn_id": null,
-  "unova_id": null,
-  "kalos_id": null,
-  "sinnoh_id": null,
-  "alola_id": null,
-  "ultra_alola_id": 391,
+  "name" : "Stakataka",
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,24 +25,12 @@
     "sp_def": 101,
     "speed": 13
   },
-  "pokedex_entries": {
-    "Ultra Sun": {
-      "en": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
-      "de": "Diese Kreatur kam durch eine Ultrapforte. Sie besteht anscheinend aus mehreren aufeinandergestapelten Wesen."
-    },
-    "Ultra Moon": {
-      "en": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
-      "de": "Diese rätselhafte Lebensform ist vermutlich eine Ultrabestie. Sie sieht aus wie eine Steinmauer, bis sie sich plötzlich bewegt und angreift."
-    }
-  },
+  
   "variations": [
-
   ],
   "mega_evolutions": [
-
   ],
   "evolutions": [
-
   ],
   "evolution_from": null,
   "national_id": 805,
@@ -68,19 +47,16 @@
       "name": "Beast Boost"
     }
   ],
-  "catch_rate": 0,
-  "base_friendship": 0,
-  "base_exp_yield": 0,
-  "leveling_rate": "Slow",
+ 
+  
+  
+  
   "egg_groups": [
     "Undiscovered"
   ],
   "gender_ratios": null,
-  "hatch_time": [
-    1800,
-    1800
-  ],
-  "color": "Gray",
+  
+  
   "move_learnsets": [
     {
       "games": [
@@ -88,7 +64,6 @@
         "Moon"
       ],
       "learnset": [
-
       ]
     },
     {
