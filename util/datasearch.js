@@ -227,7 +227,6 @@ module.exports = {
         var oldbrother;
         var youngbrother;
         var herb;
-        //add to list
         var monica; //monday
         var tuscany; //tuesday
         var wesley; //wednesday
@@ -235,15 +234,19 @@ module.exports = {
         var frieda; //friday
         var santos; //saturday
         var sunny; //sunday
+        var mountMoon;
 
         // already added
         var today;
 
         //Reset
+        if (moment().hour() < "10") {
+            reset = moment().hour(10).minute(03).fromNow() 
+        } else
         if (moment().hour() == "10" && moment().minute() == "03") {
             reset = "Now"
         } else {
-            reset = moment().hour(10).minute(03).fromNow() 
+            reset = moment().day(moment().day() + 1).hour(10).minute(03).fromNow() 
         }
 
         if (moment().day() == "0") {
@@ -323,7 +326,7 @@ module.exports = {
                 arthur = moment().day(4).hour(10).minute(03).fromNow()
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Monday"
         
             }
@@ -345,7 +348,7 @@ module.exports = {
                 arthur = moment().day(4).hour(10).minute(03).fromNow()
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Monday"
         
             } else {
@@ -358,13 +361,13 @@ module.exports = {
                 oldbrother = "Now"
                 youngbrother = moment().day(3).hour(10).minute(03).fromNow()
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
                 tuscany = "Now"
                 wesley = moment().day(3).hour(10).minute(03).fromNow()
                 arthur = moment().day(4).hour(10).minute(03).fromNow()
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Tuesday"
         
             }
@@ -380,13 +383,13 @@ module.exports = {
                 oldbrother = "Now"
                 youngbrother = moment().day(3).hour(10).minute(03).fromNow()
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
                 tuscany = "Now"
                 wesley = moment().day(3).hour(10).minute(03).fromNow()
                 arthur = moment().day(4).hour(10).minute(03).fromNow()
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Tuesday"
         
             } else {
@@ -399,13 +402,13 @@ module.exports = {
                 oldbrother = moment().day(4).hour(10).minute(03).fromNow()
                 youngbrother = "Now"
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
-                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
+                tuscany = moment().day(9).hour(10).minute(03).fromNow()
                 wesley = "Now"
                 arthur = moment().day(4).hour(10).minute(03).fromNow()
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Wednesday"
         
             }
@@ -421,32 +424,32 @@ module.exports = {
                 oldbrother = moment().day(4).hour(10).minute(03).fromNow()
                 youngbrother = "Now"
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
-                tuscany = moment().day(2).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
+                tuscany = moment().day(9).hour(10).minute(03).fromNow()
                 wesley = "Now"
                 arthur = moment().day(4).hour(10).minute(03).fromNow()
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Wednesday"
         
             } else {
                 bugContest = "Now"
-                LakeofRage = moment().day(3).hour(10).minute(03).fromNow()
+                LakeofRage = moment().day(10).hour(10).minute(03).fromNow()
                 laprasEvent = moment().day(5).hour(10).minute(03).fromNow()
                 toOlivine = "Now"
                 toVermilion = moment().day(5).hour(10).minute(03).fromNow()
-                moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                moomoo = moment().day(7).hour(10).minute(03).fromNow()
                 oldbrother = "Now"
                 youngbrother = moment().day(5).hour(10).minute(03).fromNow()
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
-                tuscany = moment().day(2).hour(10).minute(03).fromNow()
-                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
+                tuscany = moment().day(9).hour(10).minute(03).fromNow()
+                wesley = moment().day(10).hour(10).minute(03).fromNow()
                 arthur = "Now"
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Thursday"
         
             }
@@ -454,40 +457,40 @@ module.exports = {
         if (moment().day() == "5") {
             if (moment().hour() < "10") {
                 bugContest = "Now"
-                LakeofRage = moment().day(3).hour(10).minute(03).fromNow()
+                LakeofRage = moment().day(10).hour(10).minute(03).fromNow()
                 laprasEvent = moment().day(5).hour(10).minute(03).fromNow()
                 toOlivine = "Now"
                 toVermilion = moment().day(5).hour(10).minute(03).fromNow()
-                moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                moomoo = moment().day(7).hour(10).minute(03).fromNow()
                 oldbrother = "Now"
                 youngbrother = moment().day(5).hour(10).minute(03).fromNow()
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
-                tuscany = moment().day(2).hour(10).minute(03).fromNow()
-                wesley = moment().day(3).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
+                tuscany = moment().day(9).hour(10).minute(03).fromNow()
+                wesley = moment().day(10).hour(10).minute(03).fromNow()
                 arthur = "Now"
                 frieda = moment().day(5).hour(10).minute(03).fromNow()
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Thursday"
         
             } else {
                 bugContest = moment().day(6).hour(10).minute(03).fromNow()
-                LakeofRage = moment().day(3).hour(10).minute(03).fromNow()
+                LakeofRage = moment().day(10).hour(10).minute(03).fromNow()
                 laprasEvent = "Now"
                 toOlivine = moment().day(6).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
-                moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                moomoo = moment().day(7).hour(10).minute(03).fromNow()
                 oldbrother = moment().day(6).hour(10).minute(03).fromNow()
                 youngbrother = "Now"
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
-                tuscany = moment().day(2).hour(10).minute(03).fromNow()
-                wesley = moment().day(3).hour(10).minute(03).fromNow()
-                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
+                tuscany = moment().day(9).hour(10).minute(03).fromNow()
+                wesley = moment().day(10).hour(10).minute(03).fromNow()
+                arthur = moment().day(11).hour(10).minute(03).fromNow()
                 frieda = "Now"
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Friday"
         
             }
@@ -495,40 +498,40 @@ module.exports = {
         if (moment().day() == "6") {
             if (moment().hour() < "10") {
                 bugContest = moment().day(6).hour(10).minute(03).fromNow()
-                LakeofRage = moment().day(3).hour(10).minute(03).fromNow()
+                LakeofRage = moment().day(10).hour(10).minute(03).fromNow()
                 laprasEvent = "Now"
                 toOlivine = moment().day(6).hour(10).minute(03).fromNow()
                 toVermilion = "Now"
-                moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                moomoo = moment().day(7).hour(10).minute(03).fromNow()
                 oldbrother =  moment().day(6).hour(10).minute(03).fromNow()
                 youngbrother = "Now"
                 herb = moment().day(6).hour(10).minute(03).fromNow()
-                monica = moment().day(1).hour(10).minute(03).fromNow()
-                tuscany = moment().day(2).hour(10).minute(03).fromNow()
-                wesley = moment().day(3).hour(10).minute(03).fromNow()
-                arthur = moment().day(4).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
+                tuscany = moment().day(9).hour(10).minute(03).fromNow()
+                wesley = moment().day(10).hour(10).minute(03).fromNow()
+                arthur = moment().day(11).hour(10).minute(03).fromNow()
                 frieda = "Now"
                 santos = moment().day(6).hour(10).minute(03).fromNow()
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Friday"
         
             } else {
                 bugContest = "Now"
-                LakeofRage = moment().day(3).hour(10).minute(03).fromNow()
-                laprasEvent = moment().day(5).hour(10).minute(03).fromNow()
+                LakeofRage = moment().day(10).hour(10).minute(03).fromNow()
+                laprasEvent = moment().day(12).hour(10).minute(03).fromNow()
                 toOlivine = "Now"
-                toVermilion = moment().day(1).hour(10).minute(03).fromNow()
-                moomoo = moment().day(0).hour(10).minute(03).fromNow()
+                toVermilion = moment().day(8).hour(10).minute(03).fromNow()
+                moomoo = moment().day(7).hour(10).minute(03).fromNow()
                 oldbrother = "Now"
-                youngbrother = moment().day(0).hour(10).minute(03).fromNow()
+                youngbrother = moment().day(7).hour(10).minute(03).fromNow()
                 herb = "Now"
-                monica = moment().day(1).hour(10).minute(03).fromNow()
-                tuscany = moment().day(2).hour(10).minute(03).fromNow()
-                wesley = moment().day(3).hour(10).minute(03).fromNow()
-                arthur = moment().day(4).hour(10).minute(03).fromNow()
-                frieda = moment().day(5).hour(10).minute(03).fromNow()
+                monica = moment().day(8).hour(10).minute(03).fromNow()
+                tuscany = moment().day(9).hour(10).minute(03).fromNow()
+                wesley = moment().day(10).hour(10).minute(03).fromNow()
+                arthur = moment().day(11).hour(10).minute(03).fromNow()
+                frieda = moment().day(12).hour(10).minute(03).fromNow()
                 santos = "Now"
-                sunny = moment().day(0).hour(10).minute(03).fromNow()
+                sunny = moment().day(7).hour(10).minute(03).fromNow()
                 today = "Saturday"
         
             }

@@ -83,3 +83,7 @@ app.get("/private/quests/:search?", dsearch.quests);
 app.get("/private/guilds/:search?", dsearch.guilds);
 app.get("/private/location/:search?", dsearch.locations);
 app.get("/private/types/:search?", dsearch.types);
+
+//app.post("/account/ban/:search?", )
+//app.post("/account/unban/:search?", )
+//app.post("/account/make/:search?", )

@@ -1,10 +1,133 @@
 {
-    "route 1": {
-        "area" : "Route 1",
-        "region": "Kanto",
-        "list": [
-            "Rattata",
-            "Pidgey"
-        ]
-    }
+    "new bark town": {
+        "area": "New Bark Town",
+        "region": "Johto",
+        "day": {
+            "grass": [
+                "None"
+            ],
+            "surf": [
+                "None"
+            ],
+            "fishing": [
+                "None"
+            ]
+        },
+        "night": {
+            "grass": [
+                "None"
+            ],
+            "surf": [
+                "None"
+            ],
+            "fishing": [
+                "None"
+            ]
+        }
+    },
+        "route 29": {
+            "area": "Route 29",
+            "region": "Johto",
+            "day": {
+                "grass": [
+                    "Pidgey",
+                    "Rattata",
+                    "Sentret"
+                ],
+                "surf": [
+                    "None"
+                ],
+                "fishing": [
+                    "None"
+                ]
+            },
+            "night": {
+                "grass": [
+                    "Rattata",
+                    "Hoothoot"
+                ],
+                "surf": [
+                    "None"
+                ],
+                "fishing": [
+                    "None"
+                ]
+            }
+        },
+        "cherrygrove city": {
+            "area": "Cherrygrove City",
+            "region": "Johto",
+            "day": {
+                "grass": [
+                    "None"
+                ],
+                "surf": [
+                    "Tentacool",
+                    "Tentacruel",
+                    "Poliwag",
+                    "Poliwhirl"
+                ],
+                "fishing": [
+                    "Krabby",
+                    "Kingler",
+                    "Magikarp",
+                    "Corsola",
+                    "Poliwag"
+                ]
+            },
+            "night": {
+                "grass": [
+                    "None"
+                ],
+                "surf": [
+                    "Tentacool",
+                    "Tentacruel",
+                    "Poliwag",
+                    "Poliwhirl"
+                ],
+                "fishing": [
+                    "Krabby",
+                    "Kingler",
+                    "Magikarp",
+                    "Staryu",
+                    "Poliwag"
+                ]
+            }
+        },
+        "route 30": {
+            "area": "Route 30",
+            "region": "Johto",
+            "day": {
+                "grass": [
+                    "Caterpie",
+                    "Metapod",
+                    "Weedle",
+                    "Kakuna",
+                    "Pidgey"
+                ],
+                "surf": [
+                    "Poliwag"
+                ],
+                "fishing": [
+                    "Poliwag",
+                    "Poliwhirl",
+                    "Magikarp"
+                ]
+            },
+            "night": {
+                "grass": [
+                    "Rattata",
+                    "Hoothoot",
+                    "Spinarak"
+                ],
+                "surf": [
+                    "Poliwag"
+                ],
+                "fishing": [
+                    "Poliwag",
+                    "Poliwhirl",
+                    "Magikarp"
+                ]
+            }
+        }
 }
